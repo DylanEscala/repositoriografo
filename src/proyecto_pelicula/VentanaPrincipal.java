@@ -25,7 +25,7 @@ public class VentanaPrincipal {
     
     public VentanaPrincipal(){
         root= new BorderPane();
-        btn= new Button("Inicia Juego");
+        btn= new Button("Inicia");
         back=new ImageView(new Image("recursos/backGround1.jpg"));
         iniciar();
     }
