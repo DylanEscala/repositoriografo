@@ -5,17 +5,17 @@
  */
 package Graph;
 
+import java.util.Deque;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.ListIterator;
 import java.util.PriorityQueue;
 import java.util.Queue;
-import java.util.Set;
-import java.util.TreeSet;
 
 /**
  *
- * @author Familia
+ * @author Melina Macias
+ * @param <E>
  */
 public class GraphLA<E> {
     
@@ -145,30 +145,125 @@ public class GraphLA<E> {
         return vertice.getEdges().size();
     }
     
-    public void Djikstra(E origen){
-        Vertex<E> start = searchVertex(origen);
-        if (start != null){
-            for (Vertex<E> v: vertexes){
-                v.setDistancia(Integer.MAX_VALUE);
-                v.setAntecesor(null);
-                v.setVisited(false);
+    
+    public boolean contains(E data) {
+        for (Vertex<E>  v : vertexes){
+            if(v.getData().equals(data)){
+                return true;
             }
-            PriorityQueue<Vertex<E>> cola = new PriorityQueue<>((Vertex<E> v1, Vertex<E> v2)->v1.getDistancia()-v2.getDistancia());
-            cola.offer(start);
-            while (!cola.isEmpty()){
-                Vertex<E> u = cola.poll();
-                u.setVisited(true);
-                for (Edge<E> ad : u.getEdges()){
-                    Vertex<E> des = ad.getDestino();
-                    if (!des.isVisited()){
-                        if (des.getDistancia()>u.getDistancia()+ad.getPeso()){
-                            des.setDistancia(u.getDistancia()+ad.getPeso());
-                            des.setAntecesor(u);
-                            cola.offer(des);
-                        }
+        }
+        return false;
+    }
+    
+    public void cleanVertex(){
+        for (Vertex<E> v : this.vertexes) {
+            v.setVisited(false);
+        }
+    }
+    
+    
+    
+    public List<E> bfs(E inicio){
+       List<E> lista = new LinkedList<>();
+       Vertex<E> v = searchVertex(inicio);
+       if(v == null || this.isEmpty()){
+           return lista;
+       }
+       Queue<Vertex<E>> cola = new LinkedList<>();
+       v.setVisited(true);
+       cola.offer(v);
+       while (!cola.isEmpty()) {
+           Vertex<E> vi = cola.poll();
+           lista.add(vi.getData());
+           for(Edge<E> e : vi.getEdges()){
+               if(!e.getDestino().isVisited()){
+                   e.getDestino().setVisited(true);
+                   cola.offer(e.getDestino());  
+                   } 
+               }
+           }
+       cleanVertex();
+       return lista;
+   }
+    
+    
+    public void Djikstra(Vertex<E> origen){
+        
+        //Setea las distancias/Antecesores/Visited
+        cleanVertexDjkstra();
+        origen.setDistancia(0);
+       
+        PriorityQueue<Vertex<E>> cola = new PriorityQueue<>((Vertex<E> v1, Vertex<E> v2)->v1.getDistancia()-v2.getDistancia());
+        cola.offer(origen);
+        while (!cola.isEmpty()){
+            Vertex<E> u = cola.poll();
+            u.setVisited(true);
+            for (Edge<E> arco : u.getEdges()){
+                Vertex<E> des = arco.getDestino();
+                if (!des.isVisited()){
+                    if (des.getDistancia()>u.getDistancia()+arco.getPeso()){
+                        des.setDistancia(u.getDistancia()+arco.getPeso());
+                        des.setAntecesor(u);
+                        cola.offer(des);
                     }
                 }
             }
         }
     }
+    
+    
+    public List<Vertex<E>> getVertexes() {
+        return vertexes;
+    }
+
+    public boolean isDirected() {
+        return directed;
+    }
+    
+    private void cleanVertexDjkstra(){
+        for (Vertex<E> v: vertexes){
+                v.setDistancia(Integer.MAX_VALUE);
+                v.setAntecesor(null);
+                v.setVisited(false);
+            } 
+    }
+    
+    public int menorDistancia(E origen, E destino){
+        if(origen==null||destino==null)
+            return -1;
+        Vertex<E> vo= searchVertex(origen);
+        Vertex<E> vd= searchVertex(destino);
+        if(vd == null || vo == null){
+            return -1;
+        }
+        Djikstra(vo);
+        return vd.getDistancia();
+        
+        
+    }
+    
+    public List<E> caminoMinimo(E origen, E destino){
+        List<E> l = new LinkedList<>();
+        Vertex<E> vo = this.searchVertex(origen);
+        Vertex<E> vd = this.searchVertex(destino);
+        if(vo == null || vd == null){
+            return l;
+        }        
+        Djikstra(vo);
+        Vertex<E> tmp = vd;
+        if(!this.vertexes.contains(tmp)) {   
+            System.out.println("No hay camino");
+        }
+        Deque<Vertex<E>> pila = new LinkedList<>();
+        while((tmp != null)) {
+            pila.push(tmp);
+            tmp = tmp.getAntecesor();
+        }
+        while(!pila.isEmpty()){
+            l.add(pila.pop().getData());
+        }
+        return l;
+    }
+    
+    
 }
