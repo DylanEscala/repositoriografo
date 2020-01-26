@@ -5,17 +5,32 @@
  */
 package proyecto_pelicula;
 
+import javafx.application.Application;
+import javafx.scene.Scene;
+import javafx.stage.Stage;
+
 /**
  *
  * @author Familia
  */
-public class Proyecto_pelicula {
-
+public class Proyecto_pelicula extends Application {
+    public static Scene escena;
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       launch(args);
+    }
+
+    @Override
+    public void start(Stage primaryStage) throws Exception {
+       VentanaPrincipal nuevo= new VentanaPrincipal();
+       escena= new Scene(nuevo.getRoot(),487,495);
+       primaryStage.setTitle("The Oracle");
+       primaryStage.setScene(escena);
+       primaryStage.show();
+       
+       
     }
     
 }
