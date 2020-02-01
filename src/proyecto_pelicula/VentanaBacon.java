@@ -101,20 +101,18 @@ public class VentanaBacon {
             while(bf.ready()){
                 String[] lin=line.split(";");
                 String[] act=lin[3].split(",");
-                for(String i: act){
-                    while(i.charAt(0)==' ' || i.charAt(i.length()-1)==' '){
-                        if(i.charAt(0)==' ')
-                            i=i.substring(1);
-                        if(i.charAt(i.length()-1)==' ')
-                            i=i.substring(0,i.length()-2);
+                for(int i=0;i<act.length;i++){
+                    while(act[i].charAt(0)==' ' || act[i].charAt(act[i].length()-1)==' '){
+                        if(act[i].charAt(0)==' ')
+                            act[i]=act[i].substring(1);
+                        if(act[i].charAt(act[i].length()-1)==' ')
+                            act[i]=act[i].substring(0,act[i].length()-2);
                     }
-                    grafo.addVertex(i);
+                    grafo.addVertex(act[i]);
                 }
-                for(String i: act)
-                    for(String i0: act)
-                        if(i!=i0){
-                            grafo.addEdge(i, i0, 1, lin[1]);
-                        }
+                for(int i=0;i<act.length;i++)
+                    for(int i0=i+1;i0<act.length;i0++)
+                        grafo.addEdge(act[i], act[i0], 1, lin[1]);
             line=bf.readLine();
             }
         } catch (FileNotFoundException ex) {
