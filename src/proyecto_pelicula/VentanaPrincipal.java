@@ -41,7 +41,8 @@ public class VentanaPrincipal {
         btn.setOnMouseClicked(new EventHandler<MouseEvent>() {
             @Override
             public void handle(MouseEvent event) {
-                Proyecto_pelicula.escena.setRoot(new VentanaBacon().getRoot());
+                VentanaBacon vn=new VentanaBacon();
+                Proyecto_pelicula.escena.setRoot(vn.getRoot());
                 
             }
         
