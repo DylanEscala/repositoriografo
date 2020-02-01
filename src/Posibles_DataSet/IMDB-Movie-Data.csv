@@ -1,1001 +1,993 @@
 Rank;Title;Genre;Actors
-1;Guardians of the Galaxy;Action,Adventure,Sci-Fi;Chris Pratt, Vin Diesel, Bradley Cooper, Zoe Saldana
-2;Prometheus;Adventure,Mystery,Sci-Fi;Noomi Rapace, Logan Marshall-Green, Michael Fassbender, Charlize Theron
-3;Split;Horror,Thriller;James McAvoy, Anya Taylor-Joy, Haley Lu Richardson, Jessica Sula
-4;Sing;Animation,Comedy,Family;Matthew McConaughey,Reese Witherspoon, Seth MacFarlane, Scarlett Johansson
-5;Suicide Squad;Action,Adventure,Fantasy;Will Smith, Jared Leto, Margot Robbie, Viola Davis
-6;The Great Wall;Action,Adventure,Fantasy;Matt Damon, Tian Jing, Willem Dafoe, Andy Lau
-7;La La Land;Comedy,Drama,Music;Ryan Gosling, Emma Stone, Rosemarie DeWitt, J.K. Simmons
-8;Mindhorn;Comedy;Essie Davis, Andrea Riseborough, Julian Barratt,Kenneth Branagh
-9;The Lost City of Z;Action,Adventure,Biography;Charlie Hunnam, Robert Pattinson, Sienna Miller, Tom Holland
-10;Passengers;Adventure,Drama,Romance;Jennifer Lawrence, Chris Pratt, Michael Sheen,Laurence Fishburne
-11;Fantastic Beasts and Where to Find Them;Adventure,Family,Fantasy;Eddie Redmayne, Katherine Waterston, Alison Sudol,Dan Fogler
-12;Hidden Figures;Biography,Drama,History;Taraji P. Henson, Octavia Spencer, Janelle Monáe,Kevin Costner
-13;Rogue One;Action,Adventure,Sci-Fi;Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen
-14;Moana;Animation,Adventure,Comedy;Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
-15;Colossal;Action,Comedy,Drama;Anne Hathaway, Jason Sudeikis, Austin Stowell,Tim Blake Nelson
-16;The Secret Life of Pets;Animation,Adventure,Comedy;Louis C.K., Eric Stonestreet, Kevin Hart, Lake Bell
-17;Hacksaw Ridge;Biography,Drama,History;Andrew Garfield, Sam Worthington, Luke Bracey,Teresa Palmer
-18;Jason Bourne;Action,Thriller;Matt Damon, Tommy Lee Jones, Alicia Vikander,Vincent Cassel
-19;Lion;Biography,Drama;Dev Patel, Nicole Kidman, Rooney Mara, Sunny Pawar
-20;Arrival;Drama,Mystery,Sci-Fi;Amy Adams, Jeremy Renner, Forest Whitaker,Michael Stuhlbarg
-21;Gold;Adventure,Drama,Thriller;Matthew McConaughey, Edgar Ramírez, Bryce Dallas Howard, Corey Stoll
-22;Manchester by the Sea;Drama;Casey Affleck, Michelle Williams, Kyle Chandler,Lucas Hedges
-23;Hounds of Love;Crime,Drama,Horror;Emma Booth, Ashleigh Cummings, Stephen Curry,Susie Porter
-24;Trolls;Animation,Adventure,Comedy;Anna Kendrick, Justin Timberlake,Zooey Deschanel, Christopher Mintz-Plasse
-25;Independence Day: Resurgence;Action,Adventure,Sci-Fi;Liam Hemsworth, Jeff Goldblum, Bill Pullman,Maika Monroe
-26;Paris pieds nus;Comedy;Fiona Gordon, Dominique Abel,Emmanuelle Riva, Pierre Richard
-27;Bahubali: The Beginning;Action,Adventure,Drama;Prabhas, Rana Daggubati, Anushka Shetty,Tamannaah Bhatia
-28;Dead Awake;Horror,Thriller;Jocelin Donahue, Jesse Bradford, Jesse Borrego,Lori Petty
-29;Bad Moms;Comedy;Mila Kunis, Kathryn Hahn, Kristen Bell,Christina Applegate
-30;Assassin's Creed;Action,Adventure,Drama;Michael Fassbender, Marion Cotillard, Jeremy Irons,Brendan Gleeson
-31;Why Him?;Comedy;Zoey Deutch, James Franco, Tangie Ambrose,Cedric the Entertainer
-32;Nocturnal Animals;Drama,Thriller;Amy Adams, Jake Gyllenhaal, Michael Shannon, Aaron Taylor-Johnson
-33;X-Men: Apocalypse;Action,Adventure,Sci-Fi;James McAvoy, Michael Fassbender, Jennifer Lawrence, Nicholas Hoult
-34;Deadpool;Action,Adventure,Comedy;Ryan Reynolds, Morena Baccarin, T.J. Miller, Ed Skrein
-35;Resident Evil: The Final Chapter;Action,Horror,Sci-Fi;Milla Jovovich, Iain Glen, Ali Larter, Shawn Roberts
-36;Captain America: Civil War;Action,Adventure,Sci-Fi;Chris Evans, Robert Downey Jr.,Scarlett Johansson, Sebastian Stan
-37;Interstellar;Adventure,Drama,Sci-Fi;Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy
-38;Doctor Strange;Action,Adventure,Fantasy;Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong
-39;The Magnificent Seven;Action,Adventure,Western;Denzel Washington, Chris Pratt, Ethan Hawke,Vincent D'Onofrio
-40;5- 25- 77;Comedy,Drama;John Francis Daley, Austin Pendleton, Colleen Camp, Neil Flynn
-41;Sausage Party;Animation,Adventure,Comedy;Seth Rogen, Kristen Wiig, Jonah Hill, Alistair Abell
-42;Moonlight;Drama;Mahershala Ali, Shariff Earp, Duan Sanderson, Alex R. Hibbert
-43;Don't Fuck in the Woods;Horror;Brittany Blanton, Ayse Howard, Roman Jossart,Nadia White
-44;The Founder;Biography,Drama,History;Michael Keaton, Nick Offerman, John Carroll Lynch, Linda Cardellini
-45;Lowriders;Drama;Gabriel Chavarria, Demián Bichir, Theo Rossi,Tony Revolori
-46;Pirates of the Caribbean: On Stranger Tides;Action,Adventure,Fantasy;Johnny Depp, Penélope Cruz, Ian McShane, Geoffrey Rush
-47;Miss Sloane;Drama,Thriller;Jessica Chastain, Mark Strong, Gugu Mbatha-Raw,Michael Stuhlbarg
-48;Fallen;Adventure,Drama,Fantasy;Hermione Corfield, Addison Timlin, Joely Richardson,Jeremy Irvine
-49;Star Trek Beyond;Action,Adventure,Sci-Fi;Chris Pine, Zachary Quinto, Karl Urban, Zoe Saldana
-50;The Last Face;Drama;Charlize Theron, Javier Bardem, Adèle Exarchopoulos,Jared Harris
-51;Star Wars: Episode VII - The Force Awakens;Action,Adventure,Fantasy;Daisy Ridley, John Boyega, Oscar Isaac, Domhnall Gleeson
-52;Underworld: Blood Wars;Action,Adventure,Fantasy;Kate Beckinsale, Theo James, Tobias Menzies, Lara Pulver
-53;Mother's Day;Comedy,Drama;Jennifer Aniston, Kate Hudson, Julia Roberts, Jason Sudeikis
-54;John Wick;Action,Crime,Thriller;Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe
-55;The Dark Knight;Action,Crime,Drama;Christian Bale, Heath Ledger, Aaron Eckhart,Michael Caine
-56;Silence;Adventure,Drama,History;Andrew Garfield, Adam Driver, Liam Neeson,Tadanobu Asano
-57;Don't Breathe;Crime,Horror,Thriller;Stephen Lang, Jane Levy, Dylan Minnette, Daniel Zovatto
-58;Me Before You;Drama,Romance;Emilia Clarke, Sam Claflin, Janet McTeer, Charles Dance
-59;Their Finest;Comedy,Drama,Romance;Gemma Arterton, Sam Claflin, Bill Nighy, Jack Huston
-60;Sully;Biography,Drama;Tom Hanks, Aaron Eckhart, Laura Linney, Valerie Mahaffey
-61;Batman v Superman: Dawn of Justice;Action,Adventure,Sci-Fi;Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg
-62;The Autopsy of Jane Doe;Horror,Mystery,Thriller;Brian Cox, Emile Hirsch, Ophelia Lovibond, Michael McElhatton
-63;The Girl on the Train;Crime,Drama,Mystery;Emily Blunt, Haley Bennett, Rebecca Ferguson, Justin Theroux
-64;Fifty Shades of Grey;Drama,Romance,Thriller;Dakota Johnson, Jamie Dornan, Jennifer Ehle,Eloise Mumford
-65;The Prestige;Drama,Mystery,Sci-Fi;Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine
-66;Kingsman: The Secret Service;Action,Adventure,Comedy;Colin Firth, Taron Egerton, Samuel L. Jackson,Michael Caine
-67;Patriots Day;Drama,History,Thriller;Mark Wahlberg, Michelle Monaghan, J.K. Simmons, John Goodman
-68;Mad Max: Fury Road;Action,Adventure,Sci-Fi;Tom Hardy, Charlize Theron, Nicholas Hoult, Zoë Kravitz
-69;Wakefield;Drama;Bryan Cranston, Jennifer Garner, Beverly D'Angelo,Jason O'Mara
-70;Deepwater Horizon;Action,Drama,Thriller;Mark Wahlberg, Kurt Russell, Douglas M. Griffin, James DuMont
-71;The Promise;Drama,History;Oscar Isaac, Charlotte Le Bon, Christian Bale, Daniel Giménez Cacho
-72;Allied;Action,Drama,Romance;Brad Pitt, Marion Cotillard, Jared Harris, Vincent Ebrahim
-73;A Monster Calls;Drama,Fantasy;Lewis MacDougall, Sigourney Weaver, Felicity Jones,Toby Kebbell
-74;Collateral Beauty;Drama,Romance;Will Smith, Edward Norton, Kate Winslet, Michael Peña
-75;Zootopia;Animation,Adventure,Comedy;Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate
-76;Pirates of the Caribbean: At World's End;Action,Adventure,Fantasy;Johnny Depp, Orlando Bloom, Keira Knightley,Geoffrey Rush
-77;The Avengers;Action,Sci-Fi;Robert Downey Jr., Chris Evans, Scarlett Johansson,Jeremy Renner
-78;Inglourious Basterds;Adventure,Drama,War;Brad Pitt, Diane Kruger, Eli Roth,Mélanie Laurent
-79;Pirates of the Caribbean: Dead Man's Chest;Action,Adventure,Fantasy;Johnny Depp, Orlando Bloom, Keira Knightley, Jack Davenport
-80;Ghostbusters;Action,Comedy,Fantasy;Melissa McCarthy, Kristen Wiig, Kate McKinnon, Leslie Jones
-81;Inception;Action,Adventure,Sci-Fi;Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Ken Watanabe
-82;Captain Fantastic;Comedy,Drama;Viggo Mortensen, George MacKay, Samantha Isler,Annalise Basso
-83;The Wolf of Wall Street;Biography,Comedy,Crime;Leonardo DiCaprio, Jonah Hill, Margot Robbie,Matthew McConaughey
-84;Gone Girl;Crime,Drama,Mystery;Ben Affleck, Rosamund Pike, Neil Patrick Harris,Tyler Perry
-85;Furious Seven;Action,Crime,Thriller;Vin Diesel, Paul Walker, Dwayne Johnson, Jason Statham
-86;Jurassic World;Action,Adventure,Sci-Fi;Chris Pratt, Bryce Dallas Howard, Ty Simpkins,Judy Greer
-87;Live by Night;Crime,Drama;Ben Affleck, Elle Fanning, Brendan Gleeson, Chris Messina
-88;Avatar;Action,Adventure,Fantasy;Sam Worthington, Zoe Saldana, Sigourney Weaver, Michelle Rodriguez
-89;The Hateful Eight;Crime,Drama,Mystery;Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins
-90;The Accountant;Action,Crime,Drama;Ben Affleck, Anna Kendrick, J.K. Simmons, Jon Bernthal
-91;Prisoners;Crime,Drama,Mystery;Hugh Jackman, Jake Gyllenhaal, Viola Davis,Melissa Leo
-92;Warcraft;Action,Adventure,Fantasy;Travis Fimmel, Paula Patton, Ben Foster, Dominic Cooper
-93;The Help;Drama;Emma Stone, Viola Davis, Octavia Spencer, Bryce Dallas Howard
-94;War Dogs;Comedy,Crime,Drama;Jonah Hill, Miles Teller, Steve Lantz, Gregg Weiner
-95;Avengers: Age of Ultron;Action,Adventure,Sci-Fi;Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
-96;The Nice Guys;Action,Comedy,Crime;Russell Crowe, Ryan Gosling, Angourie Rice, Matt Bomer
-97;Kimi no na wa;Animation,Drama,Fantasy;Ryûnosuke Kamiki, Mone Kamishiraishi, Ryô Narita, Aoi Yuki
-98;The Void;Horror,Mystery,Sci-Fi;Aaron Poole, Kenneth Welsh,Daniel Fathers, Kathleen Munroe
-99;Personal Shopper;Drama,Mystery,Thriller;Kristen Stewart, Lars Eidinger, Sigrid Bouaziz,Anders Danielsen Lie
-100;The Departed;Crime,Drama,Thriller;Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg
-101;Legend;Biography,Crime,Drama;Tom Hardy, Emily Browning, Taron Egerton, Paul Anderson
-102;Thor;Action,Adventure,Fantasy;Chris Hemsworth, Anthony Hopkins, Natalie Portman, Tom Hiddleston
-103;The Martian;Adventure,Drama,Sci-Fi;Matt Damon, Jessica Chastain, Kristen Wiig, Kate Mara
-104;Contratiempo;Crime,Mystery,Thriller;Mario Casas, Ana Wagener, José Coronado, Bárbara Lennie
-105;The Man from U.N.C.L.E.;Action,Adventure,Comedy;Henry Cavill, Armie Hammer, Alicia Vikander, Elizabeth Debicki
-106;Hell or High Water;Crime,Drama,Thriller;Chris Pine, Ben Foster, Jeff Bridges, Gil Birmingham
-107;The Comedian;Comedy;Robert De Niro, Leslie Mann, Danny DeVito, Edie Falco
-108;The Legend of Tarzan;Action,Adventure,Drama;Alexander Skarsgård, Rory J. Saper, Christian Stevens, Christoph Waltz
-109;All We Had;Drama;Eve Lindley, Richard Kind, Mark Consuelos, Katherine Reis
-110;Ex Machina;Drama,Mystery,Sci-Fi;Alicia Vikander, Domhnall Gleeson, Oscar Isaac,Sonoya Mizuno
-111;The Belko Experiment;Action,Horror,Thriller;John Gallagher Jr., Tony Goldwyn, Adria Arjona, John C. McGinley
-112;12 Years a Slave;Biography,Drama,History;Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender, Brad Pitt
-113;The Bad Batch;Romance,Sci-Fi;Keanu Reeves, Jason Momoa, Jim Carrey, Diego Luna
-114;300;Action,Fantasy,War;Gerard Butler, Lena Headey, David Wenham, Dominic West
-115;Harry Potter and the Deathly Hallows: Part 2;Adventure,Drama,Fantasy;Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon
-116;Office Christmas Party;Comedy;Jason Bateman, Olivia Munn, T.J. Miller,Jennifer Aniston
-117;The Neon Demon;Horror,Thriller;Elle Fanning, Christina Hendricks, Keanu Reeves, Karl Glusman
-118;Dangal;Action,Biography,Drama;Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh,Sanya Malhotra
-119;10 Cloverfield Lane;Drama,Horror,Mystery;John Goodman, Mary Elizabeth Winstead, John Gallagher Jr., Douglas M. Griffin
-120;Finding Dory;Animation,Adventure,Comedy;Ellen DeGeneres, Albert Brooks,Ed O'Neill, Kaitlin Olson
-121;Miss Peregrine's Home for Peculiar Children;Adventure,Drama,Family;Eva Green, Asa Butterfield, Samuel L. Jackson, Judi Dench
-122;Divergent;Adventure,Mystery,Sci-Fi;Shailene Woodley, Theo James, Kate Winslet, Jai Courtney
-123;Mike and Dave Need Wedding Dates;Adventure,Comedy,Romance;Zac Efron, Adam Devine, Anna Kendrick, Aubrey Plaza
-124;Boyka: Undisputed IV;Action;Scott Adkins, Teodora Duhovnikova, Alon Aboutboul, Julian Vergov
-125;The Dark Knight Rises;Action,Thriller;Christian Bale, Tom Hardy, Anne Hathaway,Gary Oldman
-126;The Jungle Book;Adventure,Drama,Family;Neel Sethi, Bill Murray, Ben Kingsley, Idris Elba
-127;Transformers: Age of Extinction;Action,Adventure,Sci-Fi;Mark Wahlberg, Nicola Peltz, Jack Reynor, Stanley Tucci
-128;Nerve;Adventure,Crime,Mystery;Emma Roberts, Dave Franco, Emily Meade, Miles Heizer
-129;Mamma Mia!;Comedy,Family,Musical;Meryl Streep, Pierce Brosnan, Amanda Seyfried,Stellan Skarsgård
-130;The Revenant;Adventure,Drama,Thriller;Leonardo DiCaprio, Tom Hardy, Will Poulter, Domhnall Gleeson
-131;Fences;Drama;Denzel Washington, Viola Davis, Stephen Henderson, Jovan Adepo
-132;Into the Woods;Adventure,Comedy,Drama;Anna Kendrick, Meryl Streep, Chris Pine, Emily Blunt
-133;The Shallows;Drama,Horror,Thriller;Blake Lively, Óscar Jaenada, Angelo Josue Lozano Corzo, Brett Cullen
-134;Whiplash;Drama,Music;Miles Teller, J.K. Simmons, Melissa Benoist, Paul Reiser
-135;Furious 6;Action,Crime,Thriller;Vin Diesel, Paul Walker, Dwayne Johnson, Michelle Rodriguez
-136;The Place Beyond the Pines;Crime,Drama,Thriller;Ryan Gosling, Bradley Cooper, Eva Mendes,Craig Van Hook
-137;No Country for Old Men;Crime,Drama,Thriller;Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson
-138;The Great Gatsby;Drama,Romance;Leonardo DiCaprio, Carey Mulligan, Joel Edgerton,Tobey Maguire
-139;Shutter Island;Mystery,Thriller;Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo,Ben Kingsley
-140;Brimstone;Mystery,Thriller,Western;Dakota Fanning, Guy Pearce, Kit Harington,Carice van Houten
-141;Star Trek;Action,Adventure,Sci-Fi;Chris Pine, Zachary Quinto, Simon Pegg, Leonard Nimoy
-142;Diary of a Wimpy Kid;Comedy,Family;Zachary Gordon, Robert Capron, Rachael Harris,Steve Zahn
-143;The Big Short;Biography,Comedy,Drama;Christian Bale, Steve Carell, Ryan Gosling, Brad Pitt
-144;Room;Drama;Brie Larson, Jacob Tremblay, Sean Bridgers,Wendy Crewson
-145;Django Unchained;Drama,Western;Jamie Foxx, Christoph Waltz, Leonardo DiCaprio,Kerry Washington
-146;Ah-ga-ssi;Drama,Mystery,Romance;Min-hee Kim, Jung-woo Ha, Jin-woong Jo, So-ri Moon
-147;The Edge of Seventeen;Comedy,Drama;Hailee Steinfeld, Haley Lu Richardson, Blake Jenner, Kyra Sedgwick
-148;Watchmen;Action,Drama,Mystery;Jackie Earle Haley, Patrick Wilson, Carla Gugino,Malin Akerman
-149;Superbad;Comedy;Michael Cera, Jonah Hill, Christopher Mintz-Plasse, Bill Hader
-150;Inferno;Action,Adventure,Crime;Tom Hanks, Felicity Jones, Irrfan Khan, Ben Foster
-151;The BFG;Adventure,Family,Fantasy;Mark Rylance, Ruby Barnhill, Penelope Wilton,Jemaine Clement
-152;The Hunger Games;Adventure,Sci-Fi,Thriller;Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth,Stanley Tucci
-153;White Girl;Drama;Morgan Saylor, Brian Marc, Justin Bartha, Adrian Martinez
-154;Sicario;Action,Crime,Drama;Emily Blunt, Josh Brolin, Benicio Del Toro, Jon Bernthal
-155;Twin Peaks: The Missing Pieces;Drama,Horror,Mystery;Chris Isaak, Kiefer Sutherland, C.H. Evans, Sandra Kinder
-156;Aliens vs Predator - Requiem;Action,Horror,Sci-Fi;Reiko Aylesworth, Steven Pasquale,Shareeka Epps, John Ortiz
-157;Pacific Rim;Action,Adventure,Sci-Fi;Idris Elba, Charlie Hunnam, Rinko Kikuchi,Charlie Day
-158;Crazy, Stupid, Love.;Comedy,Drama,Romance;Steve Carell, Ryan Gosling, Julianne Moore, Emma Stone
-159;Scott Pilgrim vs. the World;Action,Comedy,Fantasy;Michael Cera, Mary Elizabeth Winstead, Kieran Culkin, Alison Pill
-160;Hot Fuzz;Action,Comedy,Mystery;Simon Pegg, Nick Frost, Martin Freeman, Bill Nighy
-161;Mine;Thriller,War;Armie Hammer, Annabelle Wallis,Tom Cullen, Clint Dyer
-162;Free Fire;Action,Comedy,Crime;Sharlto Copley, Brie Larson, Armie Hammer, Cillian Murphy
-163;X-Men: Days of Future Past;Action,Adventure,Sci-Fi;Patrick Stewart, Ian McKellen, Hugh Jackman, James McAvoy
-164;Jack Reacher: Never Go Back;Action,Adventure,Crime;Tom Cruise, Cobie Smulders, Aldis Hodge, Robert Knepper
-165;Casino Royale;Action,Adventure,Thriller;Daniel Craig, Eva Green, Judi Dench, Jeffrey Wright
-166;Twilight;Drama,Fantasy,Romance;Kristen Stewart, Robert Pattinson, Billy Burke,Sarah Clarke
-167;Now You See Me 2;Action,Adventure,Comedy;Jesse Eisenberg, Mark Ruffalo, Woody Harrelson, Dave Franco
-168;Woman in Gold;Biography,Drama,History;Helen Mirren, Ryan Reynolds, Daniel Brühl, Katie Holmes
-169;13 Hours;Action,Drama,History;John Krasinski, Pablo Schreiber, James Badge Dale,David Denman
-170;Spectre;Action,Adventure,Thriller;Daniel Craig, Christoph Waltz, Léa Seydoux, Ralph Fiennes
-171;Nightcrawler;Crime,Drama,Thriller;Jake Gyllenhaal, Rene Russo, Bill Paxton, Riz Ahmed
-172;Kubo and the Two Strings;Animation,Adventure,Family;Charlize Theron, Art Parkinson, Matthew McConaughey, Ralph Fiennes
-173;Beyond the Gates;Adventure,Horror;Graham Skipper, Chase Williamson, Brea Grant,Barbara Crampton
-174;Her;Drama,Romance,Sci-Fi;Joaquin Phoenix, Amy Adams, Scarlett Johansson,Rooney Mara
-175;Frozen;Animation,Adventure,Comedy;Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
-176;Tomorrowland;Action,Adventure,Family;George Clooney, Britt Robertson, Hugh Laurie, Raffey Cassidy
-177;Dawn of the Planet of the Apes;Action,Adventure,Drama;Gary Oldman, Keri Russell, Andy Serkis, Kodi Smit-McPhee
-178;Tropic Thunder;Action,Comedy;Ben Stiller, Jack Black, Robert Downey Jr., Jeff Kahn
-179;The Conjuring 2;Horror,Mystery,Thriller;Vera Farmiga, Patrick Wilson, Madison Wolfe, Frances O'Connor
-180;Ant-Man;Action,Adventure,Comedy;Paul Rudd, Michael Douglas, Corey Stoll, Evangeline Lilly
-181;Bridget Jones's Baby;Comedy,Romance;Renée Zellweger, Gemma Jones, Jim Broadbent,Sally Phillips
-182;The VVitch: A New-England Folktale;Horror,Mystery;Anya Taylor-Joy, Ralph Ineson, Kate Dickie, Julian Richings
-183;Cinderella;Drama,Family,Fantasy;Lily James, Cate Blanchett, Richard Madden,Helena Bonham Carter
-184;Realive;Sci-Fi;Tom Hughes, Charlotte Le Bon, Oona Chaplin, Barry Ward
-185;Forushande;Drama,Thriller;Taraneh Alidoosti, Shahab Hosseini, Babak Karimi,Farid Sajjadi Hosseini
-186;Love;Drama,Romance;Aomi Muyock, Karl Glusman, Klara Kristin, Juan Saavedra
-187;Billy Lynn's Long Halftime Walk;Drama,War;Joe Alwyn, Garrett Hedlund, Arturo Castro, Mason Lee
-188;Crimson Peak;Drama,Fantasy,Horror;Mia Wasikowska, Jessica Chastain, Tom Hiddleston, Charlie Hunnam
-189;Drive;Crime,Drama;Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks
-190;Trainwreck;Comedy,Drama,Romance;Amy Schumer, Bill Hader, Brie Larson, Colin Quinn
-191;The Light Between Oceans;Drama,Romance;Michael Fassbender, Alicia Vikander, Rachel Weisz, Florence Clery
-192;Below Her Mouth;Drama;Erika Linder, Natalie Krill, Sebastian Pigott, Mayko Nguyen
-193;Spotlight;Crime,Drama,History;Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber
-194;Morgan;Horror,Sci-Fi,Thriller;Kate Mara, Anya Taylor-Joy, Rose Leslie, Michael Yare
-195;Warrior;Action,Drama,Sport;Tom Hardy, Nick Nolte, Joel Edgerton, Jennifer Morrison
-196;Captain America: The First Avenger;Action,Adventure,Sci-Fi;Chris Evans, Hugo Weaving, Samuel L. Jackson,Hayley Atwell
-197;Hacker;Crime,Drama,Thriller;Callan McAuliffe, Lorraine Nicholson, Daniel Eric Gold, Clifton Collins Jr.
-198;Into the Wild;Adventure,Biography,Drama;Emile Hirsch, Vince Vaughn, Catherine Keener, Marcia Gay Harden
-199;The Imitation Game;Biography,Drama,Thriller;Benedict Cumberbatch, Keira Knightley, Matthew Goode, Allen Leech
-200;Central Intelligence;Action,Comedy,Crime;Dwayne Johnson, Kevin Hart, Danielle Nicolet, Amy Ryan
-201;Edge of Tomorrow;Action,Adventure,Sci-Fi;Tom Cruise, Emily Blunt, Bill Paxton, Brendan Gleeson
-202;A Cure for Wellness;Drama,Fantasy,Horror;Dane DeHaan, Jason Isaacs, Mia Goth, Ivo Nandi
-203;Snowden;Biography,Drama,Thriller;Joseph Gordon-Levitt, Shailene Woodley, Melissa Leo,Zachary Quinto
-204;Iron Man;Action,Adventure,Sci-Fi;Robert Downey Jr., Gwyneth Paltrow, Terrence Howard, Jeff Bridges
-205;Allegiant;Action,Adventure,Mystery;Shailene Woodley, Theo James, Jeff Daniels,Naomi Watts
-206;X: First Class;Action,Adventure,Sci-Fi;James McAvoy, Michael Fassbender, Jennifer Lawrence, Kevin Bacon
-207;Raw (II);Drama,Horror;Garance Marillier, Ella Rumpf, Rabah Nait Oufella,Laurent Lucas
-208;Paterson;Comedy,Drama,Romance;Adam Driver, Golshifteh Farahani, Nellie, Rizwan Manji
-209;Bridesmaids;Comedy,Romance;Kristen Wiig, Maya Rudolph, Rose Byrne, Terry Crews
-210;The Girl with All the Gifts;Drama,Horror,Thriller;Gemma Arterton, Glenn Close, Dominique Tipper,Paddy Considine
-211;San Andreas;Action,Adventure,Drama;Dwayne Johnson, Carla Gugino, Alexandra Daddario,Colton Haynes
-212;Spring Breakers;Drama;Vanessa Hudgens, Selena Gomez, Ashley Benson,Rachel Korine
-213;Transformers;Action,Adventure,Sci-Fi;Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson
-214;Old Boy;Action,Drama,Mystery;Josh Brolin, Elizabeth Olsen, Samuel L. Jackson, Sharlto Copley
-215;Thor: The Dark World;Action,Adventure,Fantasy;Chris Hemsworth, Natalie Portman, Tom Hiddleston,Stellan Skarsgård
-216;Gods of Egypt;Action,Adventure,Fantasy;Brenton Thwaites, Nikolaj Coster-Waldau, Gerard Butler, Chadwick Boseman
-217;Captain America: The Winter Soldier;Action,Adventure,Sci-Fi;Chris Evans, Samuel L. Jackson,Scarlett Johansson, Robert Redford
-218;Monster Trucks;Action,Adventure,Comedy;Lucas Till, Jane Levy, Thomas Lennon, Barry Pepper
-219;A Dark Song;Drama,Horror;Mark Huberman, Susan Loughnane, Steve Oram,Catherine Walker
-220;Kick-Ass;Action,Comedy;Aaron Taylor-Johnson, Nicolas Cage, Chloë Grace Moretz, Garrett M. Brown
-221;Hardcore Henry;Action,Adventure,Sci-Fi;Sharlto Copley, Tim Roth, Haley Bennett, Danila Kozlovsky
-222;Cars;Animation,Adventure,Comedy;Owen Wilson, Bonnie Hunt, Paul Newman, Larry the Cable Guy
-223;It Follows;Horror,Mystery;Maika Monroe, Keir Gilchrist, Olivia Luccardi,Lili Sepe
-224;The Girl with the Dragon Tattoo;Crime,Drama,Mystery;Daniel Craig, Rooney Mara, Christopher Plummer,Stellan Skarsgård
-225;We're the Millers;Comedy,Crime;Jason Sudeikis, Jennifer Aniston, Emma Roberts, Ed Helms
-226;American Honey;Drama;Sasha Lane, Shia LaBeouf, Riley Keough, McCaul Lombardi
-227;The Lobster;Comedy,Drama,Romance;Colin Farrell, Rachel Weisz, Jessica Barden,Olivia Colman
-228;Predators;Action,Adventure,Sci-Fi;Adrien Brody, Laurence Fishburne, Topher Grace,Alice Braga
-229;Maleficent;Action,Adventure,Family;Angelina Jolie, Elle Fanning, Sharlto Copley,Lesley Manville
-230;Rupture;Horror,Sci-Fi,Thriller;Noomi Rapace, Michael Chiklis, Kerry Bishé,Peter Stormare
-231;Pan's Labyrinth;Drama,Fantasy,War;Ivana Baquero, Ariadna Gil, Sergi López,Maribel Verdú
-232;A Kind of Murder;Crime,Drama,Thriller;Patrick Wilson, Jessica Biel, Haley Bennett, Vincent Kartheiser
-233;Apocalypto;Action,Adventure,Drama;Gerardo Taracena, Raoul Max Trujillo, Dalia Hernández,Rudy Youngblood
-234;Mission: Impossible - Rogue Nation;Action,Adventure,Thriller;Tom Cruise, Rebecca Ferguson, Jeremy Renner, Simon Pegg
-235;The Huntsman: Winter's War;Action,Adventure,Drama;Chris Hemsworth, Jessica Chastain, Charlize Theron, Emily Blunt
-236;The Perks of Being a Wallflower;Drama,Romance;Logan Lerman, Emma Watson, Ezra Miller, Paul Rudd
-237;Jackie;Biography,Drama,History;Natalie Portman, Peter Sarsgaard, Greta Gerwig,Billy Crudup
-238;The Disappointments Room;Drama,Horror,Thriller;Kate Beckinsale, Mel Raido, Duncan Joiner, Lucas Till
-239;The Grand Budapest Hotel;Adventure,Comedy,Drama;Ralph Fiennes, F. Murray Abraham, Mathieu Amalric,Adrien Brody
-240;The Host;Action,Adventure,Romance;Saoirse Ronan, Max Irons, Jake Abel, Diane Kruger
-241;Fury;Action,Drama,War;Brad Pitt, Shia LaBeouf, Logan Lerman, Michael Peña
-242;Inside Out;Animation,Adventure,Comedy;Amy Poehler, Bill Hader, Lewis Black, Mindy Kaling
-243;Rock Dog;Animation,Adventure,Comedy;Luke Wilson, Eddie Izzard, J.K. Simmons, Lewis Black
-244;Terminator Genisys;Action,Adventure,Sci-Fi;Arnold Schwarzenegger, Jason Clarke, Emilia Clarke,Jai Courtney
-245;Percy Jackson & the Olympians: The Lightning Thief;Adventure,Family,Fantasy;Logan Lerman, Kevin McKidd, Steve Coogan,Brandon T. Jackson
-246;Les Misérables;Drama,Musical,Romance;Hugh Jackman, Russell Crowe, Anne Hathaway,Amanda Seyfried
-247;Children of Men;Drama,Sci-Fi,Thriller;Julianne Moore, Clive Owen, Chiwetel Ejiofor,Michael Caine
-248;20th Century Women;Comedy,Drama;Annette Bening, Elle Fanning, Greta Gerwig, Billy Crudup
-249;Spy;Action,Comedy,Crime;Melissa McCarthy, Rose Byrne, Jude Law, Jason Statham
-250;The Intouchables;Biography,Comedy,Drama;François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot
-251;Bonjour Anne;Comedy,Drama,Romance;Diane Lane, Alec Baldwin, Arnaud Viard, Linda Gegusch
-252;Kynodontas;Drama,Thriller;Christos Stergioglou, Michele Valley, Angeliki Papoulia, Hristos Passalis
-253;Straight Outta Compton;Biography,Drama,History;O'Shea Jackson Jr., Corey Hawkins, Jason Mitchell,Neil Brown Jr.
-254;The Amazing Spider-Man 2;Action,Adventure,Sci-Fi;Andrew Garfield, Emma Stone, Jamie Foxx, Paul Giamatti
-255;The Conjuring;Horror,Mystery,Thriller;Patrick Wilson, Vera Farmiga, Ron Livingston, Lili Taylor
-256;The Hangover;Comedy;Zach Galifianakis, Bradley Cooper, Justin Bartha, Ed Helms
-257;Battleship;Action,Adventure,Sci-Fi;Alexander Skarsgård, Brooklyn Decker, Liam Neeson,Rihanna
-258;Rise of the Planet of the Apes;Action,Drama,Sci-Fi;James Franco, Andy Serkis, Freida Pinto, Karin Konoval
-259;Lights Out;Horror;Teresa Palmer, Gabriel Bateman, Maria Bello,Billy Burke
-260;Norman: The Moderate Rise and Tragic Fall of a New York Fixer;Drama,Thriller;Richard Gere, Lior Ashkenazi, Michael Sheen,Charlotte Gainsbourg
-261;Birdman or (The Unexpected Virtue of Ignorance);Comedy,Drama,Romance;Michael Keaton, Zach Galifianakis,Edward Norton, Andrea Riseborough
-262;Black Swan;Drama,Thriller;Natalie Portman, Mila Kunis, Vincent Cassel,Winona Ryder
-263;Dear White People;Comedy,Drama;Tyler James Williams, Tessa Thompson, Kyle Gallner,Teyonah Parris
-264;Nymphomaniac: Vol. I;Drama;Charlotte Gainsbourg, Stellan Skarsgård, Stacy Martin, Shia LaBeouf
-265;Teenage Mutant Ninja Turtles: Out of the Shadows;Action,Adventure,Comedy;Megan Fox, Will Arnett, Tyler Perry, Laura Linney
-266;Knock Knock;Drama,Horror,Thriller;Keanu Reeves, Lorenza Izzo, Ana de Armas, Aaron Burns
-267;Dirty Grandpa;Comedy;Robert De Niro, Zac Efron, Zoey Deutch, Aubrey Plaza
-268;Cloud Atlas;Drama,Sci-Fi;Tom Hanks, Halle Berry, Hugh Grant, Hugo Weaving
-269;X-Men Origins: Wolverine;Action,Adventure,Sci-Fi;Hugh Jackman, Liev Schreiber, Ryan Reynolds, Danny Huston
-270;Satanic;Horror;Sarah Hyland, Steven Krueger, Justin Chon, Clara Mamet
-271;Skyfall;Action,Adventure,Thriller;Daniel Craig, Javier Bardem, Naomie Harris, Judi Dench
-272;The Hobbit: An Unexpected Journey;Adventure,Fantasy;Martin Freeman, Ian McKellen, Richard Armitage,Andy Serkis
-273;21 Jump Street;Action,Comedy,Crime;Jonah Hill, Channing Tatum, Ice Cube,Brie Larson
-274;Sing Street;Comedy,Drama,Music;Ferdia Walsh-Peelo, Aidan Gillen, Maria Doyle Kennedy, Jack Reynor
-275;Ballerina;Animation,Adventure,Comedy;Elle Fanning, Dane DeHaan, Carly Rae Jepsen, Maddie Ziegler
-276;Oblivion;Action,Adventure,Mystery;Tom Cruise, Morgan Freeman, Andrea Riseborough, Olga Kurylenko
-277;22 Jump Street;Action,Comedy,Crime;Channing Tatum, Jonah Hill, Ice Cube,Nick Offerman
-278;Zodiac;Crime,Drama,History;Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo,Anthony Edwards
-279;Everybody Wants Some!!;Comedy;Blake Jenner, Tyler Hoechlin, Ryan Guzman,Zoey Deutch
-280;Iron Man Three;Action,Adventure,Sci-Fi;Robert Downey Jr., Guy Pearce, Gwyneth Paltrow,Don Cheadle
-281;Now You See Me;Crime,Mystery,Thriller;Jesse Eisenberg, Common, Mark Ruffalo, Woody Harrelson
-282;Sherlock Holmes;Action,Adventure,Crime;Robert Downey Jr., Jude Law, Rachel McAdams, Mark Strong
-283;Death Proof;Thriller;Kurt Russell, Zoë Bell, Rosario Dawson, Vanessa Ferlito
-284;The Danish Girl;Biography,Drama,Romance;Eddie Redmayne, Alicia Vikander, Amber Heard, Ben Whishaw
-285;Hercules;Action,Adventure;Dwayne Johnson, John Hurt, Ian McShane, Joseph Fiennes
-286;Sucker Punch;Action,Fantasy;Emily Browning, Vanessa Hudgens, Abbie Cornish,Jena Malone
-287;Keeping Up with the Joneses;Action,Comedy;Zach Galifianakis, Isla Fisher, Jon Hamm, Gal Gadot
-288;Jupiter Ascending;Action,Adventure,Sci-Fi;Channing Tatum, Mila Kunis,Eddie Redmayne, Sean Bean
-289;Masterminds;Action,Comedy,Crime;Zach Galifianakis, Kristen Wiig, Owen Wilson, Ross Kimball
-290;Iris;Thriller;Romain Duris, Charlotte Le Bon, Jalil Lespert, Camille Cottin
-291;Busanhaeng;Action,Drama,Horror;Yoo Gong, Soo-an Kim, Yu-mi Jung, Dong-seok Ma
-292;Pitch Perfect;Comedy,Music,Romance;Anna Kendrick, Brittany Snow, Rebel Wilson, Anna Camp
-293;Neighbors 2: Sorority Rising;Comedy;Seth Rogen, Rose Byrne, Zac Efron, Chloë Grace Moretz
-294;The Exception;Drama;Lily James, Jai Courtney, Christopher Plummer, Loïs van Wijk
-295;Man of Steel;Action,Adventure,Fantasy;Henry Cavill, Amy Adams, Michael Shannon, Diane Lane
-296;The Choice;Drama,Romance;Benjamin Walker, Teresa Palmer, Alexandra Daddario,Maggie Grace
-297;Ice Age: Collision Course;Animation,Adventure,Comedy;Ray Romano, Denis Leary, John Leguizamo, Chris Wedge
-298;The Devil Wears Prada;Comedy,Drama;Anne Hathaway, Meryl Streep, Adrian Grenier, Emily Blunt
-299;The Infiltrator;Biography,Crime,Drama;Bryan Cranston, John Leguizamo, Diane Kruger, Amy Ryan
-300;There Will Be Blood;Drama,History;Daniel Day-Lewis, Paul Dano, Ciarán Hinds,Martin Stringer
-301;The Equalizer;Action,Crime,Thriller;Denzel Washington, Marton Csokas, Chloë Grace Moretz, David Harbour
-302;Lone Survivor;Action,Biography,Drama;Mark Wahlberg, Taylor Kitsch, Emile Hirsch, Ben Foster
-303;The Cabin in the Woods;Horror;Kristen Connolly, Chris Hemsworth, Anna Hutchison,Fran Kranz
-304;The House Bunny;Comedy,Romance;Anna Faris, Colin Hanks, Emma Stone, Kat Dennings
-305;She's Out of My League;Comedy,Romance;Jay Baruchel, Alice Eve, T.J. Miller, Mike Vogel
-306;Inherent Vice;Comedy,Crime,Drama;Joaquin Phoenix, Josh Brolin, Owen Wilson,Katherine Waterston
-307;Alice Through the Looking Glass;Adventure,Family,Fantasy;Mia Wasikowska, Johnny Depp, Helena Bonham Carter, Anne Hathaway
-308;Vincent N Roxxy;Crime,Drama,Thriller;Emile Hirsch, Zoë Kravitz, Zoey Deutch,Emory Cohen
-309;The Fast and the Furious: Tokyo Drift;Action,Crime,Thriller;Lucas Black, Zachery Ty Bryan, Shad Moss, Damien Marzette
-310;How to Be Single;Comedy,Romance;Dakota Johnson, Rebel Wilson, Leslie Mann, Alison Brie
-311;The Blind Side;Biography,Drama,Sport;Quinton Aaron, Sandra Bullock, Tim McGraw,Jae Head
-312;La vie d'Adèle;Drama,Romance;Léa Seydoux, Adèle Exarchopoulos, Salim Kechiouche, Aurélien Recoing
-313;The Babadook;Drama,Horror;Essie Davis, Noah Wiseman, Daniel Henshall, Hayley McElhinney
-314;The Hobbit: The Battle of the Five Armies;Adventure,Fantasy;Ian McKellen, Martin Freeman, Richard Armitage,Cate Blanchett
-315;Harry Potter and the Order of the Phoenix;Adventure,Family,Fantasy;Daniel Radcliffe, Emma Watson, Rupert Grint, Brendan Gleeson
-316;Snowpiercer;Action,Drama,Sci-Fi;Chris Evans, Jamie Bell, Tilda Swinton, Ed Harris
-317;The 5th Wave;Action,Adventure,Sci-Fi;Chloë Grace Moretz, Matthew Zuk, Gabriela Lopez,Bailey Anne Borders
-318;The Stakelander;Action,Horror;Connor Paolo, Nick Damici, Laura Abramsen, A.C. Peterson
-319;The Visit;Comedy,Horror,Thriller;Olivia DeJonge, Ed Oxenbould, Deanna Dunagan, Peter McRobbie
-320;Fast Five;Action,Crime,Thriller;Vin Diesel, Paul Walker, Dwayne Johnson, Jordana Brewster
-321;Step Up;Crime,Drama,Music;Channing Tatum, Jenna Dewan Tatum, Damaine Radcliff, De'Shawn Washington
-322;Lovesong;Drama;Riley Keough, Jena Malone, Jessie Ok Gray, Cary Joji Fukunaga
-323;RocknRolla;Action,Crime,Thriller;Gerard Butler, Tom Wilkinson, Idris Elba, Thandie Newton
-324;In Time;Action,Sci-Fi,Thriller;Justin Timberlake, Amanda Seyfried, Cillian Murphy,Olivia Wilde
-325;The Social Network;Biography,Drama;Jesse Eisenberg, Andrew Garfield, Justin Timberlake,Rooney Mara
-326;The Last Witch Hunter;Action,Adventure,Fantasy;Vin Diesel, Rose Leslie, Elijah Wood, Ólafur Darri Ólafsson
-327;Victor Frankenstein;Drama,Horror,Sci-Fi;Daniel Radcliffe, James McAvoy, Jessica Brown Findlay, Andrew Scott
-328;A Street Cat Named Bob;Biography,Comedy,Drama;Luke Treadaway, Bob the Cat, Ruta Gedmintas, Joanne Froggatt
-329;Green Room;Crime,Horror,Thriller;Anton Yelchin, Imogen Poots, Alia Shawkat,Patrick Stewart
-330;Blackhat;Crime,Drama,Mystery;Chris Hemsworth, Viola Davis, Wei Tang, Leehom Wang
-331;Storks;Animation,Adventure,Comedy;Andy Samberg, Katie Crown,Kelsey Grammer, Jennifer Aniston
-332;American Sniper;Action,Biography,Drama;Bradley Cooper, Sienna Miller, Kyle Gallner, Cole Konis
-333;Dallas Buyers Club;Biography,Drama;Matthew McConaughey, Jennifer Garner, Jared Leto, Steve Zahn
-334;Lincoln;Biography,Drama,History;Daniel Day-Lewis, Sally Field, David Strathairn,Joseph Gordon-Levitt
-335;Rush;Action,Biography,Drama;Daniel Brühl, Chris Hemsworth, Olivia Wilde,Alexandra Maria Lara
-336;Before I Wake;Drama,Fantasy,Horror;Kate Bosworth, Thomas Jane, Jacob Tremblay,Annabeth Gish
-337;Silver Linings Playbook;Comedy,Drama,Romance;Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver
-338;Tracktown;Drama,Sport;Alexi Pappas, Chase Offerle, Rachel Dratch, Andy Buckley
-339;The Fault in Our Stars;Drama,Romance;Shailene Woodley, Ansel Elgort, Nat Wolff, Laura Dern
-340;Blended;Comedy,Romance;Adam Sandler, Drew Barrymore, Wendi McLendon-Covey, Kevin Nealon
-341;Fast & Furious;Action,Crime,Thriller;Vin Diesel, Paul Walker, Michelle Rodriguez, Jordana Brewster
-342;Looper;Action,Crime,Drama;Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano
-343;White House Down;Action,Drama,Thriller;Channing Tatum, Jamie Foxx, Maggie Gyllenhaal,Jason Clarke
-344;Pete's Dragon;Adventure,Family,Fantasy;Bryce Dallas Howard, Robert Redford, Oakes Fegley,Oona Laurence
-345;Spider-Man 3;Action,Adventure;Tobey Maguire, Kirsten Dunst, Topher Grace, Thomas Haden Church
-346;The Three Musketeers;Action,Adventure,Romance;Logan Lerman, Matthew Macfadyen, Ray Stevenson, Milla Jovovich
-347;Stardust;Adventure,Family,Fantasy;Charlie Cox, Claire Danes, Sienna Miller, Ian McKellen
-348;American Hustle;Crime,Drama;Christian Bale, Amy Adams, Bradley Cooper,Jennifer Lawrence
-349;Jennifer's Body;Comedy,Horror;Megan Fox, Amanda Seyfried, Adam Brody, Johnny Simmons
-350;Midnight in Paris;Comedy,Fantasy,Romance;Owen Wilson, Rachel McAdams, Kathy Bates, Kurt Fuller
-351;Lady Macbeth;Drama;Florence Pugh, Christopher Fairbank, Cosmo Jarvis, Naomi Ackie
-352;Joy;Drama;Jennifer Lawrence, Robert De Niro, Bradley Cooper, Edgar Ramírez
-353;The Dressmaker;Comedy,Drama;Kate Winslet, Judy Davis, Liam Hemsworth,Hugo Weaving
-354;Café Society;Comedy,Drama,Romance;Jesse Eisenberg, Kristen Stewart, Steve Carell, Blake Lively
-355;Insurgent;Adventure,Sci-Fi,Thriller;Shailene Woodley, Ansel Elgort, Theo James,Kate Winslet
-356;Seventh Son;Action,Adventure,Fantasy;Ben Barnes, Julianne Moore, Jeff Bridges, Alicia Vikander
-357;Demain tout commence;Comedy,Drama;
-358;The Theory of Everything;Biography,Drama,Romance;Eddie Redmayne, Felicity Jones, Tom Prior, Sophie Perry
-359;This Is the End;Comedy,Fantasy;James Franco, Jonah Hill, Seth Rogen,Jay Baruchel
-360;About Time;Comedy,Drama,Fantasy;Domhnall Gleeson, Rachel McAdams, Bill Nighy,Lydia Wilson
-361;Step Brothers;Comedy;Will Ferrell, John C. Reilly, Mary Steenburgen,Richard Jenkins
-362;Clown;Horror,Thriller;Andy Powers, Laura Allen, Peter Stormare, Christian Distefano
-363;Star Trek Into Darkness;Action,Adventure,Sci-Fi;Chris Pine, Zachary Quinto, Zoe Saldana, Benedict Cumberbatch
-364;Zombieland;Adventure,Comedy,Horror;Jesse Eisenberg, Emma Stone, Woody Harrelson,Abigail Breslin
-365;Hail, Caesar!;Comedy,Mystery;Josh Brolin, George Clooney, Alden Ehrenreich, Ralph Fiennes
-366;Slumdog Millionaire;Drama;Dev Patel, Freida Pinto, Saurabh Shukla, Anil Kapoor
-367;The Twilight Saga: Breaking Dawn - Part 2;Adventure,Drama,Fantasy;Kristen Stewart, Robert Pattinson, Taylor Lautner, Peter Facinelli
-368;American Wrestler: The Wizard;Drama,Sport;William Fichtner, Jon Voight, Lia Marie Johnson,Gabriel Basso
-369;The Amazing Spider-Man;Action,Adventure;Andrew Garfield, Emma Stone, Rhys Ifans, Irrfan Khan
-370;Ben-Hur;Action,Adventure,Drama;Jack Huston, Toby Kebbell, Rodrigo Santoro,Nazanin Boniadi
-371;Sleight;Action,Drama,Sci-Fi;Jacob Latimore, Seychelle Gabriel, Dulé Hill, Storm Reid
-372;The Maze Runner;Action,Mystery,Sci-Fi;Dylan O'Brien, Kaya Scodelario, Will Poulter, Thomas Brodie-Sangster
-373;Criminal;Action,Crime,Drama;Kevin Costner, Ryan Reynolds, Gal Gadot, Gary Oldman
-374;Wanted;Action,Crime,Fantasy;Angelina Jolie, James McAvoy, Morgan Freeman, Terence Stamp
-375;Florence Foster Jenkins;Biography,Comedy,Drama;Meryl Streep, Hugh Grant, Simon Helberg, Rebecca Ferguson
-376;Collide;Action,Crime,Thriller;Nicholas Hoult, Felicity Jones, Anthony Hopkins, Ben Kingsley
-377;Black Mass;Biography,Crime,Drama;Johnny Depp, Benedict Cumberbatch, Dakota Johnson, Joel Edgerton
-378;Creed;Drama,Sport;Michael B. Jordan, Sylvester Stallone, Tessa Thompson, Phylicia Rashad
-379;Swiss Army Man;Adventure,Comedy,Drama;Paul Dano, Daniel Radcliffe, Mary Elizabeth Winstead, Antonia Ribero
-380;The Expendables 3;Action,Adventure,Thriller;Sylvester Stallone, Jason Statham, Jet Li, Antonio Banderas
-381;What We Do in the Shadows;Comedy,Fantasy,Horror;Jemaine Clement, Taika Waititi,Cori Gonzalez-Macuer, Jonny Brugh
-382;Southpaw;Drama,Sport;Jake Gyllenhaal, Rachel McAdams, Oona Laurence,Forest Whitaker
-383;Hush;Horror,Thriller;John Gallagher Jr., Kate Siegel, Michael Trucco,Samantha Sloyan
-384;Bridge of Spies;Drama,History,Thriller;Tom Hanks, Mark Rylance, Alan Alda, Amy Ryan
-385;The Lego Movie;Animation,Action,Adventure;Chris Pratt, Will Ferrell, Elizabeth Banks, Will Arnett
-386;Everest;Action,Adventure,Drama;Jason Clarke, Ang Phula Sherpa, Thomas M. Wright, Martin Henderson
-387;Pixels;Action,Comedy,Family;Adam Sandler, Kevin James, Michelle Monaghan,Peter Dinklage
-388;Robin Hood;Action,Adventure,Drama;Russell Crowe, Cate Blanchett, Matthew Macfadyen,Max von Sydow
-389;The Wolverine;Action,Adventure,Sci-Fi;Hugh Jackman, Will Yun Lee, Tao Okamoto, Rila Fukushima
-390;John Carter;Action,Adventure,Sci-Fi;Taylor Kitsch, Lynn Collins, Willem Dafoe,Samantha Morton
-391;Keanu;Action,Comedy;Keegan-Michael Key, Jordan Peele, Tiffany Haddish,Method Man
-392;The Gunman;Action,Crime,Drama;Sean Penn, Idris Elba, Jasmine Trinca, Javier Bardem
-393;Steve Jobs;Biography,Drama;Michael Fassbender, Kate Winslet, Seth Rogen, Jeff Daniels
-394;Whisky Galore;Comedy,Romance;Tim Pigott-Smith, Naomi Battrick, Ellie Kendrick,James Cosmo
-395;Grown Ups 2;Comedy;Adam Sandler, Kevin James, Chris Rock, David Spade
-396;The Age of Adaline;Drama,Fantasy,Romance;Blake Lively, Michiel Huisman, Harrison Ford,Kathy Baker
-397;The Incredible Hulk;Action,Adventure,Sci-Fi;Edward Norton, Liv Tyler, Tim Roth, William Hurt
-398;Couples Retreat;Comedy;Vince Vaughn, Malin Akerman, Jon Favreau, Jason Bateman
-399;Absolutely Anything;Comedy,Sci-Fi;Simon Pegg, Kate Beckinsale, Sanjeev Bhaskar, Rob Riggle
-400;Magic Mike;Comedy,Drama;Channing Tatum, Alex Pettyfer, Olivia Munn,Matthew McConaughey
-401;Minions;Animation,Action,Adventure;Sandra Bullock, Jon Hamm, Michael Keaton, Pierre Coffin
-402;The Black Room;Horror;Natasha Henstridge, Lukas Hassel, Lin Shaye,Dominique Swain
-403;Bronson;Action,Biography,Crime;Tom Hardy, Kelly Adams, Luing Andrews,Katy Barker
-404;Despicable Me;Animation,Adventure,Comedy;Steve Carell, Jason Segel, Russell Brand, Julie Andrews
-405;The Best of Me;Drama,Romance;James Marsden, Michelle Monaghan, Luke Bracey,Liana Liberato
-406;The Invitation;Drama,Mystery,Thriller;Logan Marshall-Green, Emayatzy Corinealdi, Michiel Huisman, Tammy Blanchard
-407;Zero Dark Thirty;Drama,History,Thriller;Jessica Chastain, Joel Edgerton, Chris Pratt, Mark Strong
-408;Tangled;Animation,Adventure,Comedy;Mandy Moore, Zachary Levi, Donna Murphy, Ron Perlman
-409;The Hunger Games: Mockingjay - Part 2;Action,Adventure,Sci-Fi;Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson
-410;Vacation;Adventure,Comedy;Ed Helms, Christina Applegate, Skyler Gisondo, Steele Stebbins
-411;Taken;Action,Thriller;Liam Neeson, Maggie Grace, Famke Janssen, Leland Orser
-412;Pitch Perfect 2;Comedy,Music;Anna Kendrick, Rebel Wilson, Hailee Steinfeld,Brittany Snow
-413;Monsters University;Animation,Adventure,Comedy;Billy Crystal, John Goodman, Steve Buscemi, Helen Mirren
-414;Elle;Crime,Drama,Thriller;Isabelle Huppert, Laurent Lafitte, Anne Consigny,Charles Berling
-415;Mechanic: Resurrection;Action,Adventure,Crime;Jason Statham, Jessica Alba, Tommy Lee Jones,Michelle Yeoh
-416;Tusk;Comedy,Drama,Horror;Justin Long, Michael Parks, Haley Joel Osment,Genesis Rodriguez
-417;The Headhunter's Calling;Drama;Alison Brie, Gerard Butler, Willem Dafoe, Gretchen Mol
-418;Atonement;Drama,Mystery,Romance;Keira Knightley, James McAvoy, Brenda Blethyn,Saoirse Ronan
-419;Harry Potter and the Deathly Hallows: Part 1;Adventure,Family,Fantasy;Daniel Radcliffe, Emma Watson, Rupert Grint, Bill Nighy
-420;Shame;Drama;Michael Fassbender, Carey Mulligan, James Badge Dale, Lucy Walters
-421;Hanna;Action,Drama,Thriller;Saoirse Ronan, Cate Blanchett, Eric Bana, Vicky Krieps
-422;The Babysitters;Drama;Lauren Birkell, Paul Borghese, Chira Cassel, Anthony Cirillo
-423;Pride and Prejudice and Zombies;Action,Horror,Romance;Lily James, Sam Riley, Jack Huston, Bella Heathcote
-424;300: Rise of an Empire;Action,Drama,Fantasy;Sullivan Stapleton, Eva Green, Lena Headey, Hans Matheson
-425;London Has Fallen;Action,Crime,Drama;Gerard Butler, Aaron Eckhart, Morgan Freeman,Angela Bassett
-426;The Curious Case of Benjamin Button;Drama,Fantasy,Romance;Brad Pitt, Cate Blanchett, Tilda Swinton, Julia Ormond
-427;Sin City: A Dame to Kill For;Action,Crime,Thriller;Mickey Rourke, Jessica Alba, Josh Brolin, Joseph Gordon-Levitt
-428;The Bourne Ultimatum;Action,Mystery,Thriller;Matt Damon, Edgar Ramírez, Joan Allen, Julia Stiles
-429;Srpski film;Horror,Mystery,Thriller;Srdjan 'Zika' Todorovic, Sergej Trifunovic,Jelena Gavrilovic, Slobodan Bestic
-430;The Purge: Election Year;Action,Horror,Sci-Fi;Frank Grillo, Elizabeth Mitchell, Mykelti Williamson, Joseph Julian Soria
-431;3 Idiots;Comedy,Drama;Aamir Khan, Madhavan, Mona Singh, Sharman Joshi
-432;Zoolander 2;Comedy;Ben Stiller, Owen Wilson, Penélope Cruz, Will Ferrell
-433;World War Z;Action,Adventure,Horror;Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale
-434;Mission: Impossible - Ghost Protocol;Action,Adventure,Thriller;Tom Cruise, Jeremy Renner, Simon Pegg, Paula Patton
-435;Let Me Make You a Martyr;Action,Crime,Drama;Marilyn Manson, Mark Boone Junior, Sam Quartin, Niko Nicotera
-436;Filth;Comedy,Crime,Drama;James McAvoy, Jamie Bell, Eddie Marsan, Imogen Poots
-437;The Longest Ride;Drama,Romance;Scott Eastwood, Britt Robertson, Alan Alda, Jack Huston
-438;The imposible;Drama,Thriller;Naomi Watts, Ewan McGregor, Tom Holland, Oaklee Pendergast
-439;Kick-Ass 2;Action,Comedy,Crime;Aaron Taylor-Johnson, Chloë Grace Moretz,Christopher Mintz-Plasse, Jim Carrey
-440;Folk Hero & Funny Guy;Comedy;Alex Karpovsky, Wyatt Russell, Meredith Hagner,Melanie Lynskey
-441;Oz the Great and Powerful;Adventure,Family,Fantasy;James Franco, Michelle Williams, Rachel Weisz, Mila Kunis
-442;Brooklyn;Drama,Romance;Saoirse Ronan, Emory Cohen, Domhnall Gleeson,Jim Broadbent
-443;Coraline;Animation,Family,Fantasy;Dakota Fanning, Teri Hatcher, John Hodgman, Jennifer Saunders
-444;Blue Valentine;Drama,Romance;Ryan Gosling, Michelle Williams, John Doman,Faith Wladyka
-445;The Thinning;Thriller;Logan Paul, Peyton List, Lia Marie Johnson,Calum Worthy
-446;Silent Hill;Adventure,Horror,Mystery;Radha Mitchell, Laurie Holden, Sean Bean,Deborah Kara Unger
-447;Dredd;Action,Sci-Fi;Karl Urban, Olivia Thirlby, Lena Headey, Rachel Wood
-448;Hunt for the Wilderpeople;Adventure,Comedy,Drama;Sam Neill, Julian Dennison, Rima Te Wiata, Rachel House
-449;Big Hero 6;Animation,Action,Adventure;Ryan Potter, Scott Adsit, Jamie Chung,T.J. Miller
-450;Carrie;Drama,Horror;Chloë Grace Moretz, Julianne Moore, Gabriella Wilde, Portia Doubleday
-451;Iron Man 2;Action,Adventure,Sci-Fi;Robert Downey Jr., Mickey Rourke, Gwyneth Paltrow,Don Cheadle
-452;Demolition;Comedy,Drama;Jake Gyllenhaal, Naomi Watts, Chris Cooper,Judah Lewis
-453;Pandorum;Action,Horror,Mystery;Dennis Quaid, Ben Foster, Cam Gigandet, Antje Traue
-454;Olympus Has Fallen;Action,Thriller;
-455;I Am Number Four;Action,Adventure,Sci-Fi;Alex Pettyfer, Timothy Olyphant, Dianna Agron, Teresa Palmer
-456;Jagten;Drama;Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp, Lasse Fogelstrøm
-457;The Proposal;Comedy,Drama,Romance;Sandra Bullock, Ryan Reynolds, Mary Steenburgen,Craig T. Nelson
-458;Get Hard;Comedy,Crime;Will Ferrell, Kevin Hart, Alison Brie, T.I.
-459;Just Go with It;Comedy,Romance;Adam Sandler, Jennifer Aniston, Brooklyn Decker,Nicole Kidman
-460;Revolutionary Road;Drama,Romance;Leonardo DiCaprio, Kate Winslet, Christopher Fitzgerald, Jonathan Roumie
-461;The Town;Crime,Drama,Thriller;Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner
-462;The Boy;Horror,Mystery,Thriller;Lauren Cohan, Rupert Evans, James Russell, Jim Norton
-463;Denial;Biography,Drama;Rachel Weisz, Tom Wilkinson, Timothy Spall, Andrew Scott
-464;Predestination;Drama,Mystery,Sci-Fi;Ethan Hawke, Sarah Snook, Noah Taylor, Madeleine West
-465;Goosebumps;Adventure,Comedy,Family;Jack Black, Dylan Minnette, Odeya Rush, Ryan Lee
-466;Sherlock Holmes: A Game of Shadows;Action,Adventure,Crime;Robert Downey Jr., Jude Law, Jared Harris, Rachel McAdams
-467;Salt;Action,Crime,Mystery;Angelina Jolie, Liev Schreiber, Chiwetel Ejiofor, Daniel Olbrychski
-468;Enemy;Mystery,Thriller;Jake Gyllenhaal, Mélanie Laurent, Sarah Gadon,Isabella Rossellini
-469;District 9;Action,Sci-Fi,Thriller;Sharlto Copley, David James, Jason Cope, Nathalie Boltt
-470;The Other Guys;Action,Comedy,Crime;Will Ferrell, Mark Wahlberg, Derek Jeter, Eva Mendes
-471;American Gangster;Biography,Crime,Drama;Denzel Washington, Russell Crowe, Chiwetel Ejiofor,Josh Brolin
-472;Marie Antoinette;Biography,Drama,History;Kirsten Dunst, Jason Schwartzman, Rip Torn, Judy Davis
-473;2012;Action,Adventure,Sci-Fi;John Cusack, Thandie Newton, Chiwetel Ejiofor,Amanda Peet
-474;Harry Potter and the Half-Blood Prince;Adventure,Family,Fantasy;Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon
-475;Argo;Biography,Drama,History;Ben Affleck, Bryan Cranston, John Goodman, Alan Arkin
-476;Eddie the Eagle;Biography,Comedy,Drama;Taron Egerton, Hugh Jackman, Tom Costello, Jo Hartley
-477;The Lives of Others;Drama,Thriller;Ulrich Mühe, Martina Gedeck,Sebastian Koch, Ulrich Tukur
-478;Pet;Horror,Thriller;Dominic Monaghan, Ksenia Solo, Jennette McCurdy,Da'Vone McDonald
-479;Paint It Black;Drama;Alia Shawkat, Nancy Kwan, Annabelle Attanasio,Alfred Molina
-480;Macbeth;Drama,War;Michael Fassbender, Marion Cotillard, Jack Madigan,Frank Madigan
-481;Forgetting Sarah Marshall;Comedy,Drama,Romance;Kristen Bell, Jason Segel, Paul Rudd, Mila Kunis
-482;The Giver;Drama,Romance,Sci-Fi;Brenton Thwaites, Jeff Bridges, Meryl Streep, Taylor Swift
-483;Triple 9;Action,Crime,Drama;Casey Affleck, Chiwetel Ejiofor, Anthony Mackie,Aaron Paul
-484;Perfetti sconosciuti;Comedy,Drama;Giuseppe Battiston, Anna Foglietta, Marco Giallini,Edoardo Leo
-485;Angry Birds;Animation,Action,Adventure;Jason Sudeikis, Josh Gad, Danny McBride, Maya Rudolph
-486;Moonrise Kingdom;Adventure,Comedy,Drama;Jared Gilman, Kara Hayward, Bruce Willis, Bill Murray
-487;Hairspray;Comedy,Drama,Family;John Travolta, Queen Latifah, Nikki Blonsky,Michelle Pfeiffer
-488;Safe Haven;Drama,Romance,Thriller;Julianne Hough, Josh Duhamel, Cobie Smulders,David Lyons
-489;Focus;Comedy,Crime,Drama;Will Smith, Margot Robbie, Rodrigo Santoro, Adrian Martinez
-490;Ratatouille;Animation,Comedy,Family;Brad Garrett, Lou Romano, Patton Oswalt,Ian Holm
-491;Stake Land;Drama,Horror,Sci-Fi;Connor Paolo, Nick Damici, Kelly McGillis, Gregory Jones
-492;The Book of Eli;Action,Adventure,Drama;Denzel Washington, Mila Kunis, Ray Stevenson, Gary Oldman
-493;Cloverfield;Action,Horror,Sci-Fi;Mike Vogel, Jessica Lucas, Lizzy Caplan, T.J. Miller
-494;Point Break;Action,Crime,Sport;Edgar Ramírez, Luke Bracey, Ray Winstone, Teresa Palmer
-495;Under the Skin;Drama,Horror,Sci-Fi;Scarlett Johansson, Jeremy McWilliams, Lynsey Taylor Mackay, Dougie McConnell
-496;I Am Legend;Drama,Horror,Sci-Fi;Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield
-497;Men in Black 3;Action,Adventure,Comedy;Will Smith, Tommy Lee Jones, Josh Brolin,Jemaine Clement
-498;Super 8;Mystery,Sci-Fi,Thriller;Elle Fanning, AJ Michalka, Kyle Chandler, Joel Courtney
-499;Law Abiding Citizen;Crime,Drama,Thriller;Gerard Butler, Jamie Foxx, Leslie Bibb, Colm Meaney
-500;Up;Animation,Adventure,Comedy;Edward Asner, Jordan Nagai, John Ratzenberger, Christopher Plummer
-501;Maze Runner: The Scorch Trials;Action,Sci-Fi,Thriller;Dylan O'Brien, Kaya Scodelario, Thomas Brodie-Sangster,Giancarlo Esposito
-502;Carol;Drama,Romance;Cate Blanchett, Rooney Mara, Sarah Paulson, Kyle Chandler
-503;Imperium;Crime,Drama,Thriller;Daniel Radcliffe, Toni Collette, Tracy Letts, Sam Trammell
-504;Youth;Comedy,Drama,Music;Michael Caine, Harvey Keitel, Rachel Weisz, Jane Fonda
-505;Mr. Nobody;Drama,Fantasy,Romance;Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
-506;City of Tiny Lights;Crime,Drama,Thriller;Riz Ahmed, Billie Piper, James Floyd, Cush Jumbo
-507;Savages;Crime,Drama,Thriller;Aaron Taylor-Johnson, Taylor Kitsch, Blake Lively,Benicio Del Toro
-508;(500) Days of Summer;Comedy,Drama,Romance;Zooey Deschanel, Joseph Gordon-Levitt, Geoffrey Arend, Chloë Grace Moretz
-509;Movie 43;Comedy,Romance;Emma Stone, Stephen Merchant, Richard Gere, Liev Schreiber
-510;Gravity;Drama,Sci-Fi,Thriller;Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen
-511;The Boy in the Striped Pyjamas;Drama,War;Asa Butterfield, David Thewlis, Rupert Friend, Zac Mattoon O'Brien
-512;Shooter;Action,Crime,Drama;Mark Wahlberg, Michael Peña, Rhona Mitra, Danny Glover
-513;The Happening;Sci-Fi,Thriller;Mark Wahlberg, Zooey Deschanel, John Leguizamo, Ashlyn Sanchez
-514;Bone Tomahawk;Adventure,Drama,Horror;Kurt Russell, Patrick Wilson, Matthew Fox, Richard Jenkins
-515;Magic Mike XXL;Comedy,Drama,Music;Channing Tatum, Joe Manganiello, Matt Bomer,Adam Rodriguez
-516;Easy A;Comedy,Drama,Romance;Emma Stone, Amanda Bynes, Penn Badgley, Dan Byrd
-517;Exodus: Gods and Kings;Action,Adventure,Drama;Christian Bale, Joel Edgerton, Ben Kingsley, Sigourney Weaver
-518;Chappie;Action,Crime,Drama;Sharlto Copley, Dev Patel, Hugh Jackman,Sigourney Weaver
-519;The Hobbit: The Desolation of Smaug;Adventure,Fantasy;Ian McKellen, Martin Freeman, Richard Armitage,Ken Stott
-520;Half of a Yellow Sun;Drama,Romance;Chiwetel Ejiofor, Thandie Newton, Anika Noni Rose,Joseph Mawle
-521;Anthropoid;Biography,History,Thriller;Jamie Dornan, Cillian Murphy, Brian Caspe, Karel Hermánek Jr.
-522;The Counselor;Crime,Drama,Thriller;Michael Fassbender, Penélope Cruz, Cameron Diaz,Javier Bardem
-523;Viking;Action,Drama,History;Anton Adasinsky, Aleksandr Armer, Vilen Babichev, Rostislav Bershauer
-524;Whiskey Tango Foxtrot;Biography,Comedy,Drama;Tina Fey, Margot Robbie, Martin Freeman, Alfred Molina
-525;Trust;Crime,Drama,Thriller;Clive Owen, Catherine Keener, Liana Liberato,Jason Clarke
-526;Birth of the Dragon;Action,Biography,Drama;Billy Magnussen, Terry Chen, Teresa Navarro,Vanessa Ross
-527;Elysium;Action,Drama,Sci-Fi;Matt Damon, Jodie Foster, Sharlto Copley, Alice Braga
-528;The Green Inferno;Adventure,Horror;Lorenza Izzo, Ariel Levy, Aaron Burns, Kirby Bliss Blanton
-529;Godzilla;Action,Adventure,Sci-Fi;Aaron Taylor-Johnson, Elizabeth Olsen, Bryan Cranston, Ken Watanabe
-530;The Bourne Legacy;Action,Adventure,Mystery;Jeremy Renner, Rachel Weisz, Edward Norton, Scott Glenn
-531;A Good Year;Comedy,Drama,Romance;Russell Crowe, Abbie Cornish, Albert Finney, Marion Cotillard
-532;Friend Request;Horror,Thriller;Alycia Debnam-Carey, William Moseley, Connor Paolo, Brit Morgan
-533;Deja Vu;Action,Sci-Fi,Thriller;Denzel Washington, Paula Patton, Jim Caviezel, Val Kilmer
-534;Lucy;Action,Sci-Fi,Thriller;Scarlett Johansson, Morgan Freeman, Min-sik Choi,Amr Waked
-535;A Quiet Passion;Biography,Drama;Cynthia Nixon, Jennifer Ehle, Duncan Duff, Keith Carradine
-536;Need for Speed;Action,Crime,Drama;Aaron Paul, Dominic Cooper, Imogen Poots, Scott Mescudi
-537;Jack Reacher;Action,Crime,Mystery;Tom Cruise, Rosamund Pike, Richard Jenkins, Werner Herzog
-538;The Do-Over;Action,Adventure,Comedy;Adam Sandler, David Spade, Paula Patton, Kathryn Hahn
-539;True Crimes;Crime,Drama,Thriller;Jim Carrey, Charlotte Gainsbourg, Marton Csokas, Kati Outinen
-540;American Pastoral;Crime,Drama;Ewan McGregor, Jennifer Connelly, Dakota Fanning, Peter Riegert
-541;The Ghost Writer;Mystery,Thriller;Ewan McGregor, Pierce Brosnan, Olivia Williams,Jon Bernthal
-542;Limitless;Mystery,Sci-Fi,Thriller;Bradley Cooper, Anna Friel, Abbie Cornish, Robert De Niro
-543;Spectral;Action,Mystery,Sci-Fi;James Badge Dale, Emily Mortimer, Bruce Greenwood,Max Martini
-544;P.S. I Love You;Drama,Romance;Hilary Swank, Gerard Butler, Harry Connick Jr., Lisa Kudrow
-545;Zipper;Drama,Thriller;Patrick Wilson, Lena Headey, Ray Winstone,Richard Dreyfuss
-546;Midnight Special;Drama,Mystery,Sci-Fi;Michael Shannon, Joel Edgerton, Kirsten Dunst, Adam Driver
-547;Don't Think Twice;Comedy,Drama;Keegan-Michael Key, Gillian Jacobs, Mike Birbiglia,Chris Gethard
-548;Alice in Wonderland;Adventure,Family,Fantasy;Mia Wasikowska, Johnny Depp, Helena Bonham Carter,Anne Hathaway
-549;Chuck;Biography,Drama,Sport;Elisabeth Moss, Naomi Watts, Ron Perlman, Liev Schreiber
-550;I, Daniel Blake;Drama;Dave Johns, Hayley Squires, Sharon Percy, Briana Shann
-551;The Break-Up;Comedy,Drama,Romance;Jennifer Aniston, Vince Vaughn, Jon Favreau, Joey Lauren Adams
-552;Loving;Biography,Drama,Romance;Ruth Negga, Joel Edgerton, Will Dalton, Dean Mumford
-553;Fantastic Four;Action,Adventure,Sci-Fi;Miles Teller, Kate Mara, Michael B. Jordan, Jamie Bell
-554;The Survivalist;Drama,Sci-Fi,Thriller;Mia Goth, Martin McCann, Barry Ward, Andrew Simpson
-555;Colonia;Drama,Romance,Thriller;Emma Watson, Daniel Brühl, Michael Nyqvist,Richenda Carey
-556;The Boy Next Door;Mystery,Thriller;Jennifer Lopez, Ryan Guzman, Kristin Chenoweth, John Corbett
-557;The Gift;Mystery,Thriller;Jason Bateman, Rebecca Hall, Joel Edgerton, Allison Tolman
-558;Dracula Untold;Action,Drama,Fantasy;Luke Evans, Dominic Cooper, Sarah Gadon, Art Parkinson
-559;In the Heart of the Sea;Action,Adventure,Biography;Chris Hemsworth, Cillian Murphy, Brendan Gleeson,Ben Whishaw
-560;Idiocracy;Adventure,Comedy,Sci-Fi;Luke Wilson, Maya Rudolph, Dax Shepard, Terry Crews
-561;The Expendables;Action,Adventure,Thriller;Sylvester Stallone, Jason Statham, Jet Li, Dolph Lundgren
-562;Evil Dead;Fantasy,Horror;Jane Levy, Shiloh Fernandez, Jessica Lucas, Lou Taylor Pucci
-563;Sinister;Horror,Mystery;Ethan Hawke, Juliet Rylance, James Ransone,Fred Dalton Thompson
-564;Wreck-It Ralph;Animation,Adventure,Comedy;John C. Reilly, Jack McBrayer, Jane Lynch, Sarah Silverman
-565;Snow White and the Huntsman;Action,Adventure,Drama;Kristen Stewart, Chris Hemsworth, Charlize Theron, Sam Claflin
-566;Pan;Adventure,Family,Fantasy;Levi Miller, Hugh Jackman, Garrett Hedlund, Rooney Mara
-567;Transformers: Dark of the Moon;Action,Adventure,Sci-Fi;Shia LaBeouf, Rosie Huntington-Whiteley, Tyrese Gibson, Josh Duhamel
-568;Juno;Comedy,Drama;Ellen Page, Michael Cera, Jennifer Garner, Jason Bateman
-569;A Hologram for the King;Comedy,Drama;Tom Hanks, Sarita Choudhury, Ben Whishaw,Alexander Black
-570;Money Monster;Crime,Drama,Thriller;George Clooney, Julia Roberts, Jack O'Connell,Dominic West
-571;The Other Woman;Comedy,Romance;Cameron Diaz, Leslie Mann, Kate Upton, Nikolaj Coster-Waldau
-572;Enchanted;Animation,Comedy,Family;Amy Adams, Susan Sarandon, James Marsden, Patrick Dempsey
-573;The Intern;Comedy,Drama;Robert De Niro, Anne Hathaway, Rene Russo,Anders Holm
-574;Little Miss Sunshine;Comedy,Drama;Steve Carell, Toni Collette, Greg Kinnear, Abigail Breslin
-575;Bleed for This;Biography,Drama,Sport;Miles Teller, Aaron Eckhart, Katey Sagal, Ciarán Hinds
-576;Clash of the Titans;Action,Adventure,Fantasy;Sam Worthington, Liam Neeson, Ralph Fiennes,Jason Flemyng
-577;The Finest Hours;Action,Drama,History;Chris Pine, Casey Affleck, Ben Foster, Eric Bana
-578;Tron;Action,Adventure,Sci-Fi;Jeff Bridges, Garrett Hedlund, Olivia Wilde, Bruce Boxleitner
-579;The Hunger Games: Catching Fire;Action,Adventure,Mystery;Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Philip Seymour Hoffman
-580;All Good Things;Crime,Drama,Mystery;Ryan Gosling, Kirsten Dunst, Frank Langella, Lily Rabe
-581;Kickboxer: Vengeance;Action;Dave Bautista, Alain Moussi, Gina Carano, Jean-Claude Van Damme
-582;The Last Airbender;Action,Adventure,Family;Noah Ringer, Nicola Peltz, Jackson Rathbone,Dev Patel
-583;Sex Tape;Comedy,Romance;Jason Segel, Cameron Diaz, Rob Corddry, Ellie Kemper
-584;What to Expect When You're Expecting;Comedy,Drama,Romance;Cameron Diaz, Matthew Morrison, J. Todd Smith, Dennis Quaid
-585;Moneyball;Biography,Drama,Sport;Brad Pitt, Robin Wright, Jonah Hill, Philip Seymour Hoffman
-586;Ghost Rider;Action,Fantasy,Thriller;Nicolas Cage, Eva Mendes, Sam Elliott, Matt Long
-587;Unbroken;Biography,Drama,Sport;Jack O'Connell, Miyavi, Domhnall Gleeson, Garrett Hedlund
-588;Immortals;Action,Drama,Fantasy;Henry Cavill, Mickey Rourke, John Hurt, Stephen Dorff
-589;Sunshine;Adventure,Sci-Fi,Thriller;Cillian Murphy, Rose Byrne, Chris Evans, Michelle Yeoh
-590;Brave;Animation,Adventure,Comedy;Kelly Macdonald,Billy Connolly, Emma Thompson, Julie Walters
-591;Män som hatar kvinnor;Drama,Mystery,Thriller;Michael Nyqvist, Noomi Rapace, Ewa Fröling,Lena Endre
-592;Adoration;Drama,Romance;Naomi Watts, Robin Wright, Xavier Samuel, James Frecheville
-593;The Drop;Crime,Drama,Mystery;Tom Hardy, Noomi Rapace, James Gandolfini,Matthias Schoenaerts
-594;She's the Man;Comedy,Romance,Sport;Amanda Bynes, Laura Ramsey, Channing Tatum,Vinnie Jones
-595;Daddy's Home;Comedy,Family;Will Ferrell, Mark Wahlberg, Linda Cardellini, Thomas Haden Church
-596;Let Me In;Drama,Horror,Mystery;Kodi Smit-McPhee, Chloë Grace Moretz, Richard Jenkins, Cara Buono
-597;Never Back Down;Action,Drama,Sport;Sean Faris, Djimon Hounsou, Amber Heard, Cam Gigandet
-598;Grimsby;Action,Adventure,Comedy;Sacha Baron Cohen, Mark Strong, Rebel Wilson,Freddie Crowder
-599;Moon;Drama,Mystery,Sci-Fi;Sam Rockwell, Kevin Spacey, Dominique McElligott,Rosie Shaw
-600;Megamind;Animation,Action,Comedy;Will Ferrell, Jonah Hill, Brad Pitt, Tina Fey
-601;Gangster Squad;Action,Crime,Drama;Sean Penn, Ryan Gosling, Emma Stone, Giovanni Ribisi
-602;Blood Father;Action,Crime,Drama;Mel Gibson, Erin Moriarty, Diego Luna, Michael Parks
-603;He's Just Not That Into You;Comedy,Drama,Romance;Jennifer Aniston, Jennifer Connelly, Morgan Lily,Trenton Rogers
-604;Kung Fu Panda 3;Animation,Action,Adventure;Jack Black, Bryan Cranston, Dustin Hoffman, Angelina Jolie
-605;The Rise of the Krays;Crime,Drama;Matt Vael, Simon Cotton, Kevin Leslie, Olivia Moyles
-606;Handsome Devil;Drama;Fionn O'Shea, Nicholas Galitzine, Andrew Scott, Moe Dunford
-607;Winter's Bone;Drama;Jennifer Lawrence, John Hawkes, Garret Dillahunt,Isaiah Stone
-608;Horrible Bosses;Comedy,Crime;Jason Bateman, Charlie Day, Jason Sudeikis, Steve Wiebe
-609;Mommy;Drama;Anne Dorval, Antoine-Olivier Pilon, Suzanne Clément,Patrick Huard
-610;Hellboy II: The Golden Army;Action,Adventure,Fantasy;Ron Perlman, Selma Blair, Doug Jones, John Alexander
-611;Beautiful Creatures;Drama,Fantasy,Romance;Alice Englert, Viola Davis, Emma Thompson,Alden Ehrenreich
-612;Toni Erdmann;Comedy,Drama;Sandra Hüller, Peter Simonischek, Michael Wittenborn,Thomas Loibl
-613;The Lovely Bones;Drama,Fantasy,Thriller;Rachel Weisz, Mark Wahlberg, Saoirse Ronan, Susan Sarandon
-614;The Assassination of Jesse James by the Coward Robert Ford;Biography,Crime,Drama;Brad Pitt, Casey Affleck, Sam Shepard, Mary-Louise Parker
-615;Don Jon;Comedy,Drama,Romance;Joseph Gordon-Levitt, Scarlett Johansson,Julianne Moore, Tony Danza
-616;Bastille Day;Action,Crime,Drama;Idris Elba, Richard Madden, Charlotte Le Bon, Kelly Reilly
-617;2307: Winter's Dream;Sci-Fi;Paul Sidhu, Branden Coles, Arielle Holmes, Kelcey Watson
-618;Free State of Jones;Action,Biography,Drama;Matthew McConaughey, Gugu Mbatha-Raw, Mahershala Ali, Keri Russell
-619;Mr. Right;Action,Comedy,Romance;Anna Kendrick, Sam Rockwell, Tim Roth, James Ransone
-620;The Secret Life of Walter Mitty;Adventure,Comedy,Drama;Ben Stiller, Kristen Wiig, Jon Daly, Kathryn Hahn
-621;Dope;Comedy,Crime,Drama;Shameik Moore, Tony Revolori, Kiersey Clemons,Kimberly Elise
-622;Underworld Awakening;Action,Fantasy,Horror;Kate Beckinsale, Michael Ealy, India Eisley, Stephen Rea
-623;Antichrist;Drama,Horror;Willem Dafoe, Charlotte Gainsbourg, Storm Acheche Sahlstrøm
-624;Friday the 13th;Horror;Jared Padalecki, Amanda Righetti, Derek Mears,Danielle Panabaker
-625;Taken 3;Action,Thriller;Liam Neeson, Forest Whitaker, Maggie Grace,Famke Janssen
-626;Total Recall;Action,Adventure,Mystery;Colin Farrell, Bokeem Woodbine, Bryan Cranston,Kate Beckinsale
-627;X-Men: The Last Stand;Action,Adventure,Fantasy;Patrick Stewart, Hugh Jackman, Halle Berry, Famke Janssen
-628;The Escort;Comedy,Drama,Romance;Lyndsy Fonseca, Michael Doneger, Tommy Dewey,Bruce Campbell
-629;The Whole Truth;Crime,Drama,Mystery;Keanu Reeves, Renée Zellweger, Gugu Mbatha-Raw, Gabriel Basso
-630;Night at the Museum: Secret of the Tomb;Adventure,Comedy,Family;Ben Stiller, Robin Williams, Owen Wilson, Dick Van Dyke
-631;Love & Other Drugs;Comedy,Drama,Romance;Jake Gyllenhaal, Anne Hathaway, Judy Greer, Oliver Platt
-632;The Interview;Comedy;James Franco, Seth Rogen, Randall Park, Lizzy Caplan
-633;The Host;Comedy,Drama,Horror;Kang-ho Song, Hee-Bong Byun, Hae-il Park, Doona Bae
-634;Megan Is Missing;Drama,Horror,Thriller;Amber Perkins, Rachel Quinn, Dean Waite, Jael Elizabeth Steinmeyer
-635;WALL·E;Animation,Adventure,Family;Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard
-636;Knocked Up;Comedy,Romance;Seth Rogen, Katherine Heigl, Paul Rudd, Leslie Mann
-637;Source Code;Mystery,Romance,Sci-Fi;Jake Gyllenhaal, Michelle Monaghan, Vera Farmiga,Jeffrey Wright
-638;Lawless;Crime,Drama;Tom Hardy, Shia LaBeouf, Guy Pearce, Jason Clarke
-639;Unfriended;Drama,Horror,Mystery;Heather Sossaman, Matthew Bohrer, Courtney Halverson, Shelley Hennig
-640;American Reunion;Comedy;Jason Biggs, Alyson Hannigan,Seann William Scott, Chris Klein
-641;The Pursuit of Happyness;Biography,Drama;Will Smith, Thandie Newton, Jaden Smith, Brian Howe
-642;Relatos salvajes;Comedy,Drama,Thriller;Darío Grandinetti, María Marull, Mónica Villa, Rita Cortese
-643;The Ridiculous 6;Comedy,Western;
-644;Frantz;Drama,History,War;Pierre Niney, Paula Beer, Ernst Stötzner, Marie Gruber
-645;Viral;Drama,Horror,Sci-Fi;Sofia Black-D'Elia, Analeigh Tipton,Travis Tope, Michael Kelly
-646;Gran Torino;Drama;Clint Eastwood, Bee Vang, Christopher Carley,Ahney Her
-647;Burnt;Comedy,Drama;Bradley Cooper, Sienna Miller, Daniel Brühl, Riccardo Scamarcio
-648;Tall Men;Fantasy,Horror,Thriller;Dan Crisafulli, Kay Whitney, Richard Garcia, Pat Cashman
-649;Sleeping Beauty;Drama,Romance;Emily Browning, Rachael Blake, Ewen Leslie, Bridgette Barrett
-650;Vampire Academy;Action,Comedy,Fantasy;Zoey Deutch, Lucy Fry, Danila Kozlovsky, Gabriel Byrne
-651;Sweeney Todd: The Demon Barber of Fleet Street;Drama,Horror,Musical;Johnny Depp, Helena Bonham Carter, Alan Rickman,Timothy Spall
-652;Solace;Crime,Drama,Mystery;Anthony Hopkins, Jeffrey Dean Morgan, Abbie Cornish, Colin Farrell
-653;Insidious;Horror,Mystery,Thriller;Patrick Wilson, Rose Byrne, Ty Simpkins, Lin Shaye
-654;Popstar: Never Stop Never Stopping;Comedy,Music;Andy Samberg, Jorma Taccone,Akiva Schaffer, Sarah Silverman
-655;The Levelling;Drama;Ellie Kendrick, David Troughton, Jack Holden,Joe Blakemore
-656;Public Enemies;Biography,Crime,Drama;Christian Bale, Johnny Depp, Christian Stolte, Jason Clarke
-657;Boyhood;Drama;Ellar Coltrane, Patricia Arquette, Ethan Hawke,Elijah Smith
-658;Teenage Mutant Ninja Turtles;Action,Adventure,Comedy;Megan Fox, Will Arnett, William Fichtner, Noel Fisher
-659;Eastern Promises;Crime,Drama,Mystery;Naomi Watts, Viggo Mortensen, Armin Mueller-Stahl, Josef Altin
-660;The Daughter;Drama;Geoffrey Rush, Nicholas Hope, Sam Neill, Ewen Leslie
-661;Pineapple Express;Action,Comedy,Crime;Seth Rogen, James Franco, Gary Cole, Danny McBride
-662;The First Time;Comedy,Drama,Romance;Dylan O'Brien, Britt Robertson, Victoria Justice, James Frecheville
-663;Gone Baby Gone;Crime,Drama,Mystery;Morgan Freeman, Ed Harris, Casey Affleck, Michelle Monaghan
-664;The Heat;Action,Comedy,Crime;Sandra Bullock, Michael McDonald, Melissa McCarthy,Demián Bichir
-665;L'avenir;Drama;Isabelle Huppert, André Marcon, Roman Kolinka,Edith Scob
-666;Anna Karenina;Drama,Romance;Keira Knightley, Jude Law, Aaron Taylor-Johnson,Matthew Macfadyen
-667;Regression;Crime,Drama,Mystery;Ethan Hawke, David Thewlis, Emma Watson,Dale Dickey
-668;Ted 2;Adventure,Comedy,Romance;Mark Wahlberg, Seth MacFarlane, Amanda Seyfried, Jessica Barth
-669;Pain & Gain;Comedy,Crime,Drama;Mark Wahlberg, Dwayne Johnson, Anthony Mackie,Tony Shalhoub
-670;Blood Diamond;Adventure,Drama,Thriller;Leonardo DiCaprio, Djimon Hounsou, Jennifer Connelly, Kagiso Kuypers
-671;Devil's Knot;Biography,Crime,Drama;Colin Firth, Reese Witherspoon, Alessandro Nivola,James Hamrick
-672;Child 44;Crime,Drama,Thriller;Tom Hardy, Gary Oldman, Noomi Rapace, Joel Kinnaman
-673;The Hurt Locker;Drama,History,Thriller;Jeremy Renner, Anthony Mackie, Brian Geraghty,Guy Pearce
-674;Green Lantern;Action,Adventure,Sci-Fi;Ryan Reynolds, Blake Lively, Peter Sarsgaard,Mark Strong
-675;War on Everyone;Action,Comedy;Alexander Skarsgård, Michael Peña, Theo James, Tessa Thompson
-676;The Mist;Horror;Thomas Jane, Marcia Gay Harden, Laurie Holden,Andre Braugher
-677;Escape Plan;Action,Crime,Mystery;Sylvester Stallone, Arnold Schwarzenegger, 50 Cent, Vincent D'Onofrio
-678;Love, Rosie;Comedy,Romance;Lily Collins, Sam Claflin, Christian Cooke, Jaime Winstone
-679;The DUFF;Comedy;Mae Whitman, Bella Thorne, Robbie Amell, Allison Janney
-680;The Age of Shadows;Action,Drama,Thriller;Byung-hun Lee, Yoo Gong, Kang-ho Song, Ji-min Han
-681;The Hunger Games: Mockingjay - Part 1;Action,Adventure,Sci-Fi;Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson
-682;We Need to Talk About Kevin;Drama,Mystery,Thriller;Tilda Swinton, John C. Reilly, Ezra Miller, Jasper Newell
-683;Love & Friendship;Comedy,Drama,Romance;Kate Beckinsale, Chloë Sevigny, Xavier Samuel,Emma Greenwell
-684;The Mortal Instruments: City of Bones;Action,Fantasy,Horror;Lily Collins, Jamie Campbell Bower, Robert Sheehan,Jemima West
-685;Seven Pounds;Drama,Romance;Will Smith, Rosario Dawson, Woody Harrelson,Michael Ealy
-686;The King's Speech;Biography,Drama;Colin Firth, Geoffrey Rush, Helena Bonham Carter,Derek Jacobi
-687;Hunger;Biography,Drama;Stuart Graham, Laine Megaw, Brian Milligan, Liam McMahon
-688;Jumper;Action,Adventure,Sci-Fi;Hayden Christensen, Samuel L. Jackson, Jamie Bell,Rachel Bilson
-689;Toy Story 3;Animation,Adventure,Comedy;Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty
-690;Tinker Tailor Soldier Spy;Drama,Mystery,Thriller;Gary Oldman, Colin Firth, Tom Hardy, Mark Strong
-691;Resident Evil: Retribution;Action,Horror,Sci-Fi;Milla Jovovich, Sienna Guillory, Michelle Rodriguez, Aryana Engineer
-692;Dear Zindagi;Drama,Romance;Alia Bhatt, Shah Rukh Khan, Kunal Kapoor, Priyanka Moodley
-693;Genius;Biography,Drama;Colin Firth, Jude Law, Nicole Kidman, Laura Linney
-694;Pompeii;Action,Adventure,Drama;Kit Harington, Emily Browning, Kiefer Sutherland, Adewale Akinnuoye-Agbaje
-695;Life of Pi;Adventure,Drama,Fantasy;Suraj Sharma, Irrfan Khan, Adil Hussain, Tabu
-696;Hachi: A Dog's Tale;Drama,Family;Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa,Sarah Roemer
-697;10 Years;Comedy,Drama,Romance;Channing Tatum, Rosario Dawson, Chris Pratt, Jenna Dewan Tatum
-698;I Origins;Drama,Romance,Sci-Fi;Michael Pitt, Steven Yeun, Astrid Bergès-Frisbey, Brit Marling
-699;Live Free or Die Hard;Action,Adventure,Thriller;Bruce Willis, Justin Long, Timothy Olyphant, Maggie Q
-700;The Matchbreaker;Comedy,Romance;Wesley Elder, Christina Grimmie, Osric Chau, Olan Rogers
-701;Funny Games;Crime,Drama,Horror;Naomi Watts, Tim Roth, Michael Pitt, Brady Corbet
-702;Ted;Comedy,Fantasy;Mark Wahlberg, Mila Kunis, Seth MacFarlane, Joel McHale
-703;RED;Action,Comedy,Crime;Bruce Willis, Helen Mirren, Morgan Freeman,Mary-Louise Parker
-704;Australia;Adventure,Drama,Romance;Nicole Kidman, Hugh Jackman, Shea Adams, Eddie Baroo
-705;Faster;Action,Crime,Drama;Dwayne Johnson, Billy Bob Thornton, Maggie Grace, Mauricio Lopez
-706;The Neighbor;Crime,Horror,Thriller;Josh Stewart, Bill Engvall, Alex Essoe, Ronnie Gene Blevins
-707;The Adjustment Bureau;Romance,Sci-Fi,Thriller;Matt Damon, Emily Blunt, Lisa Thoreson, Florence Kastriner
-708;The Hollars;Comedy,Drama,Romance;Sharlto Copley, Charlie Day, Richard Jenkins, Anna Kendrick
-709;The Judge;Crime,Drama;Robert Downey Jr., Robert Duvall, Vera Farmiga, Billy Bob Thornton
-710;Closed Circuit;Crime,Drama,Mystery;Eric Bana, Rebecca Hall, Jim Broadbent, Ciarán Hinds
-711;Transformers: Revenge of the Fallen;Action,Adventure,Sci-Fi;Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson
-712;La tortue rouge;Animation,Fantasy;Emmanuel Garijo, Tom Hudson, Baptiste Goy, Axel Devillers
-713;The Book of Life;Animation,Adventure,Comedy;Diego Luna, Zoe Saldana, Channing Tatum, Ron Perlman
-714;Incendies;Drama,Mystery,War;Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette, Mustafa Kamel
-715;The Heartbreak Kid;Comedy,Romance;Ben Stiller, Michelle Monaghan,Malin Akerman, Jerry Stiller
-716;Happy Feet;Animation,Comedy,Family;Elijah Wood, Brittany Murphy, Hugh Jackman, Robin Williams
-717;Entourage;Comedy;Adrian Grenier, Kevin Connolly, Jerry Ferrara, Kevin Dillon
-718;The Strangers;Horror,Mystery,Thriller;Scott Speedman, Liv Tyler, Gemma Ward, Alex Fisher
-719;Noah;Action,Adventure,Drama;Russell Crowe, Jennifer Connelly, Anthony Hopkins, Emma Watson
-720;Neighbors;Comedy;Seth Rogen, Rose Byrne, Zac Efron, Lisa Kudrow
-721;Nymphomaniac: Vol. II;Drama;Charlotte Gainsbourg, Stellan Skarsgård, Willem Dafoe, Jamie Bell
-722;Wild;Adventure,Biography,Drama;Reese Witherspoon, Laura Dern, Gaby Hoffmann,Michiel Huisman
-723;Grown Ups;Comedy;Adam Sandler, Salma Hayek, Kevin James, Chris Rock
-724;Blair Witch;Horror,Thriller;James Allen McCune, Callie Hernandez, Corbin Reid, Brandon Scott
-725;The Karate Kid;Action,Drama,Family;
-726;Dark Shadows;Comedy,Fantasy,Horror;Johnny Depp, Michelle Pfeiffer, Eva Green, Helena Bonham Carter
-727;Friends with Benefits;Comedy,Romance;Mila Kunis, Justin Timberlake, Patricia Clarkson, Jenna Elfman
-728;The Illusionist;Drama,Mystery,Romance;Edward Norton, Jessica Biel, Paul Giamatti, Rufus Sewell
-729;The A-Team;Action,Adventure,Comedy;Liam Neeson, Bradley Cooper, Sharlto Copley,Jessica Biel
-730;The Guest;Thriller;Dan Stevens, Sheila Kelley, Maika Monroe, Joel David Moore
-731;The Internship;Comedy;Vince Vaughn, Owen Wilson, Rose Byrne, Aasif Mandvi
-732;Paul;Adventure,Comedy,Sci-Fi;Simon Pegg, Nick Frost, Seth Rogen, Mia Stallard
-733;This Beautiful Fantastic;Comedy,Drama,Fantasy;Jessica Brown Findlay, Andrew Scott, Jeremy Irvine,Tom Wilkinson
-734;The Da Vinci Code;Mystery,Thriller;Tom Hanks, Audrey Tautou, Jean Reno, Ian McKellen
-735;Mr. Church;Comedy,Drama;Eddie Murphy, Britt Robertson, Natascha McElhone, Xavier Samuel
-736;Hugo;Adventure,Drama,Family;Asa Butterfield, Chloë Grace Moretz, Christopher Lee, Ben Kingsley
-737;The Blackcoat's Daughter;Horror,Thriller;Emma Roberts, Kiernan Shipka, Lauren Holly, Lucy Boynton
-738;Body of Lies;Action,Drama,Romance;Leonardo DiCaprio, Russell Crowe, Mark Strong,Golshifteh Farahani
-739;Knight of Cups;Drama,Romance;Christian Bale, Cate Blanchett, Natalie Portman,Brian Dennehy
-740;The Mummy: Tomb of the Dragon Emperor;Action,Adventure,Fantasy;Brendan Fraser, Jet Li, Maria Bello, Michelle Yeoh
-741;The Boss;Comedy;Melissa McCarthy, Kristen Bell, Peter Dinklage, Ella Anderson
-742;Hands of Stone;Action,Biography,Drama;Edgar Ramírez, Usher Raymond, Robert De Niro, Rubén Blades
-743;El secreto de sus ojos;Drama,Mystery,Romance;Ricardo Darín, Soledad Villamil, Pablo Rago,Carla Quevedo
-744;True Grit;Adventure,Drama,Western;Jeff Bridges, Matt Damon, Hailee Steinfeld,Josh Brolin
-745;We Are Your Friends;Drama,Music,Romance;Zac Efron, Wes Bentley, Emily Ratajkowski, Jonny Weston
-746;A Million Ways to Die in the West;Comedy,Romance,Western;Seth MacFarlane, Charlize Theron, Liam Neeson,Amanda Seyfried
-747;Only for One Night;Thriller;Brian White, Karrueche Tran, Angelique Pereira,Jessica Vanessa DeLeon
-748;Rules Don't Apply;Comedy,Drama,Romance;Lily Collins, Haley Bennett, Taissa Farmiga, Steve Tom
-749;Ouija: Origin of Evil;Horror,Thriller;Elizabeth Reaser, Lulu Wilson, Annalise Basso,Henry Thomas
-750;Percy Jackson: Sea of Monsters;Adventure,Family,Fantasy;Logan Lerman, Alexandra Daddario, Brandon T. Jackson, Nathan Fillion
-751;Fracture;Crime,Drama,Mystery;Anthony Hopkins, Ryan Gosling, David Strathairn,Rosamund Pike
-752;Oculus;Horror,Mystery;Karen Gillan, Brenton Thwaites, Katee Sackhoff,Rory Cochrane
-753;In Bruges;Comedy,Crime,Drama;Colin Farrell, Brendan Gleeson, Ciarán Hinds,Elizabeth Berrington
-754;This Means War;Action,Comedy,Romance;Reese Witherspoon, Chris Pine, Tom Hardy, Til Schweiger
-755;Lída Baarová;Biography,Drama,History;Tatiana Pauhofová, Karl Markovics, Gedeon Burkhard,Simona Stasová
-756;The Road;Adventure,Drama;Viggo Mortensen, Charlize Theron, Kodi Smit-McPhee,Robert Duvall
-757;Lavender;Drama,Thriller;Abbie Cornish, Dermot Mulroney, Justin Long,Diego Klattenhoff
-758;Deuces;Drama;Larenz Tate, Meagan Good, Rotimi, Rick Gonzalez
-759;Conan the Barbarian;Action,Adventure,Fantasy;Jason Momoa, Ron Perlman, Rose McGowan,Stephen Lang
-760;The Fighter;Action,Biography,Drama;Mark Wahlberg, Christian Bale, Amy Adams,Melissa Leo
-761;August Rush;Drama,Music;Freddie Highmore, Keri Russell, Jonathan Rhys Meyers, Terrence Howard
-762;Chef;Comedy,Drama;Jon Favreau, Robert Downey Jr., Scarlett Johansson,Dustin Hoffman
-763;Eye in the Sky;Drama,Thriller,War;Helen Mirren, Aaron Paul, Alan Rickman, Barkhad Abdi
-764;Eagle Eye;Action,Mystery,Thriller;Shia LaBeouf, Michelle Monaghan, Rosario Dawson,Michael Chiklis
-765;The Purge;Horror,Sci-Fi,Thriller;Ethan Hawke, Lena Headey, Max Burkholder,Adelaide Kane
-766;PK;Comedy,Drama,Romance;Aamir Khan, Anushka Sharma, Sanjay Dutt,Boman Irani
-767;Ender's Game;Action,Sci-Fi;Harrison Ford, Asa Butterfield, Hailee Steinfeld, Abigail Breslin
-768;Indiana Jones and the Kingdom of the Crystal Skull;Action,Adventure,Fantasy;Harrison Ford, Cate Blanchett, Shia LaBeouf,Karen Allen
-769;Paper Towns;Drama,Mystery,Romance;Nat Wolff, Cara Delevingne, Austin Abrams, Justice Smith
-770;High-Rise;Drama;Tom Hiddleston, Jeremy Irons, Sienna Miller, Luke Evans
-771;Quantum of Solace;Action,Adventure,Thriller;Daniel Craig, Olga Kurylenko, Mathieu Amalric, Judi Dench
-772;The Assignment;Action,Crime,Thriller;Sigourney Weaver, Michelle Rodriguez, Tony Shalhoub,Anthony LaPaglia
-773;How to Train Your Dragon;Animation,Action,Adventure;Jay Baruchel, Gerard Butler,Christopher Mintz-Plasse, Craig Ferguson
-774;Lady in the Water;Drama,Fantasy,Mystery;Paul Giamatti, Bryce Dallas Howard, Jeffrey Wright, Bob Balaban
-775;The Fountain;Drama,Sci-Fi;Hugh Jackman, Rachel Weisz, Sean Patrick Thomas, Ellen Burstyn
-776;Cars 2;Animation,Adventure,Comedy;Owen Wilson, Larry the Cable Guy,Michael Caine, Emily Mortimer
-777;31;Horror,Thriller;Malcolm McDowell, Richard Brake, Jeff Daniel Phillips,Sheri Moon Zombie
-778;Final Girl;Action,Thriller;Abigail Breslin, Wes Bentley, Logan Huffman,Alexander Ludwig
-779;Chalk It Up;Comedy;
-780;The Man Who Knew Infinity;Biography,Drama;Dev Patel, Jeremy Irons, Malcolm Sinclair, Raghuvir Joshi
-781;Unknown;Action,Mystery,Thriller;Liam Neeson, Diane Kruger, January Jones,Aidan Quinn
-782;Self/less;Action,Mystery,Sci-Fi;Ryan Reynolds, Natalie Martinez, Matthew Goode,Ben Kingsley
-783;Mr. Brooks;Crime,Drama,Thriller;Kevin Costner, Demi Moore, William Hurt, Dane Cook
-784;Tramps;Comedy,Romance;Callum Turner, Grace Van Patten, Michal Vondel, Mike Birbiglia
-785;Before We Go;Comedy,Drama,Romance;Chris Evans, Alice Eve, Emma Fitzpatrick, John Cullum
-786;Captain Phillips;Biography,Drama,Thriller;Tom Hanks, Barkhad Abdi, Barkhad Abdirahman,Catherine Keener
-787;The Secret Scripture;Drama;Rooney Mara, Eric Bana, Theo James, Aidan Turner
-788;Max Steel;Action,Adventure,Family;Ben Winchell, Josh Brener, Maria Bello, Andy Garcia
-789;Hotel Transylvania 2;Animation,Comedy,Family;Adam Sandler, Andy Samberg, Selena Gomez, Kevin James
-790;Hancock;Action,Crime,Drama;Will Smith, Charlize Theron, Jason Bateman, Jae Head
-791;Sisters;Comedy;Amy Poehler, Tina Fey, Maya Rudolph, Ike Barinholtz
-792;The Family;Comedy,Crime,Thriller;Robert De Niro, Michelle Pfeiffer, Dianna Agron, John D'Leo
-793;Zack and Miri Make a Porno;Comedy,Romance;Seth Rogen, Elizabeth Banks, Craig Robinson, Gerry Bednob
-794;Ma vie de Courgette;Animation,Comedy,Drama;Gaspard Schlatter, Sixtine Murat, Paulin Jaccoud,Michel Vuillermoz
-795;Man on a Ledge;Action,Crime,Thriller;Sam Worthington, Elizabeth Banks, Jamie Bell, Mandy Gonzalez
-796;No Strings Attached;Comedy,Romance;Natalie Portman, Ashton Kutcher, Kevin Kline, Cary Elwes
-797;Rescue Dawn;Adventure,Biography,Drama;Christian Bale, Steve Zahn, Jeremy Davies, Zach Grenier
-798;Despicable Me 2;Animation,Adventure,Comedy;Steve Carell, Kristen Wiig, Benjamin Bratt, Miranda Cosgrove
-799;A Walk Among the Tombstones;Crime,Drama,Mystery;Liam Neeson, Dan Stevens, David Harbour, Boyd Holbrook
-800;The World's End;Action,Comedy,Sci-Fi;Simon Pegg, Nick Frost, Martin Freeman, Rosamund Pike
-801;Yoga Hosers;Comedy,Fantasy,Horror;Lily-Rose Depp, Harley Quinn Smith, Johnny Depp,Adam Brody
-802;Seven Psychopaths;Comedy,Crime;Colin Farrell, Woody Harrelson, Sam Rockwell,Christopher Walken
-803;Beowulf;Animation,Action,Adventure;Ray Winstone, Crispin Glover, Angelina Jolie,Robin Wright
-804;Jack Ryan: Shadow Recruit;Action,Drama,Thriller;Chris Pine, Kevin Costner, Keira Knightley,Kenneth Branagh
-805;1408;Fantasy,Horror;John Cusack, Samuel L. Jackson, Mary McCormack, Paul Birchard
-806;The Gambler;Crime,Drama,Thriller;Mark Wahlberg, Jessica Lange, John Goodman, Brie Larson
-807;Prince of Persia: The Sands of Time;Action,Adventure,Fantasy;Jake Gyllenhaal, Gemma Arterton, Ben Kingsley,Alfred Molina
-808;The Spectacular Now;Comedy,Drama,Romance;Miles Teller, Shailene Woodley, Kyle Chandler,Jennifer Jason Leigh
-809;A United Kingdom;Biography,Drama,Romance;David Oyelowo, Rosamund Pike, Tom Felton, Jack Davenport
-810;USS Indianapolis: Men of Courage;Action,Drama,History;Nicolas Cage, Tom Sizemore, Thomas Jane,Matt Lanter
-811;Turbo Kid;Action,Adventure,Comedy;Munro Chambers, Laurence Leboeuf, Michael Ironside, Edwin Wright
-812;Mama;Horror,Thriller;Jessica Chastain, Nikolaj Coster-Waldau, Megan Charpentier, Isabelle Nélisse
-813;Orphan;Horror,Mystery,Thriller;Vera Farmiga, Peter Sarsgaard, Isabelle Fuhrman, CCH Pounder
-814;To Rome with Love;Comedy,Romance;Woody Allen, Penélope Cruz, Jesse Eisenberg, Ellen Page
-815;Fantastic Mr. Fox;Animation,Adventure,Comedy;George Clooney, Meryl Streep, Bill Murray, Jason Schwartzman
-816;Inside Man;Crime,Drama,Mystery;Denzel Washington, Clive Owen, Jodie Foster,Christopher Plummer
-817;I.T.;Crime,Drama,Mystery;Pierce Brosnan, Jason Barry, Karen Moskow, Kai Ryssdal
-818;127 Hours;Adventure,Biography,Drama;James Franco, Amber Tamblyn, Kate Mara, Sean Bott
-819;Annabelle;Horror,Mystery,Thriller;Ward Horton, Annabelle Wallis, Alfre Woodard,Tony Amendola
-820;Wolves at the Door;Horror,Thriller;Katie Cassidy, Elizabeth Henstridge, Adam Campbell, Miles Fisher
-821;Suite Française;Drama,Romance,War;Michelle Williams, Kristin Scott Thomas, Margot Robbie,Eric Godon
-822;The Imaginarium of Doctor Parnassus;Adventure,Fantasy,Mystery;Christopher Plummer, Lily Cole, Heath Ledger,Andrew Garfield
-823;G.I. Joe: The Rise of Cobra;Action,Adventure,Sci-Fi;Dennis Quaid, Channing Tatum, Marlon Wayans,Adewale Akinnuoye-Agbaje
-824;Christine;Biography,Drama;Rebecca Hall, Michael C. Hall, Tracy Letts, Maria Dizzia
-825;Man Down;Drama,Thriller;Shia LaBeouf, Jai Courtney, Gary Oldman, Kate Mara
-826;Crawlspace;Horror,Thriller;Michael Vartan, Erin Moriarty, Nadine Velazquez,Ronnie Gene Blevins
-827;Shut In;Drama,Horror,Thriller;Naomi Watts, Charlie Heaton, Jacob Tremblay,Oliver Platt
-828;The Warriors Gate;Action,Adventure,Fantasy;Mark Chao, Ni Ni, Dave Bautista, Sienna Guillory
-829;Grindhouse;Action,Horror,Thriller;Kurt Russell, Rose McGowan, Danny Trejo, Zoë Bell
-830;Disaster Movie;Comedy;Carmen Electra, Vanessa Lachey,Nicole Parker, Matt Lanter
-831;Rocky Balboa;Drama,Sport;
-832;Diary of a Wimpy Kid: Dog Days;Comedy,Family;Zachary Gordon, Robert Capron, Devon Bostick,Steve Zahn
-833;Jane Eyre;Drama,Romance;Mia Wasikowska, Michael Fassbender, Jamie Bell, Su Elliot
-834;Fool's Gold;Action,Adventure,Comedy;Matthew McConaughey, Kate Hudson, Donald Sutherland, Alexis Dziena
-835;The Dictator;Comedy;Sacha Baron Cohen, Anna Faris, John C. Reilly, Ben Kingsley
-836;The Loft;Mystery,Romance,Thriller;Karl Urban, James Marsden, Wentworth Miller, Eric Stonestreet
-837;Bacalaureat;Crime,Drama;Adrian Titieni, Maria-Victoria Dragus, Lia Bugnar,Malina Manovici
-838;You Don't Mess with the Zohan;Action,Comedy;Adam Sandler, John Turturro, Emmanuelle Chriqui,Nick Swardson
-839;Exposed;Crime,Drama,Mystery;Ana de Armas, Keanu Reeves, Christopher McDonald, Mira Sorvino
-840;Maudie;Biography,Drama,Romance;Ethan Hawke, Sally Hawkins, Kari Matchett, Zachary Bennett
-841;Horrible Bosses 2;Comedy,Crime;Jason Bateman, Jason Sudeikis, Charlie Day, Jennifer Aniston
-842;A Bigger Splash;Drama,Thriller;Tilda Swinton, Matthias Schoenaerts, Ralph Fiennes, Dakota Johnson
-843;Melancholia;Drama;Kirsten Dunst, Charlotte Gainsbourg, Kiefer Sutherland, Alexander Skarsgård
-844;The Princess and the Frog;Animation,Adventure,Comedy;Anika Noni Rose, Keith David, Oprah Winfrey, Bruno Campos
-845;Unstoppable;Action,Thriller;Denzel Washington, Chris Pine, Rosario Dawson, Ethan Suplee
-846;Flight;Drama,Thriller;Denzel Washington, Nadine Velazquez, Don Cheadle, John Goodman
-847;Home;Animation,Adventure,Comedy;Jim Parsons, Rihanna, Steve Martin, Jennifer Lopez
-848;La migliore offerta;Crime,Drama,Mystery;Geoffrey Rush, Jim Sturgess, Sylvia Hoeks,Donald Sutherland
-849;Mean Dreams;Thriller;Sophie Nélisse, Josh Wiggins, Joe Cobden, Bill Paxton
-850;42;Biography,Drama,Sport;Chadwick Boseman, T.R. Knight, Harrison Ford,Nicole Beharie
-851;21;Crime,Drama,Thriller;Jim Sturgess, Kate Bosworth, Kevin Spacey, Aaron Yoo
-852;Begin Again;Drama,Music;Keira Knightley, Mark Ruffalo, Adam Levine, Hailee Steinfeld
-853;Out of the Furnace;Crime,Drama,Thriller;Christian Bale, Casey Affleck, Zoe Saldana, Woody Harrelson
-854;Vicky Cristina Barcelona;Drama,Romance;Rebecca Hall, Scarlett Johansson, Javier Bardem,Christopher Evan Welch
-855;Kung Fu Panda;Animation,Action,Adventure;Jack Black, Ian McShane,Angelina Jolie, Dustin Hoffman
-856;Barbershop: The Next Cut;Comedy,Drama;Ice Cube, Regina Hall, Anthony Anderson, Eve
-857;Terminator Salvation;Action,Adventure,Drama;Christian Bale, Sam Worthington, Anton Yelchin, Moon Bloodgood
-858;Freedom Writers;Biography,Crime,Drama;Hilary Swank, Imelda Staunton, Patrick Dempsey, Scott Glenn
-859;The Hills Have Eyes;Horror;Ted Levine, Kathleen Quinlan, Dan Byrd, Emilie de Ravin
-860;Changeling;Biography,Drama,Mystery;Angelina Jolie, Colm Feore, Amy Ryan, Gattlin Griffith
-861;Remember Me;Drama,Romance;Robert Pattinson, Emilie de Ravin, Caitlyn Rund,Moisés Acevedo
-862;Koe no katachi;Animation,Drama,Romance;Miyu Irino, Saori Hayami, Aoi Yuki, Kenshô Ono
-863;Alexander and the Terrible, Horrible, No Good, Very Bad Day;Comedy,Family;Steve Carell, Jennifer Garner, Ed Oxenbould, Dylan Minnette
-864;Locke;Drama;Tom Hardy, Olivia Colman, Ruth Wilson, Andrew Scott
-865;The 9th Life of Louis Drax;Mystery,Thriller;Jamie Dornan, Aiden Longworth, Sarah Gadon,Aaron Paul
-866;Horns;Drama,Fantasy,Horror;Daniel Radcliffe, Juno Temple, Max Minghella, Joe Anderson
-867;Indignation;Drama,Romance;Logan Lerman, Sarah Gadon, Tijuana Ricks, Sue Dahlman
-868;The Stanford Prison Experiment;Biography,Drama,History;Ezra Miller, Tye Sheridan, Billy Crudup, Olivia Thirlby
-869;Diary of a Wimpy Kid: Rodrick Rules;Comedy,Family;Zachary Gordon, Devon Bostick, Robert Capron,Rachael Harris
-870;Mission: Impossible III;Action,Adventure,Thriller;Tom Cruise, Michelle Monaghan, Ving Rhames, Philip Seymour Hoffman
-871;En man som heter Ove;Comedy,Drama;Rolf Lassgård, Bahar Pars, Filip Berg, Ida Engvoll
-872;Dragonball Evolution;Action,Adventure,Fantasy;Justin Chatwin, James Marsters, Yun-Fat Chow, Emmy Rossum
-873;Red Dawn;Action,Thriller;Chris Hemsworth, Isabel Lucas, Josh Hutcherson, Josh Peck
-874;One Day;Drama,Romance;Anne Hathaway, Jim Sturgess, Patricia Clarkson,Tom Mison
-875;Life as We Know It;Comedy,Drama,Romance;Katherine Heigl, Josh Duhamel, Josh Lucas, Alexis Clagett
-876;28 Weeks Later;Drama,Horror,Sci-Fi;Jeremy Renner, Rose Byrne, Robert Carlyle, Harold Perrineau
-877;Warm Bodies;Comedy,Horror,Romance;Nicholas Hoult, Teresa Palmer, John Malkovich,Analeigh Tipton
-878;Blue Jasmine;Drama;Cate Blanchett, Alec Baldwin, Peter Sarsgaard, Sally Hawkins
-879;G.I. Joe: Retaliation;Action,Adventure,Sci-Fi;
-880;Wrath of the Titans;Action,Adventure,Fantasy;Sam Worthington, Liam Neeson, Rosamund Pike, Ralph Fiennes
-881;Shin Gojira;Action,Adventure,Drama;Hiroki Hasegawa, Yutaka Takenouchi,Satomi Ishihara, Ren Ôsugi
-882;Saving Mr. Banks;Biography,Comedy,Drama;Emma Thompson, Tom Hanks, Annie Rose Buckley, Colin Farrell
-883;Transcendence;Drama,Mystery,Romance;Johnny Depp, Rebecca Hall, Morgan Freeman, Cillian Murphy
-884;Rio;Animation,Adventure,Comedy;Jesse Eisenberg, Anne Hathaway, George Lopez,Karen Disher
-885;Equals;Drama,Romance,Sci-Fi;Nicholas Hoult, Kristen Stewart, Vernetta Lopez,Scott Lawrence
-886;Babel;Drama;Brad Pitt, Cate Blanchett, Gael García Bernal, Mohamed Akhzam
-887;The Tree of Life;Drama,Fantasy;Brad Pitt, Sean Penn, Jessica Chastain, Hunter McCracken
-888;The Lucky One;Drama,Romance;Zac Efron, Taylor Schilling, Blythe Danner, Riley Thomas Stewart
-889;Piranha 3D;Comedy,Horror,Thriller;Elisabeth Shue, Jerry O'Connell, Richard Dreyfuss,Ving Rhames
-890;50/50;Comedy,Drama,Romance;Joseph Gordon-Levitt, Seth Rogen, Anna Kendrick, Bryce Dallas Howard
-891;The Intent;Crime,Drama;Dylan Duffus, Scorcher,Shone Romulus, Jade Asha
-892;This Is 40;Comedy,Romance;Paul Rudd, Leslie Mann, Maude Apatow, Iris Apatow
-893;Real Steel;Action,Drama,Family;Hugh Jackman, Evangeline Lilly, Dakota Goyo,Anthony Mackie
-894;Sex and the City;Comedy,Drama,Romance;Sarah Jessica Parker, Kim Cattrall, Cynthia Nixon, Kristin Davis
-895;Rambo;Action,Thriller,War;Sylvester Stallone, Julie Benz, Matthew Marsden, Graham McTavish
-896;Planet Terror;Action,Comedy,Horror;Rose McGowan, Freddy Rodríguez, Josh Brolin,Marley Shelton
-897;Concussion;Biography,Drama,Sport;Will Smith, Alec Baldwin, Albert Brooks, David Morse
-898;The Fall;Adventure,Comedy,Drama;Lee Pace, Catinca Untaru, Justine Waddell, Kim Uylenbroek
-899;The Ugly Truth;Comedy,Romance;Katherine Heigl, Gerard Butler, Bree Turner, Eric Winter
-900;Bride Wars;Comedy,Romance;Kate Hudson, Anne Hathaway, Candice Bergen, Bryan Greenberg
-901;Sleeping with Other People;Comedy,Drama,Romance;Jason Sudeikis, Alison Brie, Jordan Carlos,Margarita Levieva
-902;Snakes on a Plane;Action,Adventure,Crime;Samuel L. Jackson, Julianna Margulies, Nathan Phillips, Rachel Blanchard
-903;What If;Comedy,Romance;Daniel Radcliffe, Zoe Kazan, Megan Park, Adam Driver
-904;How to Train Your Dragon 2;Animation,Action,Adventure;Jay Baruchel, Cate Blanchett, Gerard Butler, Craig Ferguson
-905;RoboCop;Action,Crime,Sci-Fi;Joel Kinnaman, Gary Oldman, Michael Keaton, Abbie Cornish
-906;In Dubious Battle;Drama;Nat Wolff, James Franco, Vincent D'Onofrio, Selena Gomez
-907;Hello, My Name Is Doris;Comedy,Drama,Romance;Sally Field, Max Greenfield, Tyne Daly, Wendi McLendon-Covey
-908;Ocean's Thirteen;Crime,Thriller;George Clooney, Brad Pitt, Matt Damon,Michael Mantell
-909;Slither;Comedy,Horror,Sci-Fi;Nathan Fillion, Elizabeth Banks, Michael Rooker, Don Thompson
-910;Contagion;Drama,Thriller;Matt Damon, Kate Winslet, Jude Law, Gwyneth Paltrow
-911;Il racconto dei racconti - Tale of Tales;Drama,Fantasy,Horror;Salma Hayek, Vincent Cassel, Toby Jones, John C. Reilly
-912;I Am the Pretty Thing That Lives in the House;Thriller;Ruth Wilson, Paula Prentiss, Lucy Boynton, Bob Balaban
-913;Bridge to Terabithia;Adventure,Drama,Family;Josh Hutcherson, AnnaSophia Robb, Zooey Deschanel, Robert Patrick
-914;Coherence;Mystery,Sci-Fi,Thriller;Emily Baldoni, Maury Sterling, Nicholas Brendon, Elizabeth Gracen
-915;Notorious;Biography,Crime,Drama;Jamal Woolard, Anthony Mackie, Derek Luke,Momo Dione
-916;Goksung;Drama,Fantasy,Horror;Jun Kunimura, Jung-min Hwang, Do-won Kwak, Woo-hee Chun
-917;The Expendables 2;Action,Adventure,Thriller;Sylvester Stallone, Liam Hemsworth, Randy Couture,Jean-Claude Van Damme
-918;The Girl Next Door;Crime,Drama,Horror;William Atherton, Blythe Auffarth, Blanche Baker,Kevin Chamberlin
-919;Perfume: The Story of a Murderer;Crime,Drama,Fantasy;Ben Whishaw, Dustin Hoffman, Alan Rickman,Francesc Albiol
-920;The Golden Compass;Adventure,Family,Fantasy;Nicole Kidman, Daniel Craig, Dakota Blue Richards, Ben Walker
-921;Centurion;Action,Adventure,Drama;Michael Fassbender, Dominic West, Olga Kurylenko,Andreas Wisniewski
-922;Scouts Guide to the Zombie Apocalypse;Action,Comedy,Horror;Tye Sheridan, Logan Miller, Joey Morgan,Sarah Dumont
-923;17 Again;Comedy,Drama,Family;Zac Efron, Matthew Perry, Leslie Mann, Thomas Lennon
-924;No Escape;Action,Thriller;Lake Bell, Pierce Brosnan, Owen Wilson,Chatchawai Kamonsakpitak
-925;Superman Returns;Action,Adventure,Sci-Fi;Brandon Routh, Kevin Spacey, Kate Bosworth, James Marsden
-926;The Twilight Saga: Breaking Dawn - Part 1;Adventure,Drama,Fantasy;Kristen Stewart, Robert Pattinson, Taylor Lautner, Gil Birmingham
-927;Precious;Drama;Gabourey Sidibe, Mo'Nique, Paula Patton, Mariah Carey
-928;The Sea of Trees;Drama;Matthew McConaughey, Naomi Watts, Ken Watanabe,Ryoko Seta
-929;Good Kids;Comedy;Zoey Deutch, Nicholas Braun, Mateo Arias, Israel Broussard
-930;The Master;Drama;Philip Seymour Hoffman, Joaquin Phoenix,Amy Adams, Jesse Plemons
-931;Footloose;Comedy,Drama,Music;Kenny Wormald, Julianne Hough, Dennis Quaid,Andie MacDowell
-932;If I Stay;Drama,Fantasy,Music;Chloë Grace Moretz, Mireille Enos, Jamie Blackley,Joshua Leonard
-933;The Ticket;Drama;Dan Stevens, Malin Akerman, Oliver Platt, Kerry Bishé
-934;Detour;Thriller;Tye Sheridan, Emory Cohen, Bel Powley,Stephen Moyer
-935;The Love Witch;Comedy,Horror;Samantha Robinson, Jeffrey Vincent Parise, Laura Waddell, Gian Keys
-936;Talladega Nights: The Ballad of Ricky Bobby;Action,Comedy,Sport;Will Ferrell, John C. Reilly, Sacha Baron Cohen, Gary Cole
-937;The Human Centipede (First Sequence);Horror;Dieter Laser, Ashley C. Williams, Ashlynn Yennie, Akihiro Kitamura
-938;Super;Comedy,Drama;Rainn Wilson, Ellen Page, Liv Tyler, Kevin Bacon
-939;The Siege of Jadotville;Action,Drama,Thriller;Jamie Dornan, Mark Strong, Jason O'Mara, Michael McElhatton
-940;Up in the Air;Drama,Romance;George Clooney, Vera Farmiga, Anna Kendrick,Jason Bateman
-941;The Midnight Meat Train;Horror,Mystery;Vinnie Jones, Bradley Cooper, Leslie Bibb, Brooke Shields
-942;The Twilight Saga: Eclipse;Adventure,Drama,Fantasy;Kristen Stewart, Robert Pattinson, Taylor Lautner,Xavier Samuel
-943;Transpecos;Thriller;Johnny Simmons, Gabriel Luna, Clifton Collins Jr.,David Acord
-944;What's Your Number?;Comedy,Romance;Anna Faris, Chris Evans, Ari Graynor, Blythe Danner
-945;Riddick;Action,Sci-Fi,Thriller;Vin Diesel, Karl Urban, Katee Sackhoff, Jordi Mollà
-946;Triangle;Fantasy,Mystery,Thriller;Melissa George, Joshua McIvor, Jack Taylor,Michael Dorman
-947;The Butler;Biography,Drama;Forest Whitaker, Oprah Winfrey, John Cusack, Jane Fonda
-948;King Cobra;Crime,Drama;Garrett Clayton, Christian Slater, Molly Ringwald,James Kelley
-949;After Earth;Action,Adventure,Sci-Fi;Jaden Smith, David Denman, Will Smith,Sophie Okonedo
-950;Kicks;Adventure;Jahking Guillory, Christopher Jordan Wallace,Christopher Meyer, Kofi Siriboe
-951;Me and Earl and the Dying Girl;Comedy,Drama;Thomas Mann, RJ Cyler, Olivia Cooke, Nick Offerman
-952;The Descendants;Comedy,Drama;George Clooney, Shailene Woodley, Amara Miller, Nick Krause
-953;Sex and the City 2;Comedy,Drama,Romance;Sarah Jessica Parker, Kim Cattrall, Kristin Davis, Cynthia Nixon
-954;The Kings of Summer;Adventure,Comedy,Drama;Nick Robinson, Gabriel Basso, Moises Arias,Nick Offerman
-955;Death Race;Action,Sci-Fi,Thriller;Jason Statham, Joan Allen, Tyrese Gibson, Ian McShane
-956;That Awkward Moment;Comedy,Romance;Zac Efron, Michael B. Jordan, Miles Teller, Imogen Poots
-957;Legion;Action,Fantasy,Horror;Paul Bettany, Dennis Quaid, Charles S. Dutton, Lucas Black
-958;End of Watch;Crime,Drama,Thriller;Jake Gyllenhaal, Michael Peña, Anna Kendrick, America Ferrera
-959;3 Days to Kill;Action,Drama,Thriller;Kevin Costner, Hailee Steinfeld, Connie Nielsen, Amber Heard
-960;Lucky Number Slevin;Crime,Drama,Mystery;Josh Hartnett, Ben Kingsley, Morgan Freeman, Lucy Liu
-961;Trance;Crime,Drama,Mystery;James McAvoy, Rosario Dawson, Vincent Cassel,Danny Sapani
-962;Into the Forest;Drama,Sci-Fi,Thriller;Ellen Page, Evan Rachel Wood, Max Minghella,Callum Keith Rennie
-963;The Other Boleyn Girl;Biography,Drama,History;Natalie Portman, Scarlett Johansson, Eric Bana,Jim Sturgess
-964;I Spit on Your Grave;Crime,Horror,Thriller;Sarah Butler, Jeff Branson, Andrew Howard,Daniel Franzese
-965;Custody;Drama;Viola Davis, Hayden Panettiere, Catalina Sandino Moreno, Ellen Burstyn
-966;Inland Empire;Drama,Mystery,Thriller;Laura Dern, Jeremy Irons, Justin Theroux, Karolina Gruszka
-967;L'odyssée;Adventure,Biography;Lambert Wilson, Pierre Niney, Audrey Tautou,Laurent Lucas
-968;The Walk;Adventure,Biography,Crime;Joseph Gordon-Levitt, Charlotte Le Bon,Guillaume Baillargeon, Émilie Leclerc
-969;Wrecker;Action,Horror,Thriller;Anna Hutchison, Andrea Whitburn, Jennifer Koenig,Michael Dickson
-970;The Lone Ranger;Action,Adventure,Western;Johnny Depp, Armie Hammer, William Fichtner,Tom Wilkinson
-971;Texas Chainsaw 3D;Horror,Thriller;
-972;Disturbia;Drama,Mystery,Thriller;Shia LaBeouf, David Morse, Carrie-Anne Moss, Sarah Roemer
-973;Rock of Ages;Comedy,Drama,Musical;Julianne Hough, Diego Boneta, Tom Cruise, Alec Baldwin
-974;Scream 4;Horror,Mystery;Neve Campbell, Courteney Cox, David Arquette, Lucy Hale
-975;Queen of Katwe;Biography,Drama,Sport;Madina Nalwanga, David Oyelowo, Lupita Nyong'o, Martin Kabanza
-976;My Big Fat Greek Wedding 2;Comedy,Family,Romance;Nia Vardalos, John Corbett, Michael Constantine, Lainie Kazan
-977;Dark Places;Drama,Mystery,Thriller;Charlize Theron, Nicholas Hoult, Christina Hendricks, Chloë Grace Moretz
-978;Amateur Night;Comedy;Jason Biggs, Janet Montgomery,Ashley Tisdale, Bria L. Murphy
-979;It's Only the End of the World;Drama;Nathalie Baye, Vincent Cassel, Marion Cotillard, Léa Seydoux
-980;The Skin I Live In;Drama,Thriller;Antonio Banderas, Elena Anaya, Jan Cornet,Marisa Paredes
-981;Miracles from Heaven;Biography,Drama,Family;Jennifer Garner, Kylie Rogers, Martin Henderson,Brighton Sharbino
-982;Annie;Comedy,Drama,Family;Quvenzhané Wallis, Cameron Diaz, Jamie Foxx, Rose Byrne
-983;Across the Universe;Drama,Fantasy,Musical;Evan Rachel Wood, Jim Sturgess, Joe Anderson, Dana Fuchs
-984;Let's Be Cops;Comedy;Jake Johnson, Damon Wayans Jr., Rob Riggle, Nina Dobrev
-985;Max;Adventure,Family;Thomas Haden Church, Josh Wiggins, Luke Kleintank,Lauren Graham
-986;Your Highness;Adventure,Comedy,Fantasy;Danny McBride, Natalie Portman, James Franco, Rasmus Hardiker
-987;Final Destination 5;Horror,Thriller;Nicholas D'Agosto, Emma Bell, Arlen Escarpeta, Miles Fisher
-988;Endless Love;Drama,Romance;Gabriella Wilde, Alex Pettyfer, Bruce Greenwood,Robert Patrick
-989;Martyrs;Horror;Morjana Alaoui, Mylène Jampanoï, Catherine Bégin,Robert Toupin
-990;Selma;Biography,Drama,History;David Oyelowo, Carmen Ejogo, Tim Roth, Lorraine Toussaint
-991;Underworld: Rise of the Lycans;Action,Adventure,Fantasy;Rhona Mitra, Michael Sheen, Bill Nighy, Steven Mackintosh
-992;Taare Zameen Par;Drama,Family,Music;Darsheel Safary, Aamir Khan, Tanay Chheda, Sachet Engineer
-993;Take Me Home Tonight;Comedy,Drama,Romance;Topher Grace, Anna Faris, Dan Fogler, Teresa Palmer
-994;Resident Evil: Afterlife;Action,Adventure,Horror;Milla Jovovich, Ali Larter, Wentworth Miller,Kim Coates
-995;Project X;Comedy;Thomas Mann, Oliver Cooper, Jonathan Daniel Brown, Dax Flame
-996;Secret in Their Eyes;Crime,Drama,Mystery;Chiwetel Ejiofor, Nicole Kidman, Julia Roberts, Dean Norris
-997;Hostel: Part II;Horror;Lauren German, Heather Matarazzo, Bijou Phillips, Roger Bart
-998;Step Up 2: The Streets;Drama,Music,Romance;Robert Hoffman, Briana Evigan, Cassie Ventura, Adam G. Sevani
-999;Search Party;Adventure,Comedy;Adam Pally, T.J. Miller, Thomas Middleditch,Shannon Woodward
-1000;Nine Lives;Comedy,Family,Fantasy;Kevin Spacey, Jennifer Garner, Robbie Amell,Cheryl Hines
+1;Guardians of the Galaxy;Action,Adventure,Sci-Fi;Chris Pratt| Vin Diesel| Bradley Cooper| Zoe Saldana
+2;Prometheus;Adventure,Mystery,Sci-Fi;Noomi Rapace| Logan Marshall-Green| Michael Fassbender| Charlize Theron
+3;Split;Horror,Thriller;James McAvoy| Anya Taylor-Joy| Haley Lu Richardson| Jessica Sula
+4;Sing;Animation,Comedy,Family;Matthew McConaughey|Reese Witherspoon| Seth MacFarlane| Scarlett Johansson
+5;Suicide Squad;Action,Adventure,Fantasy;Will Smith| Jared Leto| Margot Robbie| Viola Davis
+6;The Great Wall;Action,Adventure,Fantasy;Matt Damon| Tian Jing| Willem Dafoe| Andy Lau
+7;La La Land;Comedy,Drama,Music;Ryan Gosling| Emma Stone| Rosemarie DeWitt| J.K. Simmons
+8;Mindhorn;Comedy;Essie Davis| Andrea Riseborough| Julian Barratt|Kenneth Branagh
+9;The Lost City of Z;Action,Adventure,Biography;Charlie Hunnam| Robert Pattinson| Sienna Miller| Tom Holland
+10;Passengers;Adventure,Drama,Romance;Jennifer Lawrence| Chris Pratt| Michael Sheen|Laurence Fishburne
+11;Fantastic Beasts and Where to Find Them;Adventure,Family,Fantasy;Eddie Redmayne| Katherine Waterston| Alison Sudol|Dan Fogler
+12;Hidden Figures;Biography,Drama,History;Taraji P. Henson| Octavia Spencer| Janelle Monáe|Kevin Costner
+13;Rogue One;Action,Adventure,Sci-Fi;Felicity Jones| Diego Luna| Alan Tudyk| Donnie Yen
+14;Moana;Animation,Adventure,Comedy;Auli'i Cravalho| Dwayne Johnson| Rachel House| Temuera Morrison
+15;Colossal;Action,Comedy,Drama;Anne Hathaway| Jason Sudeikis| Austin Stowell|Tim Blake Nelson
+16;The Secret Life of Pets;Animation,Adventure,Comedy;Louis C.K.| Eric Stonestreet| Kevin Hart| Lake Bell
+17;Hacksaw Ridge;Biography,Drama,History;Andrew Garfield| Sam Worthington| Luke Bracey|Teresa Palmer
+18;Jason Bourne;Action,Thriller;Matt Damon| Tommy Lee Jones| Alicia Vikander|Vincent Cassel
+19;Lion;Biography,Drama;Dev Patel| Nicole Kidman| Rooney Mara| Sunny Pawar
+20;Arrival;Drama,Mystery,Sci-Fi;Amy Adams| Jeremy Renner| Forest Whitaker|Michael Stuhlbarg
+21;Gold;Adventure,Drama,Thriller;Matthew McConaughey| Edgar Ramírez| Bryce Dallas Howard| Corey Stoll
+22;Manchester by the Sea;Drama;Casey Affleck| Michelle Williams| Kyle Chandler|Lucas Hedges
+23;Hounds of Love;Crime,Drama,Horror;Emma Booth| Ashleigh Cummings| Stephen Curry|Susie Porter
+24;Trolls;Animation,Adventure,Comedy;Anna Kendrick| Justin Timberlake|Zooey Deschanel| Christopher Mintz-Plasse
+25;Independence Day: Resurgence;Action,Adventure,Sci-Fi;Liam Hemsworth| Jeff Goldblum| Bill Pullman|Maika Monroe
+26;Paris pieds nus;Comedy;Fiona Gordon| Dominique Abel|Emmanuelle Riva| Pierre Richard
+27;Bahubali: The Beginning;Action,Adventure,Drama;Prabhas| Rana Daggubati| Anushka Shetty|Tamannaah Bhatia
+28;Dead Awake;Horror,Thriller;Jocelin Donahue| Jesse Bradford| Jesse Borrego|Lori Petty
+29;Bad Moms;Comedy;Mila Kunis| Kathryn Hahn| Kristen Bell|Christina Applegate
+30;Assassin's Creed;Action,Adventure,Drama;Michael Fassbender| Marion Cotillard| Jeremy Irons|Brendan Gleeson
+31;Why Him?;Comedy;Zoey Deutch| James Franco| Tangie Ambrose|Cedric the Entertainer
+32;Nocturnal Animals;Drama,Thriller;Amy Adams| Jake Gyllenhaal| Michael Shannon| Aaron Taylor-Johnson
+33;X-Men: Apocalypse;Action,Adventure,Sci-Fi;James McAvoy| Michael Fassbender| Jennifer Lawrence| Nicholas Hoult
+34;Deadpool;Action,Adventure,Comedy;Ryan Reynolds| Morena Baccarin| T.J. Miller| Ed Skrein
+35;Resident Evil: The Final Chapter;Action,Horror,Sci-Fi;Milla Jovovich| Iain Glen| Ali Larter| Shawn Roberts
+36;Captain America: Civil War;Action,Adventure,Sci-Fi;Chris Evans| Robert Downey Jr.|Scarlett Johansson| Sebastian Stan
+37;Interstellar;Adventure,Drama,Sci-Fi;Matthew McConaughey| Anne Hathaway| Jessica Chastain| Mackenzie Foy
+38;Doctor Strange;Action,Adventure,Fantasy;Benedict Cumberbatch| Chiwetel Ejiofor| Rachel McAdams| Benedict Wong
+39;The Magnificent Seven;Action,Adventure,Western;Denzel Washington| Chris Pratt| Ethan Hawke|Vincent D'Onofrio
+40;5- 25- 77;Comedy,Drama;John Francis Daley| Austin Pendleton| Colleen Camp| Neil Flynn
+41;Sausage Party;Animation,Adventure,Comedy;Seth Rogen| Kristen Wiig| Jonah Hill| Alistair Abell
+42;Moonlight;Drama;Mahershala Ali| Shariff Earp| Duan Sanderson| Alex R. Hibbert
+43;Don't Fuck in the Woods;Horror;Brittany Blanton| Ayse Howard| Roman Jossart|Nadia White
+44;The Founder;Biography,Drama,History;Michael Keaton| Nick Offerman| John Carroll Lynch| Linda Cardellini
+45;Lowriders;Drama;Gabriel Chavarria| Demián Bichir| Theo Rossi|Tony Revolori
+46;Pirates of the Caribbean: On Stranger Tides;Action,Adventure,Fantasy;Johnny Depp| Penélope Cruz| Ian McShane| Geoffrey Rush
+47;Miss Sloane;Drama,Thriller;Jessica Chastain| Mark Strong| Gugu Mbatha-Raw|Michael Stuhlbarg
+48;Fallen;Adventure,Drama,Fantasy;Hermione Corfield| Addison Timlin| Joely Richardson|Jeremy Irvine
+49;Star Trek Beyond;Action,Adventure,Sci-Fi;Chris Pine| Zachary Quinto| Karl Urban| Zoe Saldana
+50;The Last Face;Drama;Charlize Theron| Javier Bardem| Adèle Exarchopoulos|Jared Harris
+51;Star Wars: Episode VII - The Force Awakens;Action,Adventure,Fantasy;Daisy Ridley| John Boyega| Oscar Isaac| Domhnall Gleeson
+52;Underworld: Blood Wars;Action,Adventure,Fantasy;Kate Beckinsale| Theo James| Tobias Menzies| Lara Pulver
+53;Mother's Day;Comedy,Drama;Jennifer Aniston| Kate Hudson| Julia Roberts| Jason Sudeikis
+54;John Wick;Action,Crime,Thriller;Keanu Reeves| Michael Nyqvist| Alfie Allen| Willem Dafoe
+55;The Dark Knight;Action,Crime,Drama;Christian Bale| Heath Ledger| Aaron Eckhart|Michael Caine
+56;Silence;Adventure,Drama,History;Andrew Garfield| Adam Driver| Liam Neeson|Tadanobu Asano
+57;Don't Breathe;Crime,Horror,Thriller;Stephen Lang| Jane Levy| Dylan Minnette| Daniel Zovatto
+58;Me Before You;Drama,Romance;Emilia Clarke| Sam Claflin| Janet McTeer| Charles Dance
+59;Their Finest;Comedy,Drama,Romance;Gemma Arterton| Sam Claflin| Bill Nighy| Jack Huston
+60;Sully;Biography,Drama;Tom Hanks| Aaron Eckhart| Laura Linney| Valerie Mahaffey
+61;Batman v Superman: Dawn of Justice;Action,Adventure,Sci-Fi;Ben Affleck| Henry Cavill| Amy Adams| Jesse Eisenberg
+62;The Autopsy of Jane Doe;Horror,Mystery,Thriller;Brian Cox| Emile Hirsch| Ophelia Lovibond| Michael McElhatton
+63;The Girl on the Train;Crime,Drama,Mystery;Emily Blunt| Haley Bennett| Rebecca Ferguson| Justin Theroux
+64;Fifty Shades of Grey;Drama,Romance,Thriller;Dakota Johnson| Jamie Dornan| Jennifer Ehle|Eloise Mumford
+65;The Prestige;Drama,Mystery,Sci-Fi;Christian Bale| Hugh Jackman| Scarlett Johansson| Michael Caine
+66;Kingsman: The Secret Service;Action,Adventure,Comedy;Colin Firth| Taron Egerton| Samuel L. Jackson|Michael Caine
+67;Patriots Day;Drama,History,Thriller;Mark Wahlberg| Michelle Monaghan| J.K. Simmons| John Goodman
+68;Mad Max: Fury Road;Action,Adventure,Sci-Fi;Tom Hardy| Charlize Theron| Nicholas Hoult| Zoë Kravitz
+69;Wakefield;Drama;Bryan Cranston| Jennifer Garner| Beverly D'Angelo|Jason O'Mara
+70;Deepwater Horizon;Action,Drama,Thriller;Mark Wahlberg| Kurt Russell| Douglas M. Griffin| James DuMont
+71;The Promise;Drama,History;Oscar Isaac| Charlotte Le Bon| Christian Bale| Daniel Giménez Cacho
+72;Allied;Action,Drama,Romance;Brad Pitt| Marion Cotillard| Jared Harris| Vincent Ebrahim
+73;A Monster Calls;Drama,Fantasy;Lewis MacDougall| Sigourney Weaver| Felicity Jones|Toby Kebbell
+74;Collateral Beauty;Drama,Romance;Will Smith| Edward Norton| Kate Winslet| Michael Peña
+75;Zootopia;Animation,Adventure,Comedy;Ginnifer Goodwin| Jason Bateman| Idris Elba| Jenny Slate
+76;Pirates of the Caribbean: At World's End;Action,Adventure,Fantasy;Johnny Depp| Orlando Bloom| Keira Knightley|Geoffrey Rush
+77;The Avengers;Action,Sci-Fi;Robert Downey Jr.| Chris Evans| Scarlett Johansson|Jeremy Renner
+78;Inglourious Basterds;Adventure,Drama,War;Brad Pitt| Diane Kruger| Eli Roth|Mélanie Laurent
+79;Pirates of the Caribbean: Dead Man's Chest;Action,Adventure,Fantasy;Johnny Depp| Orlando Bloom| Keira Knightley| Jack Davenport
+80;Ghostbusters;Action,Comedy,Fantasy;Melissa McCarthy| Kristen Wiig| Kate McKinnon| Leslie Jones
+81;Inception;Action,Adventure,Sci-Fi;Leonardo DiCaprio| Joseph Gordon-Levitt| Ellen Page| Ken Watanabe
+82;Captain Fantastic;Comedy,Drama;Viggo Mortensen| George MacKay| Samantha Isler|Annalise Basso
+83;The Wolf of Wall Street;Biography,Comedy,Crime;Leonardo DiCaprio| Jonah Hill| Margot Robbie|Matthew McConaughey
+84;Gone Girl;Crime,Drama,Mystery;Ben Affleck| Rosamund Pike| Neil Patrick Harris|Tyler Perry
+85;Furious Seven;Action,Crime,Thriller;Vin Diesel| Paul Walker| Dwayne Johnson| Jason Statham
+86;Jurassic World;Action,Adventure,Sci-Fi;Chris Pratt| Bryce Dallas Howard| Ty Simpkins|Judy Greer
+87;Live by Night;Crime,Drama;Ben Affleck| Elle Fanning| Brendan Gleeson| Chris Messina
+88;Avatar;Action,Adventure,Fantasy;Sam Worthington| Zoe Saldana| Sigourney Weaver| Michelle Rodriguez
+89;The Hateful Eight;Crime,Drama,Mystery;Samuel L. Jackson| Kurt Russell| Jennifer Jason Leigh| Walton Goggins
+90;The Accountant;Action,Crime,Drama;Ben Affleck| Anna Kendrick| J.K. Simmons| Jon Bernthal
+91;Prisoners;Crime,Drama,Mystery;Hugh Jackman| Jake Gyllenhaal| Viola Davis|Melissa Leo
+92;Warcraft;Action,Adventure,Fantasy;Travis Fimmel| Paula Patton| Ben Foster| Dominic Cooper
+93;The Help;Drama;Emma Stone| Viola Davis| Octavia Spencer| Bryce Dallas Howard
+94;War Dogs;Comedy,Crime,Drama;Jonah Hill| Miles Teller| Steve Lantz| Gregg Weiner
+95;Avengers: Age of Ultron;Action,Adventure,Sci-Fi;Robert Downey Jr.| Chris Evans| Mark Ruffalo| Chris Hemsworth
+96;The Nice Guys;Action,Comedy,Crime;Russell Crowe| Ryan Gosling| Angourie Rice| Matt Bomer
+97;Kimi no na wa;Animation,Drama,Fantasy;Ryûnosuke Kamiki| Mone Kamishiraishi| Ryô Narita| Aoi Yuki
+98;The Void;Horror,Mystery,Sci-Fi;Aaron Poole| Kenneth Welsh|Daniel Fathers| Kathleen Munroe
+99;Personal Shopper;Drama,Mystery,Thriller;Kristen Stewart| Lars Eidinger| Sigrid Bouaziz|Anders Danielsen Lie
+100;The Departed;Crime,Drama,Thriller;Leonardo DiCaprio| Matt Damon| Jack Nicholson| Mark Wahlberg
+101;Legend;Biography,Crime,Drama;Tom Hardy| Emily Browning| Taron Egerton| Paul Anderson
+102;Thor;Action,Adventure,Fantasy;Chris Hemsworth| Anthony Hopkins| Natalie Portman| Tom Hiddleston
+103;The Martian;Adventure,Drama,Sci-Fi;Matt Damon| Jessica Chastain| Kristen Wiig| Kate Mara
+104;Contratiempo;Crime,Mystery,Thriller;Mario Casas| Ana Wagener| José Coronado| Bárbara Lennie
+105;The Man from U.N.C.L.E.;Action,Adventure,Comedy;Henry Cavill| Armie Hammer| Alicia Vikander| Elizabeth Debicki
+106;Hell or High Water;Crime,Drama,Thriller;Chris Pine| Ben Foster| Jeff Bridges| Gil Birmingham
+107;The Comedian;Comedy;Robert De Niro| Leslie Mann| Danny DeVito| Edie Falco
+108;The Legend of Tarzan;Action,Adventure,Drama;Alexander Skarsgård| Rory J. Saper| Christian Stevens| Christoph Waltz
+109;All We Had;Drama;Eve Lindley| Richard Kind| Mark Consuelos| Katherine Reis
+110;Ex Machina;Drama,Mystery,Sci-Fi;Alicia Vikander| Domhnall Gleeson| Oscar Isaac|Sonoya Mizuno
+111;The Belko Experiment;Action,Horror,Thriller;John Gallagher Jr.| Tony Goldwyn| Adria Arjona| John C. McGinley
+112;12 Years a Slave;Biography,Drama,History;Chiwetel Ejiofor| Michael Kenneth Williams| Michael Fassbender| Brad Pitt
+113;The Bad Batch;Romance,Sci-Fi;Keanu Reeves| Jason Momoa| Jim Carrey| Diego Luna
+114;300;Action,Fantasy,War;Gerard Butler| Lena Headey| David Wenham| Dominic West
+115;Harry Potter and the Deathly Hallows: Part 2;Adventure,Drama,Fantasy;Daniel Radcliffe| Emma Watson| Rupert Grint| Michael Gambon
+116;Office Christmas Party;Comedy;Jason Bateman| Olivia Munn| T.J. Miller|Jennifer Aniston
+117;The Neon Demon;Horror,Thriller;Elle Fanning| Christina Hendricks| Keanu Reeves| Karl Glusman
+118;Dangal;Action,Biography,Drama;Aamir Khan| Sakshi Tanwar| Fatima Sana Shaikh|Sanya Malhotra
+119;10 Cloverfield Lane;Drama,Horror,Mystery;John Goodman| Mary Elizabeth Winstead| John Gallagher Jr.| Douglas M. Griffin
+120;Finding Dory;Animation,Adventure,Comedy;Ellen DeGeneres| Albert Brooks|Ed O'Neill| Kaitlin Olson
+121;Miss Peregrine's Home for Peculiar Children;Adventure,Drama,Family;Eva Green| Asa Butterfield| Samuel L. Jackson| Judi Dench
+122;Divergent;Adventure,Mystery,Sci-Fi;Shailene Woodley| Theo James| Kate Winslet| Jai Courtney
+123;Mike and Dave Need Wedding Dates;Adventure,Comedy,Romance;Zac Efron| Adam Devine| Anna Kendrick| Aubrey Plaza
+124;Boyka: Undisputed IV;Action;Scott Adkins| Teodora Duhovnikova| Alon Aboutboul| Julian Vergov
+125;The Dark Knight Rises;Action,Thriller;Christian Bale| Tom Hardy| Anne Hathaway|Gary Oldman
+126;The Jungle Book;Adventure,Drama,Family;Neel Sethi| Bill Murray| Ben Kingsley| Idris Elba
+127;Transformers: Age of Extinction;Action,Adventure,Sci-Fi;Mark Wahlberg| Nicola Peltz| Jack Reynor| Stanley Tucci
+128;Nerve;Adventure,Crime,Mystery;Emma Roberts| Dave Franco| Emily Meade| Miles Heizer
+129;Mamma Mia!;Comedy,Family,Musical;Meryl Streep| Pierce Brosnan| Amanda Seyfried|Stellan Skarsgård
+130;The Revenant;Adventure,Drama,Thriller;Leonardo DiCaprio| Tom Hardy| Will Poulter| Domhnall Gleeson
+131;Fences;Drama;Denzel Washington| Viola Davis| Stephen Henderson| Jovan Adepo
+132;Into the Woods;Adventure,Comedy,Drama;Anna Kendrick| Meryl Streep| Chris Pine| Emily Blunt
+133;The Shallows;Drama,Horror,Thriller;Blake Lively| Óscar Jaenada| Angelo Josue Lozano Corzo| Brett Cullen
+134;Whiplash;Drama,Music;Miles Teller| J.K. Simmons| Melissa Benoist| Paul Reiser
+135;Furious 6;Action,Crime,Thriller;Vin Diesel| Paul Walker| Dwayne Johnson| Michelle Rodriguez
+136;The Place Beyond the Pines;Crime,Drama,Thriller;Ryan Gosling| Bradley Cooper| Eva Mendes|Craig Van Hook
+137;No Country for Old Men;Crime,Drama,Thriller;Tommy Lee Jones| Javier Bardem| Josh Brolin| Woody Harrelson
+138;The Great Gatsby;Drama,Romance;Leonardo DiCaprio| Carey Mulligan| Joel Edgerton|Tobey Maguire
+139;Shutter Island;Mystery,Thriller;Leonardo DiCaprio| Emily Mortimer| Mark Ruffalo|Ben Kingsley
+140;Brimstone;Mystery,Thriller,Western;Dakota Fanning| Guy Pearce| Kit Harington|Carice van Houten
+141;Star Trek;Action,Adventure,Sci-Fi;Chris Pine| Zachary Quinto| Simon Pegg| Leonard Nimoy
+142;Diary of a Wimpy Kid;Comedy,Family;Zachary Gordon| Robert Capron| Rachael Harris|Steve Zahn
+143;The Big Short;Biography,Comedy,Drama;Christian Bale| Steve Carell| Ryan Gosling| Brad Pitt
+144;Room;Drama;Brie Larson| Jacob Tremblay| Sean Bridgers|Wendy Crewson
+145;Django Unchained;Drama,Western;Jamie Foxx| Christoph Waltz| Leonardo DiCaprio|Kerry Washington
+146;Ah-ga-ssi;Drama,Mystery,Romance;Min-hee Kim| Jung-woo Ha| Jin-woong Jo| So-ri Moon
+147;The Edge of Seventeen;Comedy,Drama;Hailee Steinfeld| Haley Lu Richardson| Blake Jenner| Kyra Sedgwick
+148;Watchmen;Action,Drama,Mystery;Jackie Earle Haley| Patrick Wilson| Carla Gugino|Malin Akerman
+149;Superbad;Comedy;Michael Cera| Jonah Hill| Christopher Mintz-Plasse| Bill Hader
+150;Inferno;Action,Adventure,Crime;Tom Hanks| Felicity Jones| Irrfan Khan| Ben Foster
+151;The BFG;Adventure,Family,Fantasy;Mark Rylance| Ruby Barnhill| Penelope Wilton|Jemaine Clement
+152;The Hunger Games;Adventure,Sci-Fi,Thriller;Jennifer Lawrence| Josh Hutcherson| Liam Hemsworth|Stanley Tucci
+153;White Girl;Drama;Morgan Saylor| Brian Marc| Justin Bartha| Adrian Martinez
+154;Sicario;Action,Crime,Drama;Emily Blunt| Josh Brolin| Benicio Del Toro| Jon Bernthal
+155;Twin Peaks: The Missing Pieces;Drama,Horror,Mystery;Chris Isaak| Kiefer Sutherland| C.H. Evans| Sandra Kinder
+156;Aliens vs Predator - Requiem;Action,Horror,Sci-Fi;Reiko Aylesworth| Steven Pasquale|Shareeka Epps| John Ortiz
+157;Pacific Rim;Action,Adventure,Sci-Fi;Idris Elba| Charlie Hunnam| Rinko Kikuchi|Charlie Day
+158;Crazy, Stupid, Love.;Comedy,Drama,Romance;Steve Carell| Ryan Gosling| Julianne Moore| Emma Stone
+159;Scott Pilgrim vs. the World;Action,Comedy,Fantasy;Michael Cera| Mary Elizabeth Winstead| Kieran Culkin| Alison Pill
+160;Hot Fuzz;Action,Comedy,Mystery;Simon Pegg| Nick Frost| Martin Freeman| Bill Nighy
+161;Mine;Thriller,War;Armie Hammer| Annabelle Wallis|Tom Cullen| Clint Dyer
+162;Free Fire;Action,Comedy,Crime;Sharlto Copley| Brie Larson| Armie Hammer| Cillian Murphy
+163;X-Men: Days of Future Past;Action,Adventure,Sci-Fi;Patrick Stewart| Ian McKellen| Hugh Jackman| James McAvoy
+164;Jack Reacher: Never Go Back;Action,Adventure,Crime;Tom Cruise| Cobie Smulders| Aldis Hodge| Robert Knepper
+165;Casino Royale;Action,Adventure,Thriller;Daniel Craig| Eva Green| Judi Dench| Jeffrey Wright
+166;Twilight;Drama,Fantasy,Romance;Kristen Stewart| Robert Pattinson| Billy Burke|Sarah Clarke
+167;Now You See Me 2;Action,Adventure,Comedy;Jesse Eisenberg| Mark Ruffalo| Woody Harrelson| Dave Franco
+168;Woman in Gold;Biography,Drama,History;Helen Mirren| Ryan Reynolds| Daniel Brühl| Katie Holmes
+169;13 Hours;Action,Drama,History;John Krasinski| Pablo Schreiber| James Badge Dale|David Denman
+170;Spectre;Action,Adventure,Thriller;Daniel Craig| Christoph Waltz| Léa Seydoux| Ralph Fiennes
+171;Nightcrawler;Crime,Drama,Thriller;Jake Gyllenhaal| Rene Russo| Bill Paxton| Riz Ahmed
+172;Kubo and the Two Strings;Animation,Adventure,Family;Charlize Theron| Art Parkinson| Matthew McConaughey| Ralph Fiennes
+173;Beyond the Gates;Adventure,Horror;Graham Skipper| Chase Williamson| Brea Grant|Barbara Crampton
+174;Her;Drama,Romance,Sci-Fi;Joaquin Phoenix| Amy Adams| Scarlett Johansson|Rooney Mara
+175;Frozen;Animation,Adventure,Comedy;Kristen Bell| Idina Menzel| Jonathan Groff| Josh Gad
+176;Tomorrowland;Action,Adventure,Family;George Clooney| Britt Robertson| Hugh Laurie| Raffey Cassidy
+177;Dawn of the Planet of the Apes;Action,Adventure,Drama;Gary Oldman| Keri Russell| Andy Serkis| Kodi Smit-McPhee
+178;Tropic Thunder;Action,Comedy;Ben Stiller| Jack Black| Robert Downey Jr.| Jeff Kahn
+179;The Conjuring 2;Horror,Mystery,Thriller;Vera Farmiga| Patrick Wilson| Madison Wolfe| Frances O'Connor
+180;Ant-Man;Action,Adventure,Comedy;Paul Rudd| Michael Douglas| Corey Stoll| Evangeline Lilly
+181;Bridget Jones's Baby;Comedy,Romance;Renée Zellweger| Gemma Jones| Jim Broadbent|Sally Phillips
+182;The VVitch: A New-England Folktale;Horror,Mystery;Anya Taylor-Joy| Ralph Ineson| Kate Dickie| Julian Richings
+183;Cinderella;Drama,Family,Fantasy;Lily James| Cate Blanchett| Richard Madden|Helena Bonham Carter
+184;Realive;Sci-Fi;Tom Hughes| Charlotte Le Bon| Oona Chaplin| Barry Ward
+185;Forushande;Drama,Thriller;Taraneh Alidoosti| Shahab Hosseini| Babak Karimi|Farid Sajjadi Hosseini
+186;Love;Drama,Romance;Aomi Muyock| Karl Glusman| Klara Kristin| Juan Saavedra
+187;Billy Lynn's Long Halftime Walk;Drama,War;Joe Alwyn| Garrett Hedlund| Arturo Castro| Mason Lee
+188;Crimson Peak;Drama,Fantasy,Horror;Mia Wasikowska| Jessica Chastain| Tom Hiddleston| Charlie Hunnam
+189;Drive;Crime,Drama;Ryan Gosling| Carey Mulligan| Bryan Cranston| Albert Brooks
+190;Trainwreck;Comedy,Drama,Romance;Amy Schumer| Bill Hader| Brie Larson| Colin Quinn
+191;The Light Between Oceans;Drama,Romance;Michael Fassbender| Alicia Vikander| Rachel Weisz| Florence Clery
+192;Below Her Mouth;Drama;Erika Linder| Natalie Krill| Sebastian Pigott| Mayko Nguyen
+193;Spotlight;Crime,Drama,History;Mark Ruffalo| Michael Keaton| Rachel McAdams| Liev Schreiber
+194;Morgan;Horror,Sci-Fi,Thriller;Kate Mara| Anya Taylor-Joy| Rose Leslie| Michael Yare
+195;Warrior;Action,Drama,Sport;Tom Hardy| Nick Nolte| Joel Edgerton| Jennifer Morrison
+196;Captain America: The First Avenger;Action,Adventure,Sci-Fi;Chris Evans| Hugo Weaving| Samuel L. Jackson|Hayley Atwell
+197;Hacker;Crime,Drama,Thriller;Callan McAuliffe| Lorraine Nicholson| Daniel Eric Gold| Clifton Collins Jr.
+198;Into the Wild;Adventure,Biography,Drama;Emile Hirsch| Vince Vaughn| Catherine Keener| Marcia Gay Harden
+199;The Imitation Game;Biography,Drama,Thriller;Benedict Cumberbatch| Keira Knightley| Matthew Goode| Allen Leech
+200;Central Intelligence;Action,Comedy,Crime;Dwayne Johnson| Kevin Hart| Danielle Nicolet| Amy Ryan
+201;Edge of Tomorrow;Action,Adventure,Sci-Fi;Tom Cruise| Emily Blunt| Bill Paxton| Brendan Gleeson
+202;A Cure for Wellness;Drama,Fantasy,Horror;Dane DeHaan| Jason Isaacs| Mia Goth| Ivo Nandi
+203;Snowden;Biography,Drama,Thriller;Joseph Gordon-Levitt| Shailene Woodley| Melissa Leo|Zachary Quinto
+204;Iron Man;Action,Adventure,Sci-Fi;Robert Downey Jr.| Gwyneth Paltrow| Terrence Howard| Jeff Bridges
+205;Allegiant;Action,Adventure,Mystery;Shailene Woodley| Theo James| Jeff Daniels|Naomi Watts
+206;X: First Class;Action,Adventure,Sci-Fi;James McAvoy| Michael Fassbender| Jennifer Lawrence| Kevin Bacon
+207;Raw (II);Drama,Horror;Garance Marillier| Ella Rumpf| Rabah Nait Oufella|Laurent Lucas
+208;Paterson;Comedy,Drama,Romance;Adam Driver| Golshifteh Farahani| Nellie| Rizwan Manji
+209;Bridesmaids;Comedy,Romance;Kristen Wiig| Maya Rudolph| Rose Byrne| Terry Crews
+210;The Girl with All the Gifts;Drama,Horror,Thriller;Gemma Arterton| Glenn Close| Dominique Tipper|Paddy Considine
+211;San Andreas;Action,Adventure,Drama;Dwayne Johnson| Carla Gugino| Alexandra Daddario|Colton Haynes
+212;Spring Breakers;Drama;Vanessa Hudgens| Selena Gomez| Ashley Benson|Rachel Korine
+213;Transformers;Action,Adventure,Sci-Fi;Shia LaBeouf| Megan Fox| Josh Duhamel| Tyrese Gibson
+214;Old Boy;Action,Drama,Mystery;Josh Brolin| Elizabeth Olsen| Samuel L. Jackson| Sharlto Copley
+215;Thor: The Dark World;Action,Adventure,Fantasy;Chris Hemsworth| Natalie Portman| Tom Hiddleston|Stellan Skarsgård
+216;Gods of Egypt;Action,Adventure,Fantasy;Brenton Thwaites| Nikolaj Coster-Waldau| Gerard Butler| Chadwick Boseman
+217;Captain America: The Winter Soldier;Action,Adventure,Sci-Fi;Chris Evans| Samuel L. Jackson|Scarlett Johansson| Robert Redford
+218;Monster Trucks;Action,Adventure,Comedy;Lucas Till| Jane Levy| Thomas Lennon| Barry Pepper
+219;A Dark Song;Drama,Horror;Mark Huberman| Susan Loughnane| Steve Oram|Catherine Walker
+220;Kick-Ass;Action,Comedy;Aaron Taylor-Johnson| Nicolas Cage| Chloë Grace Moretz| Garrett M. Brown
+221;Hardcore Henry;Action,Adventure,Sci-Fi;Sharlto Copley| Tim Roth| Haley Bennett| Danila Kozlovsky
+222;Cars;Animation,Adventure,Comedy;Owen Wilson| Bonnie Hunt| Paul Newman| Larry the Cable Guy
+223;It Follows;Horror,Mystery;Maika Monroe| Keir Gilchrist| Olivia Luccardi|Lili Sepe
+224;The Girl with the Dragon Tattoo;Crime,Drama,Mystery;Daniel Craig| Rooney Mara| Christopher Plummer|Stellan Skarsgård
+225;We're the Millers;Comedy,Crime;Jason Sudeikis| Jennifer Aniston| Emma Roberts| Ed Helms
+226;American Honey;Drama;Sasha Lane| Shia LaBeouf| Riley Keough| McCaul Lombardi
+227;The Lobster;Comedy,Drama,Romance;Colin Farrell| Rachel Weisz| Jessica Barden|Olivia Colman
+228;Predators;Action,Adventure,Sci-Fi;Adrien Brody| Laurence Fishburne| Topher Grace|Alice Braga
+229;Maleficent;Action,Adventure,Family;Angelina Jolie| Elle Fanning| Sharlto Copley|Lesley Manville
+230;Rupture;Horror,Sci-Fi,Thriller;Noomi Rapace| Michael Chiklis| Kerry Bishé|Peter Stormare
+231;Pan's Labyrinth;Drama,Fantasy,War;Ivana Baquero| Ariadna Gil| Sergi López|Maribel Verdú
+232;A Kind of Murder;Crime,Drama,Thriller;Patrick Wilson| Jessica Biel| Haley Bennett| Vincent Kartheiser
+233;Apocalypto;Action,Adventure,Drama;Gerardo Taracena| Raoul Max Trujillo| Dalia Hernández|Rudy Youngblood
+234;Mission: Impossible - Rogue Nation;Action,Adventure,Thriller;Tom Cruise| Rebecca Ferguson| Jeremy Renner| Simon Pegg
+235;The Huntsman: Winter's War;Action,Adventure,Drama;Chris Hemsworth| Jessica Chastain| Charlize Theron| Emily Blunt
+236;The Perks of Being a Wallflower;Drama,Romance;Logan Lerman| Emma Watson| Ezra Miller| Paul Rudd
+237;Jackie;Biography,Drama,History;Natalie Portman| Peter Sarsgaard| Greta Gerwig|Billy Crudup
+238;The Disappointments Room;Drama,Horror,Thriller;Kate Beckinsale| Mel Raido| Duncan Joiner| Lucas Till
+239;The Grand Budapest Hotel;Adventure,Comedy,Drama;Ralph Fiennes| F. Murray Abraham| Mathieu Amalric|Adrien Brody
+240;The Host;Action,Adventure,Romance;Saoirse Ronan| Max Irons| Jake Abel| Diane Kruger
+241;Fury;Action,Drama,War;Brad Pitt| Shia LaBeouf| Logan Lerman| Michael Peña
+242;Inside Out;Animation,Adventure,Comedy;Amy Poehler| Bill Hader| Lewis Black| Mindy Kaling
+243;Rock Dog;Animation,Adventure,Comedy;Luke Wilson| Eddie Izzard| J.K. Simmons| Lewis Black
+244;Terminator Genisys;Action,Adventure,Sci-Fi;Arnold Schwarzenegger| Jason Clarke| Emilia Clarke|Jai Courtney
+245;Percy Jackson & the Olympians: The Lightning Thief;Adventure,Family,Fantasy;Logan Lerman| Kevin McKidd| Steve Coogan|Brandon T. Jackson
+246;Les Misérables;Drama,Musical,Romance;Hugh Jackman| Russell Crowe| Anne Hathaway|Amanda Seyfried
+247;Children of Men;Drama,Sci-Fi,Thriller;Julianne Moore| Clive Owen| Chiwetel Ejiofor|Michael Caine
+248;20th Century Women;Comedy,Drama;Annette Bening| Elle Fanning| Greta Gerwig| Billy Crudup
+249;Spy;Action,Comedy,Crime;Melissa McCarthy| Rose Byrne| Jude Law| Jason Statham
+250;The Intouchables;Biography,Comedy,Drama;François Cluzet| Omar Sy| Anne Le Ny| Audrey Fleurot
+251;Bonjour Anne;Comedy,Drama,Romance;Diane Lane| Alec Baldwin| Arnaud Viard| Linda Gegusch
+252;Kynodontas;Drama,Thriller;Christos Stergioglou| Michele Valley| Angeliki Papoulia| Hristos Passalis
+253;Straight Outta Compton;Biography,Drama,History;O'Shea Jackson Jr.| Corey Hawkins| Jason Mitchell|Neil Brown Jr.
+254;The Amazing Spider-Man 2;Action,Adventure,Sci-Fi;Andrew Garfield| Emma Stone| Jamie Foxx| Paul Giamatti
+255;The Conjuring;Horror,Mystery,Thriller;Patrick Wilson| Vera Farmiga| Ron Livingston| Lili Taylor
+256;The Hangover;Comedy;Zach Galifianakis| Bradley Cooper| Justin Bartha| Ed Helms
+257;Battleship;Action,Adventure,Sci-Fi;Alexander Skarsgård| Brooklyn Decker| Liam Neeson|Rihanna
+258;Rise of the Planet of the Apes;Action,Drama,Sci-Fi;James Franco| Andy Serkis| Freida Pinto| Karin Konoval
+259;Lights Out;Horror;Teresa Palmer| Gabriel Bateman| Maria Bello|Billy Burke
+260;Norman: The Moderate Rise and Tragic Fall of a New York Fixer;Drama,Thriller;Richard Gere| Lior Ashkenazi| Michael Sheen|Charlotte Gainsbourg
+261;Birdman or (The Unexpected Virtue of Ignorance);Comedy,Drama,Romance;Michael Keaton| Zach Galifianakis|Edward Norton| Andrea Riseborough
+262;Black Swan;Drama,Thriller;Natalie Portman| Mila Kunis| Vincent Cassel|Winona Ryder
+263;Dear White People;Comedy,Drama;Tyler James Williams| Tessa Thompson| Kyle Gallner|Teyonah Parris
+264;Nymphomaniac: Vol. I;Drama;Charlotte Gainsbourg| Stellan Skarsgård| Stacy Martin| Shia LaBeouf
+265;Teenage Mutant Ninja Turtles: Out of the Shadows;Action,Adventure,Comedy;Megan Fox| Will Arnett| Tyler Perry| Laura Linney
+266;Knock Knock;Drama,Horror,Thriller;Keanu Reeves| Lorenza Izzo| Ana de Armas| Aaron Burns
+267;Dirty Grandpa;Comedy;Robert De Niro| Zac Efron| Zoey Deutch| Aubrey Plaza
+268;Cloud Atlas;Drama,Sci-Fi;Tom Hanks| Halle Berry| Hugh Grant| Hugo Weaving
+269;X-Men Origins: Wolverine;Action,Adventure,Sci-Fi;Hugh Jackman| Liev Schreiber| Ryan Reynolds| Danny Huston
+270;Satanic;Horror;Sarah Hyland| Steven Krueger| Justin Chon| Clara Mamet
+271;Skyfall;Action,Adventure,Thriller;Daniel Craig| Javier Bardem| Naomie Harris| Judi Dench
+272;The Hobbit: An Unexpected Journey;Adventure,Fantasy;Martin Freeman| Ian McKellen| Richard Armitage|Andy Serkis
+273;21 Jump Street;Action,Comedy,Crime;Jonah Hill| Channing Tatum| Ice Cube|Brie Larson
+274;Sing Street;Comedy,Drama,Music;Ferdia Walsh-Peelo| Aidan Gillen| Maria Doyle Kennedy| Jack Reynor
+275;Ballerina;Animation,Adventure,Comedy;Elle Fanning| Dane DeHaan| Carly Rae Jepsen| Maddie Ziegler
+276;Oblivion;Action,Adventure,Mystery;Tom Cruise| Morgan Freeman| Andrea Riseborough| Olga Kurylenko
+277;22 Jump Street;Action,Comedy,Crime;Channing Tatum| Jonah Hill| Ice Cube|Nick Offerman
+278;Zodiac;Crime,Drama,History;Jake Gyllenhaal| Robert Downey Jr.| Mark Ruffalo|Anthony Edwards
+279;Everybody Wants Some!!;Comedy;Blake Jenner| Tyler Hoechlin| Ryan Guzman|Zoey Deutch
+280;Iron Man Three;Action,Adventure,Sci-Fi;Robert Downey Jr.| Guy Pearce| Gwyneth Paltrow|Don Cheadle
+281;Now You See Me;Crime,Mystery,Thriller;Jesse Eisenberg| Common| Mark Ruffalo| Woody Harrelson
+282;Sherlock Holmes;Action,Adventure,Crime;Robert Downey Jr.| Jude Law| Rachel McAdams| Mark Strong
+283;Death Proof;Thriller;Kurt Russell| Zoë Bell| Rosario Dawson| Vanessa Ferlito
+284;The Danish Girl;Biography,Drama,Romance;Eddie Redmayne| Alicia Vikander| Amber Heard| Ben Whishaw
+285;Hercules;Action,Adventure;Dwayne Johnson| John Hurt| Ian McShane| Joseph Fiennes
+286;Sucker Punch;Action,Fantasy;Emily Browning| Vanessa Hudgens| Abbie Cornish|Jena Malone
+287;Keeping Up with the Joneses;Action,Comedy;Zach Galifianakis| Isla Fisher| Jon Hamm| Gal Gadot
+288;Jupiter Ascending;Action,Adventure,Sci-Fi;Channing Tatum| Mila Kunis|Eddie Redmayne| Sean Bean
+289;Masterminds;Action,Comedy,Crime;Zach Galifianakis| Kristen Wiig| Owen Wilson| Ross Kimball
+290;Iris;Thriller;Romain Duris| Charlotte Le Bon| Jalil Lespert| Camille Cottin
+291;Busanhaeng;Action,Drama,Horror;Yoo Gong| Soo-an Kim| Yu-mi Jung| Dong-seok Ma
+292;Pitch Perfect;Comedy,Music,Romance;Anna Kendrick| Brittany Snow| Rebel Wilson| Anna Camp
+293;Neighbors 2: Sorority Rising;Comedy;Seth Rogen| Rose Byrne| Zac Efron| Chloë Grace Moretz
+294;The Exception;Drama;Lily James| Jai Courtney| Christopher Plummer| Loïs van Wijk
+295;Man of Steel;Action,Adventure,Fantasy;Henry Cavill| Amy Adams| Michael Shannon| Diane Lane
+296;The Choice;Drama,Romance;Benjamin Walker| Teresa Palmer| Alexandra Daddario|Maggie Grace
+297;Ice Age: Collision Course;Animation,Adventure,Comedy;Ray Romano| Denis Leary| John Leguizamo| Chris Wedge
+298;The Devil Wears Prada;Comedy,Drama;Anne Hathaway| Meryl Streep| Adrian Grenier| Emily Blunt
+299;The Infiltrator;Biography,Crime,Drama;Bryan Cranston| John Leguizamo| Diane Kruger| Amy Ryan
+300;There Will Be Blood;Drama,History;Daniel Day-Lewis| Paul Dano| Ciarán Hinds|Martin Stringer
+301;The Equalizer;Action,Crime,Thriller;Denzel Washington| Marton Csokas| Chloë Grace Moretz| David Harbour
+302;Lone Survivor;Action,Biography,Drama;Mark Wahlberg| Taylor Kitsch| Emile Hirsch| Ben Foster
+303;The Cabin in the Woods;Horror;Kristen Connolly| Chris Hemsworth| Anna Hutchison|Fran Kranz
+304;The House Bunny;Comedy,Romance;Anna Faris| Colin Hanks| Emma Stone| Kat Dennings
+305;She's Out of My League;Comedy,Romance;Jay Baruchel| Alice Eve| T.J. Miller| Mike Vogel
+306;Inherent Vice;Comedy,Crime,Drama;Joaquin Phoenix| Josh Brolin| Owen Wilson|Katherine Waterston
+307;Alice Through the Looking Glass;Adventure,Family,Fantasy;Mia Wasikowska| Johnny Depp| Helena Bonham Carter| Anne Hathaway
+308;Vincent N Roxxy;Crime,Drama,Thriller;Emile Hirsch| Zoë Kravitz| Zoey Deutch|Emory Cohen
+309;The Fast and the Furious: Tokyo Drift;Action,Crime,Thriller;Lucas Black| Zachery Ty Bryan| Shad Moss| Damien Marzette
+310;How to Be Single;Comedy,Romance;Dakota Johnson| Rebel Wilson| Leslie Mann| Alison Brie
+311;The Blind Side;Biography,Drama,Sport;Quinton Aaron| Sandra Bullock| Tim McGraw|Jae Head
+312;La vie d'Adèle;Drama,Romance;Léa Seydoux| Adèle Exarchopoulos| Salim Kechiouche| Aurélien Recoing
+313;The Babadook;Drama,Horror;Essie Davis| Noah Wiseman| Daniel Henshall| Hayley McElhinney
+314;The Hobbit: The Battle of the Five Armies;Adventure,Fantasy;Ian McKellen| Martin Freeman| Richard Armitage|Cate Blanchett
+315;Harry Potter and the Order of the Phoenix;Adventure,Family,Fantasy;Daniel Radcliffe| Emma Watson| Rupert Grint| Brendan Gleeson
+316;Snowpiercer;Action,Drama,Sci-Fi;Chris Evans| Jamie Bell| Tilda Swinton| Ed Harris
+317;The 5th Wave;Action,Adventure,Sci-Fi;Chloë Grace Moretz| Matthew Zuk| Gabriela Lopez|Bailey Anne Borders
+318;The Stakelander;Action,Horror;Connor Paolo| Nick Damici| Laura Abramsen| A.C. Peterson
+319;The Visit;Comedy,Horror,Thriller;Olivia DeJonge| Ed Oxenbould| Deanna Dunagan| Peter McRobbie
+320;Fast Five;Action,Crime,Thriller;Vin Diesel| Paul Walker| Dwayne Johnson| Jordana Brewster
+321;Step Up;Crime,Drama,Music;Channing Tatum| Jenna Dewan Tatum| Damaine Radcliff| De'Shawn Washington
+322;Lovesong;Drama;Riley Keough| Jena Malone| Jessie Ok Gray| Cary Joji Fukunaga
+323;RocknRolla;Action,Crime,Thriller;Gerard Butler| Tom Wilkinson| Idris Elba| Thandie Newton
+324;In Time;Action,Sci-Fi,Thriller;Justin Timberlake| Amanda Seyfried| Cillian Murphy|Olivia Wilde
+325;The Social Network;Biography,Drama;Jesse Eisenberg| Andrew Garfield| Justin Timberlake|Rooney Mara
+326;The Last Witch Hunter;Action,Adventure,Fantasy;Vin Diesel| Rose Leslie| Elijah Wood| Ólafur Darri Ólafsson
+327;Victor Frankenstein;Drama,Horror,Sci-Fi;Daniel Radcliffe| James McAvoy| Jessica Brown Findlay| Andrew Scott
+328;A Street Cat Named Bob;Biography,Comedy,Drama;Luke Treadaway| Bob the Cat| Ruta Gedmintas| Joanne Froggatt
+329;Green Room;Crime,Horror,Thriller;Anton Yelchin| Imogen Poots| Alia Shawkat|Patrick Stewart
+330;Blackhat;Crime,Drama,Mystery;Chris Hemsworth| Viola Davis| Wei Tang| Leehom Wang
+331;Storks;Animation,Adventure,Comedy;Andy Samberg| Katie Crown|Kelsey Grammer| Jennifer Aniston
+332;American Sniper;Action,Biography,Drama;Bradley Cooper| Sienna Miller| Kyle Gallner| Cole Konis
+333;Dallas Buyers Club;Biography,Drama;Matthew McConaughey| Jennifer Garner| Jared Leto| Steve Zahn
+334;Lincoln;Biography,Drama,History;Daniel Day-Lewis| Sally Field| David Strathairn|Joseph Gordon-Levitt
+335;Rush;Action,Biography,Drama;Daniel Brühl| Chris Hemsworth| Olivia Wilde|Alexandra Maria Lara
+336;Before I Wake;Drama,Fantasy,Horror;Kate Bosworth| Thomas Jane| Jacob Tremblay|Annabeth Gish
+337;Silver Linings Playbook;Comedy,Drama,Romance;Bradley Cooper| Jennifer Lawrence| Robert De Niro| Jacki Weaver
+338;Tracktown;Drama,Sport;Alexi Pappas| Chase Offerle| Rachel Dratch| Andy Buckley
+339;The Fault in Our Stars;Drama,Romance;Shailene Woodley| Ansel Elgort| Nat Wolff| Laura Dern
+340;Blended;Comedy,Romance;Adam Sandler| Drew Barrymore| Wendi McLendon-Covey| Kevin Nealon
+341;Fast & Furious;Action,Crime,Thriller;Vin Diesel| Paul Walker| Michelle Rodriguez| Jordana Brewster
+342;Looper;Action,Crime,Drama;Joseph Gordon-Levitt| Bruce Willis| Emily Blunt| Paul Dano
+343;White House Down;Action,Drama,Thriller;Channing Tatum| Jamie Foxx| Maggie Gyllenhaal|Jason Clarke
+344;Pete's Dragon;Adventure,Family,Fantasy;Bryce Dallas Howard| Robert Redford| Oakes Fegley|Oona Laurence
+345;Spider-Man 3;Action,Adventure;Tobey Maguire| Kirsten Dunst| Topher Grace| Thomas Haden Church
+346;The Three Musketeers;Action,Adventure,Romance;Logan Lerman| Matthew Macfadyen| Ray Stevenson| Milla Jovovich
+347;Stardust;Adventure,Family,Fantasy;Charlie Cox| Claire Danes| Sienna Miller| Ian McKellen
+348;American Hustle;Crime,Drama;Christian Bale| Amy Adams| Bradley Cooper|Jennifer Lawrence
+349;Jennifer's Body;Comedy,Horror;Megan Fox| Amanda Seyfried| Adam Brody| Johnny Simmons
+350;Midnight in Paris;Comedy,Fantasy,Romance;Owen Wilson| Rachel McAdams| Kathy Bates| Kurt Fuller
+351;Lady Macbeth;Drama;Florence Pugh| Christopher Fairbank| Cosmo Jarvis| Naomi Ackie
+352;Joy;Drama;Jennifer Lawrence| Robert De Niro| Bradley Cooper| Edgar Ramírez
+353;The Dressmaker;Comedy,Drama;Kate Winslet| Judy Davis| Liam Hemsworth|Hugo Weaving
+354;Café Society;Comedy,Drama,Romance;Jesse Eisenberg| Kristen Stewart| Steve Carell| Blake Lively
+355;Insurgent;Adventure,Sci-Fi,Thriller;Shailene Woodley| Ansel Elgort| Theo James|Kate Winslet
+356;Seventh Son;Action,Adventure,Fantasy;Ben Barnes| Julianne Moore| Jeff Bridges| Alicia Vikander
+358;The Theory of Everything;Biography,Drama,Romance;Eddie Redmayne| Felicity Jones| Tom Prior| Sophie Perry
+359;This Is the End;Comedy,Fantasy;James Franco| Jonah Hill| Seth Rogen|Jay Baruchel
+360;About Time;Comedy,Drama,Fantasy;Domhnall Gleeson| Rachel McAdams| Bill Nighy|Lydia Wilson
+361;Step Brothers;Comedy;Will Ferrell| John C. Reilly| Mary Steenburgen|Richard Jenkins
+362;Clown;Horror,Thriller;Andy Powers| Laura Allen| Peter Stormare| Christian Distefano
+363;Star Trek Into Darkness;Action,Adventure,Sci-Fi;Chris Pine| Zachary Quinto| Zoe Saldana| Benedict Cumberbatch
+364;Zombieland;Adventure,Comedy,Horror;Jesse Eisenberg| Emma Stone| Woody Harrelson|Abigail Breslin
+365;Hail, Caesar!;Comedy,Mystery;Josh Brolin| George Clooney| Alden Ehrenreich| Ralph Fiennes
+366;Slumdog Millionaire;Drama;Dev Patel| Freida Pinto| Saurabh Shukla| Anil Kapoor
+367;The Twilight Saga: Breaking Dawn - Part 2;Adventure,Drama,Fantasy;Kristen Stewart| Robert Pattinson| Taylor Lautner| Peter Facinelli
+368;American Wrestler: The Wizard;Drama,Sport;William Fichtner| Jon Voight| Lia Marie Johnson|Gabriel Basso
+369;The Amazing Spider-Man;Action,Adventure;Andrew Garfield| Emma Stone| Rhys Ifans| Irrfan Khan
+370;Ben-Hur;Action,Adventure,Drama;Jack Huston| Toby Kebbell| Rodrigo Santoro|Nazanin Boniadi
+371;Sleight;Action,Drama,Sci-Fi;Jacob Latimore| Seychelle Gabriel| Dulé Hill| Storm Reid
+372;The Maze Runner;Action,Mystery,Sci-Fi;Dylan O'Brien| Kaya Scodelario| Will Poulter| Thomas Brodie-Sangster
+373;Criminal;Action,Crime,Drama;Kevin Costner| Ryan Reynolds| Gal Gadot| Gary Oldman
+374;Wanted;Action,Crime,Fantasy;Angelina Jolie| James McAvoy| Morgan Freeman| Terence Stamp
+375;Florence Foster Jenkins;Biography,Comedy,Drama;Meryl Streep| Hugh Grant| Simon Helberg| Rebecca Ferguson
+376;Collide;Action,Crime,Thriller;Nicholas Hoult| Felicity Jones| Anthony Hopkins| Ben Kingsley
+377;Black Mass;Biography,Crime,Drama;Johnny Depp| Benedict Cumberbatch| Dakota Johnson| Joel Edgerton
+378;Creed;Drama,Sport;Michael B. Jordan| Sylvester Stallone| Tessa Thompson| Phylicia Rashad
+379;Swiss Army Man;Adventure,Comedy,Drama;Paul Dano| Daniel Radcliffe| Mary Elizabeth Winstead| Antonia Ribero
+380;The Expendables 3;Action,Adventure,Thriller;Sylvester Stallone| Jason Statham| Jet Li| Antonio Banderas
+381;What We Do in the Shadows;Comedy,Fantasy,Horror;Jemaine Clement| Taika Waititi|Cori Gonzalez-Macuer| Jonny Brugh
+382;Southpaw;Drama,Sport;Jake Gyllenhaal| Rachel McAdams| Oona Laurence|Forest Whitaker
+383;Hush;Horror,Thriller;John Gallagher Jr.| Kate Siegel| Michael Trucco|Samantha Sloyan
+384;Bridge of Spies;Drama,History,Thriller;Tom Hanks| Mark Rylance| Alan Alda| Amy Ryan
+385;The Lego Movie;Animation,Action,Adventure;Chris Pratt| Will Ferrell| Elizabeth Banks| Will Arnett
+386;Everest;Action,Adventure,Drama;Jason Clarke| Ang Phula Sherpa| Thomas M. Wright| Martin Henderson
+387;Pixels;Action,Comedy,Family;Adam Sandler| Kevin James| Michelle Monaghan|Peter Dinklage
+388;Robin Hood;Action,Adventure,Drama;Russell Crowe| Cate Blanchett| Matthew Macfadyen|Max von Sydow
+389;The Wolverine;Action,Adventure,Sci-Fi;Hugh Jackman| Will Yun Lee| Tao Okamoto| Rila Fukushima
+390;John Carter;Action,Adventure,Sci-Fi;Taylor Kitsch| Lynn Collins| Willem Dafoe|Samantha Morton
+391;Keanu;Action,Comedy;Keegan-Michael Key| Jordan Peele| Tiffany Haddish|Method Man
+392;The Gunman;Action,Crime,Drama;Sean Penn| Idris Elba| Jasmine Trinca| Javier Bardem
+393;Steve Jobs;Biography,Drama;Michael Fassbender| Kate Winslet| Seth Rogen| Jeff Daniels
+394;Whisky Galore;Comedy,Romance;Tim Pigott-Smith| Naomi Battrick| Ellie Kendrick|James Cosmo
+395;Grown Ups 2;Comedy;Adam Sandler| Kevin James| Chris Rock| David Spade
+396;The Age of Adaline;Drama,Fantasy,Romance;Blake Lively| Michiel Huisman| Harrison Ford|Kathy Baker
+397;The Incredible Hulk;Action,Adventure,Sci-Fi;Edward Norton| Liv Tyler| Tim Roth| William Hurt
+398;Couples Retreat;Comedy;Vince Vaughn| Malin Akerman| Jon Favreau| Jason Bateman
+399;Absolutely Anything;Comedy,Sci-Fi;Simon Pegg| Kate Beckinsale| Sanjeev Bhaskar| Rob Riggle
+400;Magic Mike;Comedy,Drama;Channing Tatum| Alex Pettyfer| Olivia Munn|Matthew McConaughey
+401;Minions;Animation,Action,Adventure;Sandra Bullock| Jon Hamm| Michael Keaton| Pierre Coffin
+402;The Black Room;Horror;Natasha Henstridge| Lukas Hassel| Lin Shaye|Dominique Swain
+403;Bronson;Action,Biography,Crime;Tom Hardy| Kelly Adams| Luing Andrews|Katy Barker
+404;Despicable Me;Animation,Adventure,Comedy;Steve Carell| Jason Segel| Russell Brand| Julie Andrews
+405;The Best of Me;Drama,Romance;James Marsden| Michelle Monaghan| Luke Bracey|Liana Liberato
+406;The Invitation;Drama,Mystery,Thriller;Logan Marshall-Green| Emayatzy Corinealdi| Michiel Huisman| Tammy Blanchard
+407;Zero Dark Thirty;Drama,History,Thriller;Jessica Chastain| Joel Edgerton| Chris Pratt| Mark Strong
+408;Tangled;Animation,Adventure,Comedy;Mandy Moore| Zachary Levi| Donna Murphy| Ron Perlman
+409;The Hunger Games: Mockingjay - Part 2;Action,Adventure,Sci-Fi;Jennifer Lawrence| Josh Hutcherson| Liam Hemsworth| Woody Harrelson
+410;Vacation;Adventure,Comedy;Ed Helms| Christina Applegate| Skyler Gisondo| Steele Stebbins
+411;Taken;Action,Thriller;Liam Neeson| Maggie Grace| Famke Janssen| Leland Orser
+412;Pitch Perfect 2;Comedy,Music;Anna Kendrick| Rebel Wilson| Hailee Steinfeld|Brittany Snow
+413;Monsters University;Animation,Adventure,Comedy;Billy Crystal| John Goodman| Steve Buscemi| Helen Mirren
+414;Elle;Crime,Drama,Thriller;Isabelle Huppert| Laurent Lafitte| Anne Consigny|Charles Berling
+415;Mechanic: Resurrection;Action,Adventure,Crime;Jason Statham| Jessica Alba| Tommy Lee Jones|Michelle Yeoh
+416;Tusk;Comedy,Drama,Horror;Justin Long| Michael Parks| Haley Joel Osment|Genesis Rodriguez
+417;The Headhunter's Calling;Drama;Alison Brie| Gerard Butler| Willem Dafoe| Gretchen Mol
+418;Atonement;Drama,Mystery,Romance;Keira Knightley| James McAvoy| Brenda Blethyn|Saoirse Ronan
+419;Harry Potter and the Deathly Hallows: Part 1;Adventure,Family,Fantasy;Daniel Radcliffe| Emma Watson| Rupert Grint| Bill Nighy
+420;Shame;Drama;Michael Fassbender| Carey Mulligan| James Badge Dale| Lucy Walters
+421;Hanna;Action,Drama,Thriller;Saoirse Ronan| Cate Blanchett| Eric Bana| Vicky Krieps
+422;The Babysitters;Drama;Lauren Birkell| Paul Borghese| Chira Cassel| Anthony Cirillo
+423;Pride and Prejudice and Zombies;Action,Horror,Romance;Lily James| Sam Riley| Jack Huston| Bella Heathcote
+424;300: Rise of an Empire;Action,Drama,Fantasy;Sullivan Stapleton| Eva Green| Lena Headey| Hans Matheson
+425;London Has Fallen;Action,Crime,Drama;Gerard Butler| Aaron Eckhart| Morgan Freeman|Angela Bassett
+426;The Curious Case of Benjamin Button;Drama,Fantasy,Romance;Brad Pitt| Cate Blanchett| Tilda Swinton| Julia Ormond
+427;Sin City: A Dame to Kill For;Action,Crime,Thriller;Mickey Rourke| Jessica Alba| Josh Brolin| Joseph Gordon-Levitt
+428;The Bourne Ultimatum;Action,Mystery,Thriller;Matt Damon| Edgar Ramírez| Joan Allen| Julia Stiles
+429;Srpski film;Horror,Mystery,Thriller;Srdjan 'Zika' Todorovic| Sergej Trifunovic|Jelena Gavrilovic| Slobodan Bestic
+430;The Purge: Election Year;Action,Horror,Sci-Fi;Frank Grillo| Elizabeth Mitchell| Mykelti Williamson| Joseph Julian Soria
+431;3 Idiots;Comedy,Drama;Aamir Khan| Madhavan| Mona Singh| Sharman Joshi
+432;Zoolander 2;Comedy;Ben Stiller| Owen Wilson| Penélope Cruz| Will Ferrell
+433;World War Z;Action,Adventure,Horror;Brad Pitt| Mireille Enos| Daniella Kertesz| James Badge Dale
+434;Mission: Impossible - Ghost Protocol;Action,Adventure,Thriller;Tom Cruise| Jeremy Renner| Simon Pegg| Paula Patton
+435;Let Me Make You a Martyr;Action,Crime,Drama;Marilyn Manson| Mark Boone Junior| Sam Quartin| Niko Nicotera
+436;Filth;Comedy,Crime,Drama;James McAvoy| Jamie Bell| Eddie Marsan| Imogen Poots
+437;The Longest Ride;Drama,Romance;Scott Eastwood| Britt Robertson| Alan Alda| Jack Huston
+438;The imposible;Drama,Thriller;Naomi Watts| Ewan McGregor| Tom Holland| Oaklee Pendergast
+439;Kick-Ass 2;Action,Comedy,Crime;Aaron Taylor-Johnson| Chloë Grace Moretz|Christopher Mintz-Plasse| Jim Carrey
+440;Folk Hero & Funny Guy;Comedy;Alex Karpovsky| Wyatt Russell| Meredith Hagner|Melanie Lynskey
+441;Oz the Great and Powerful;Adventure,Family,Fantasy;James Franco| Michelle Williams| Rachel Weisz| Mila Kunis
+442;Brooklyn;Drama,Romance;Saoirse Ronan| Emory Cohen| Domhnall Gleeson|Jim Broadbent
+443;Coraline;Animation,Family,Fantasy;Dakota Fanning| Teri Hatcher| John Hodgman| Jennifer Saunders
+444;Blue Valentine;Drama,Romance;Ryan Gosling| Michelle Williams| John Doman|Faith Wladyka
+445;The Thinning;Thriller;Logan Paul| Peyton List| Lia Marie Johnson|Calum Worthy
+446;Silent Hill;Adventure,Horror,Mystery;Radha Mitchell| Laurie Holden| Sean Bean|Deborah Kara Unger
+447;Dredd;Action,Sci-Fi;Karl Urban| Olivia Thirlby| Lena Headey| Rachel Wood
+448;Hunt for the Wilderpeople;Adventure,Comedy,Drama;Sam Neill| Julian Dennison| Rima Te Wiata| Rachel House
+449;Big Hero 6;Animation,Action,Adventure;Ryan Potter| Scott Adsit| Jamie Chung|T.J. Miller
+450;Carrie;Drama,Horror;Chloë Grace Moretz| Julianne Moore| Gabriella Wilde| Portia Doubleday
+451;Iron Man 2;Action,Adventure,Sci-Fi;Robert Downey Jr.| Mickey Rourke| Gwyneth Paltrow|Don Cheadle
+452;Demolition;Comedy,Drama;Jake Gyllenhaal| Naomi Watts| Chris Cooper|Judah Lewis
+453;Pandorum;Action,Horror,Mystery;Dennis Quaid| Ben Foster| Cam Gigandet| Antje Traue
+455;I Am Number Four;Action,Adventure,Sci-Fi;Alex Pettyfer| Timothy Olyphant| Dianna Agron| Teresa Palmer
+456;Jagten;Drama;Mads Mikkelsen| Thomas Bo Larsen| Annika Wedderkopp| Lasse Fogelstrøm
+457;The Proposal;Comedy,Drama,Romance;Sandra Bullock| Ryan Reynolds| Mary Steenburgen|Craig T. Nelson
+458;Get Hard;Comedy,Crime;Will Ferrell| Kevin Hart| Alison Brie| T.I.
+459;Just Go with It;Comedy,Romance;Adam Sandler| Jennifer Aniston| Brooklyn Decker|Nicole Kidman
+460;Revolutionary Road;Drama,Romance;Leonardo DiCaprio| Kate Winslet| Christopher Fitzgerald| Jonathan Roumie
+461;The Town;Crime,Drama,Thriller;Ben Affleck| Rebecca Hall| Jon Hamm| Jeremy Renner
+462;The Boy;Horror,Mystery,Thriller;Lauren Cohan| Rupert Evans| James Russell| Jim Norton
+463;Denial;Biography,Drama;Rachel Weisz| Tom Wilkinson| Timothy Spall| Andrew Scott
+464;Predestination;Drama,Mystery,Sci-Fi;Ethan Hawke| Sarah Snook| Noah Taylor| Madeleine West
+465;Goosebumps;Adventure,Comedy,Family;Jack Black| Dylan Minnette| Odeya Rush| Ryan Lee
+466;Sherlock Holmes: A Game of Shadows;Action,Adventure,Crime;Robert Downey Jr.| Jude Law| Jared Harris| Rachel McAdams
+467;Salt;Action,Crime,Mystery;Angelina Jolie| Liev Schreiber| Chiwetel Ejiofor| Daniel Olbrychski
+468;Enemy;Mystery,Thriller;Jake Gyllenhaal| Mélanie Laurent| Sarah Gadon|Isabella Rossellini
+469;District 9;Action,Sci-Fi,Thriller;Sharlto Copley| David James| Jason Cope| Nathalie Boltt
+470;The Other Guys;Action,Comedy,Crime;Will Ferrell| Mark Wahlberg| Derek Jeter| Eva Mendes
+471;American Gangster;Biography,Crime,Drama;Denzel Washington| Russell Crowe| Chiwetel Ejiofor|Josh Brolin
+472;Marie Antoinette;Biography,Drama,History;Kirsten Dunst| Jason Schwartzman| Rip Torn| Judy Davis
+473;2012;Action,Adventure,Sci-Fi;John Cusack| Thandie Newton| Chiwetel Ejiofor|Amanda Peet
+474;Harry Potter and the Half-Blood Prince;Adventure,Family,Fantasy;Daniel Radcliffe| Emma Watson| Rupert Grint| Michael Gambon
+475;Argo;Biography,Drama,History;Ben Affleck| Bryan Cranston| John Goodman| Alan Arkin
+476;Eddie the Eagle;Biography,Comedy,Drama;Taron Egerton| Hugh Jackman| Tom Costello| Jo Hartley
+477;The Lives of Others;Drama,Thriller;Ulrich Mühe| Martina Gedeck|Sebastian Koch| Ulrich Tukur
+478;Pet;Horror,Thriller;Dominic Monaghan| Ksenia Solo| Jennette McCurdy|Da'Vone McDonald
+479;Paint It Black;Drama;Alia Shawkat| Nancy Kwan| Annabelle Attanasio|Alfred Molina
+480;Macbeth;Drama,War;Michael Fassbender| Marion Cotillard| Jack Madigan|Frank Madigan
+481;Forgetting Sarah Marshall;Comedy,Drama,Romance;Kristen Bell| Jason Segel| Paul Rudd| Mila Kunis
+482;The Giver;Drama,Romance,Sci-Fi;Brenton Thwaites| Jeff Bridges| Meryl Streep| Taylor Swift
+483;Triple 9;Action,Crime,Drama;Casey Affleck| Chiwetel Ejiofor| Anthony Mackie|Aaron Paul
+484;Perfetti sconosciuti;Comedy,Drama;Giuseppe Battiston| Anna Foglietta| Marco Giallini|Edoardo Leo
+485;Angry Birds;Animation,Action,Adventure;Jason Sudeikis| Josh Gad| Danny McBride| Maya Rudolph
+486;Moonrise Kingdom;Adventure,Comedy,Drama;Jared Gilman| Kara Hayward| Bruce Willis| Bill Murray
+487;Hairspray;Comedy,Drama,Family;John Travolta| Queen Latifah| Nikki Blonsky|Michelle Pfeiffer
+488;Safe Haven;Drama,Romance,Thriller;Julianne Hough| Josh Duhamel| Cobie Smulders|David Lyons
+489;Focus;Comedy,Crime,Drama;Will Smith| Margot Robbie| Rodrigo Santoro| Adrian Martinez
+490;Ratatouille;Animation,Comedy,Family;Brad Garrett| Lou Romano| Patton Oswalt|Ian Holm
+491;Stake Land;Drama,Horror,Sci-Fi;Connor Paolo| Nick Damici| Kelly McGillis| Gregory Jones
+492;The Book of Eli;Action,Adventure,Drama;Denzel Washington| Mila Kunis| Ray Stevenson| Gary Oldman
+493;Cloverfield;Action,Horror,Sci-Fi;Mike Vogel| Jessica Lucas| Lizzy Caplan| T.J. Miller
+494;Point Break;Action,Crime,Sport;Edgar Ramírez| Luke Bracey| Ray Winstone| Teresa Palmer
+495;Under the Skin;Drama,Horror,Sci-Fi;Scarlett Johansson| Jeremy McWilliams| Lynsey Taylor Mackay| Dougie McConnell
+496;I Am Legend;Drama,Horror,Sci-Fi;Will Smith| Alice Braga| Charlie Tahan| Salli Richardson-Whitfield
+497;Men in Black 3;Action,Adventure,Comedy;Will Smith| Tommy Lee Jones| Josh Brolin|Jemaine Clement
+498;Super 8;Mystery,Sci-Fi,Thriller;Elle Fanning| AJ Michalka| Kyle Chandler| Joel Courtney
+499;Law Abiding Citizen;Crime,Drama,Thriller;Gerard Butler| Jamie Foxx| Leslie Bibb| Colm Meaney
+500;Up;Animation,Adventure,Comedy;Edward Asner| Jordan Nagai| John Ratzenberger| Christopher Plummer
+501;Maze Runner: The Scorch Trials;Action,Sci-Fi,Thriller;Dylan O'Brien| Kaya Scodelario| Thomas Brodie-Sangster|Giancarlo Esposito
+502;Carol;Drama,Romance;Cate Blanchett| Rooney Mara| Sarah Paulson| Kyle Chandler
+503;Imperium;Crime,Drama,Thriller;Daniel Radcliffe| Toni Collette| Tracy Letts| Sam Trammell
+504;Youth;Comedy,Drama,Music;Michael Caine| Harvey Keitel| Rachel Weisz| Jane Fonda
+505;Mr. Nobody;Drama,Fantasy,Romance;Jared Leto| Sarah Polley| Diane Kruger| Linh Dan Pham
+506;City of Tiny Lights;Crime,Drama,Thriller;Riz Ahmed| Billie Piper| James Floyd| Cush Jumbo
+507;Savages;Crime,Drama,Thriller;Aaron Taylor-Johnson| Taylor Kitsch| Blake Lively|Benicio Del Toro
+508;(500) Days of Summer;Comedy,Drama,Romance;Zooey Deschanel| Joseph Gordon-Levitt| Geoffrey Arend| Chloë Grace Moretz
+509;Movie 43;Comedy,Romance;Emma Stone| Stephen Merchant| Richard Gere| Liev Schreiber
+510;Gravity;Drama,Sci-Fi,Thriller;Sandra Bullock| George Clooney| Ed Harris| Orto Ignatiussen
+511;The Boy in the Striped Pyjamas;Drama,War;Asa Butterfield| David Thewlis| Rupert Friend| Zac Mattoon O'Brien
+512;Shooter;Action,Crime,Drama;Mark Wahlberg| Michael Peña| Rhona Mitra| Danny Glover
+513;The Happening;Sci-Fi,Thriller;Mark Wahlberg| Zooey Deschanel| John Leguizamo| Ashlyn Sanchez
+514;Bone Tomahawk;Adventure,Drama,Horror;Kurt Russell| Patrick Wilson| Matthew Fox| Richard Jenkins
+515;Magic Mike XXL;Comedy,Drama,Music;Channing Tatum| Joe Manganiello| Matt Bomer|Adam Rodriguez
+516;Easy A;Comedy,Drama,Romance;Emma Stone| Amanda Bynes| Penn Badgley| Dan Byrd
+517;Exodus: Gods and Kings;Action,Adventure,Drama;Christian Bale| Joel Edgerton| Ben Kingsley| Sigourney Weaver
+518;Chappie;Action,Crime,Drama;Sharlto Copley| Dev Patel| Hugh Jackman|Sigourney Weaver
+519;The Hobbit: The Desolation of Smaug;Adventure,Fantasy;Ian McKellen| Martin Freeman| Richard Armitage|Ken Stott
+520;Half of a Yellow Sun;Drama,Romance;Chiwetel Ejiofor| Thandie Newton| Anika Noni Rose|Joseph Mawle
+521;Anthropoid;Biography,History,Thriller;Jamie Dornan| Cillian Murphy| Brian Caspe| Karel Hermánek Jr.
+522;The Counselor;Crime,Drama,Thriller;Michael Fassbender| Penélope Cruz| Cameron Diaz|Javier Bardem
+523;Viking;Action,Drama,History;Anton Adasinsky| Aleksandr Armer| Vilen Babichev| Rostislav Bershauer
+524;Whiskey Tango Foxtrot;Biography,Comedy,Drama;Tina Fey| Margot Robbie| Martin Freeman| Alfred Molina
+525;Trust;Crime,Drama,Thriller;Clive Owen| Catherine Keener| Liana Liberato|Jason Clarke
+526;Birth of the Dragon;Action,Biography,Drama;Billy Magnussen| Terry Chen| Teresa Navarro|Vanessa Ross
+527;Elysium;Action,Drama,Sci-Fi;Matt Damon| Jodie Foster| Sharlto Copley| Alice Braga
+528;The Green Inferno;Adventure,Horror;Lorenza Izzo| Ariel Levy| Aaron Burns| Kirby Bliss Blanton
+529;Godzilla;Action,Adventure,Sci-Fi;Aaron Taylor-Johnson| Elizabeth Olsen| Bryan Cranston| Ken Watanabe
+530;The Bourne Legacy;Action,Adventure,Mystery;Jeremy Renner| Rachel Weisz| Edward Norton| Scott Glenn
+531;A Good Year;Comedy,Drama,Romance;Russell Crowe| Abbie Cornish| Albert Finney| Marion Cotillard
+532;Friend Request;Horror,Thriller;Alycia Debnam-Carey| William Moseley| Connor Paolo| Brit Morgan
+533;Deja Vu;Action,Sci-Fi,Thriller;Denzel Washington| Paula Patton| Jim Caviezel| Val Kilmer
+534;Lucy;Action,Sci-Fi,Thriller;Scarlett Johansson| Morgan Freeman| Min-sik Choi|Amr Waked
+535;A Quiet Passion;Biography,Drama;Cynthia Nixon| Jennifer Ehle| Duncan Duff| Keith Carradine
+536;Need for Speed;Action,Crime,Drama;Aaron Paul| Dominic Cooper| Imogen Poots| Scott Mescudi
+537;Jack Reacher;Action,Crime,Mystery;Tom Cruise| Rosamund Pike| Richard Jenkins| Werner Herzog
+538;The Do-Over;Action,Adventure,Comedy;Adam Sandler| David Spade| Paula Patton| Kathryn Hahn
+539;True Crimes;Crime,Drama,Thriller;Jim Carrey| Charlotte Gainsbourg| Marton Csokas| Kati Outinen
+540;American Pastoral;Crime,Drama;Ewan McGregor| Jennifer Connelly| Dakota Fanning| Peter Riegert
+541;The Ghost Writer;Mystery,Thriller;Ewan McGregor| Pierce Brosnan| Olivia Williams|Jon Bernthal
+542;Limitless;Mystery,Sci-Fi,Thriller;Bradley Cooper| Anna Friel| Abbie Cornish| Robert De Niro
+543;Spectral;Action,Mystery,Sci-Fi;James Badge Dale| Emily Mortimer| Bruce Greenwood|Max Martini
+544;P.S. I Love You;Drama,Romance;Hilary Swank| Gerard Butler| Harry Connick Jr.| Lisa Kudrow
+545;Zipper;Drama,Thriller;Patrick Wilson| Lena Headey| Ray Winstone|Richard Dreyfuss
+546;Midnight Special;Drama,Mystery,Sci-Fi;Michael Shannon| Joel Edgerton| Kirsten Dunst| Adam Driver
+547;Don't Think Twice;Comedy,Drama;Keegan-Michael Key| Gillian Jacobs| Mike Birbiglia|Chris Gethard
+548;Alice in Wonderland;Adventure,Family,Fantasy;Mia Wasikowska| Johnny Depp| Helena Bonham Carter|Anne Hathaway
+549;Chuck;Biography,Drama,Sport;Elisabeth Moss| Naomi Watts| Ron Perlman| Liev Schreiber
+550;I, Daniel Blake;Drama;Dave Johns| Hayley Squires| Sharon Percy| Briana Shann
+551;The Break-Up;Comedy,Drama,Romance;Jennifer Aniston| Vince Vaughn| Jon Favreau| Joey Lauren Adams
+552;Loving;Biography,Drama,Romance;Ruth Negga| Joel Edgerton| Will Dalton| Dean Mumford
+553;Fantastic Four;Action,Adventure,Sci-Fi;Miles Teller| Kate Mara| Michael B. Jordan| Jamie Bell
+554;The Survivalist;Drama,Sci-Fi,Thriller;Mia Goth| Martin McCann| Barry Ward| Andrew Simpson
+555;Colonia;Drama,Romance,Thriller;Emma Watson| Daniel Brühl| Michael Nyqvist|Richenda Carey
+556;The Boy Next Door;Mystery,Thriller;Jennifer Lopez| Ryan Guzman| Kristin Chenoweth| John Corbett
+557;The Gift;Mystery,Thriller;Jason Bateman| Rebecca Hall| Joel Edgerton| Allison Tolman
+558;Dracula Untold;Action,Drama,Fantasy;Luke Evans| Dominic Cooper| Sarah Gadon| Art Parkinson
+559;In the Heart of the Sea;Action,Adventure,Biography;Chris Hemsworth| Cillian Murphy| Brendan Gleeson|Ben Whishaw
+560;Idiocracy;Adventure,Comedy,Sci-Fi;Luke Wilson| Maya Rudolph| Dax Shepard| Terry Crews
+561;The Expendables;Action,Adventure,Thriller;Sylvester Stallone| Jason Statham| Jet Li| Dolph Lundgren
+562;Evil Dead;Fantasy,Horror;Jane Levy| Shiloh Fernandez| Jessica Lucas| Lou Taylor Pucci
+563;Sinister;Horror,Mystery;Ethan Hawke| Juliet Rylance| James Ransone|Fred Dalton Thompson
+564;Wreck-It Ralph;Animation,Adventure,Comedy;John C. Reilly| Jack McBrayer| Jane Lynch| Sarah Silverman
+565;Snow White and the Huntsman;Action,Adventure,Drama;Kristen Stewart| Chris Hemsworth| Charlize Theron| Sam Claflin
+566;Pan;Adventure,Family,Fantasy;Levi Miller| Hugh Jackman| Garrett Hedlund| Rooney Mara
+567;Transformers: Dark of the Moon;Action,Adventure,Sci-Fi;Shia LaBeouf| Rosie Huntington-Whiteley| Tyrese Gibson| Josh Duhamel
+568;Juno;Comedy,Drama;Ellen Page| Michael Cera| Jennifer Garner| Jason Bateman
+569;A Hologram for the King;Comedy,Drama;Tom Hanks| Sarita Choudhury| Ben Whishaw|Alexander Black
+570;Money Monster;Crime,Drama,Thriller;George Clooney| Julia Roberts| Jack O'Connell|Dominic West
+571;The Other Woman;Comedy,Romance;Cameron Diaz| Leslie Mann| Kate Upton| Nikolaj Coster-Waldau
+572;Enchanted;Animation,Comedy,Family;Amy Adams| Susan Sarandon| James Marsden| Patrick Dempsey
+573;The Intern;Comedy,Drama;Robert De Niro| Anne Hathaway| Rene Russo|Anders Holm
+574;Little Miss Sunshine;Comedy,Drama;Steve Carell| Toni Collette| Greg Kinnear| Abigail Breslin
+575;Bleed for This;Biography,Drama,Sport;Miles Teller| Aaron Eckhart| Katey Sagal| Ciarán Hinds
+576;Clash of the Titans;Action,Adventure,Fantasy;Sam Worthington| Liam Neeson| Ralph Fiennes|Jason Flemyng
+577;The Finest Hours;Action,Drama,History;Chris Pine| Casey Affleck| Ben Foster| Eric Bana
+578;Tron;Action,Adventure,Sci-Fi;Jeff Bridges| Garrett Hedlund| Olivia Wilde| Bruce Boxleitner
+579;The Hunger Games: Catching Fire;Action,Adventure,Mystery;Jennifer Lawrence| Josh Hutcherson| Liam Hemsworth| Philip Seymour Hoffman
+580;All Good Things;Crime,Drama,Mystery;Ryan Gosling| Kirsten Dunst| Frank Langella| Lily Rabe
+581;Kickboxer: Vengeance;Action;Dave Bautista| Alain Moussi| Gina Carano| Jean-Claude Van Damme
+582;The Last Airbender;Action,Adventure,Family;Noah Ringer| Nicola Peltz| Jackson Rathbone|Dev Patel
+583;Sex Tape;Comedy,Romance;Jason Segel| Cameron Diaz| Rob Corddry| Ellie Kemper
+584;What to Expect When You're Expecting;Comedy,Drama,Romance;Cameron Diaz| Matthew Morrison| J. Todd Smith| Dennis Quaid
+585;Moneyball;Biography,Drama,Sport;Brad Pitt| Robin Wright| Jonah Hill| Philip Seymour Hoffman
+586;Ghost Rider;Action,Fantasy,Thriller;Nicolas Cage| Eva Mendes| Sam Elliott| Matt Long
+587;Unbroken;Biography,Drama,Sport;Jack O'Connell| Miyavi| Domhnall Gleeson| Garrett Hedlund
+588;Immortals;Action,Drama,Fantasy;Henry Cavill| Mickey Rourke| John Hurt| Stephen Dorff
+589;Sunshine;Adventure,Sci-Fi,Thriller;Cillian Murphy| Rose Byrne| Chris Evans| Michelle Yeoh
+590;Brave;Animation,Adventure,Comedy;Kelly Macdonald|Billy Connolly| Emma Thompson| Julie Walters
+591;Män som hatar kvinnor;Drama,Mystery,Thriller;Michael Nyqvist| Noomi Rapace| Ewa Fröling|Lena Endre
+592;Adoration;Drama,Romance;Naomi Watts| Robin Wright| Xavier Samuel| James Frecheville
+593;The Drop;Crime,Drama,Mystery;Tom Hardy| Noomi Rapace| James Gandolfini|Matthias Schoenaerts
+594;She's the Man;Comedy,Romance,Sport;Amanda Bynes| Laura Ramsey| Channing Tatum|Vinnie Jones
+595;Daddy's Home;Comedy,Family;Will Ferrell| Mark Wahlberg| Linda Cardellini| Thomas Haden Church
+596;Let Me In;Drama,Horror,Mystery;Kodi Smit-McPhee| Chloë Grace Moretz| Richard Jenkins| Cara Buono
+597;Never Back Down;Action,Drama,Sport;Sean Faris| Djimon Hounsou| Amber Heard| Cam Gigandet
+598;Grimsby;Action,Adventure,Comedy;Sacha Baron Cohen| Mark Strong| Rebel Wilson|Freddie Crowder
+599;Moon;Drama,Mystery,Sci-Fi;Sam Rockwell| Kevin Spacey| Dominique McElligott|Rosie Shaw
+600;Megamind;Animation,Action,Comedy;Will Ferrell| Jonah Hill| Brad Pitt| Tina Fey
+601;Gangster Squad;Action,Crime,Drama;Sean Penn| Ryan Gosling| Emma Stone| Giovanni Ribisi
+602;Blood Father;Action,Crime,Drama;Mel Gibson| Erin Moriarty| Diego Luna| Michael Parks
+603;He's Just Not That Into You;Comedy,Drama,Romance;Jennifer Aniston| Jennifer Connelly| Morgan Lily|Trenton Rogers
+604;Kung Fu Panda 3;Animation,Action,Adventure;Jack Black| Bryan Cranston| Dustin Hoffman| Angelina Jolie
+605;The Rise of the Krays;Crime,Drama;Matt Vael| Simon Cotton| Kevin Leslie| Olivia Moyles
+606;Handsome Devil;Drama;Fionn O'Shea| Nicholas Galitzine| Andrew Scott| Moe Dunford
+607;Winter's Bone;Drama;Jennifer Lawrence| John Hawkes| Garret Dillahunt|Isaiah Stone
+608;Horrible Bosses;Comedy,Crime;Jason Bateman| Charlie Day| Jason Sudeikis| Steve Wiebe
+609;Mommy;Drama;Anne Dorval| Antoine-Olivier Pilon| Suzanne Clément|Patrick Huard
+610;Hellboy II: The Golden Army;Action,Adventure,Fantasy;Ron Perlman| Selma Blair| Doug Jones| John Alexander
+611;Beautiful Creatures;Drama,Fantasy,Romance;Alice Englert| Viola Davis| Emma Thompson|Alden Ehrenreich
+612;Toni Erdmann;Comedy,Drama;Sandra Hüller| Peter Simonischek| Michael Wittenborn|Thomas Loibl
+613;The Lovely Bones;Drama,Fantasy,Thriller;Rachel Weisz| Mark Wahlberg| Saoirse Ronan| Susan Sarandon
+614;The Assassination of Jesse James by the Coward Robert Ford;Biography,Crime,Drama;Brad Pitt| Casey Affleck| Sam Shepard| Mary-Louise Parker
+615;Don Jon;Comedy,Drama,Romance;Joseph Gordon-Levitt| Scarlett Johansson|Julianne Moore| Tony Danza
+616;Bastille Day;Action,Crime,Drama;Idris Elba| Richard Madden| Charlotte Le Bon| Kelly Reilly
+617;2307: Winter's Dream;Sci-Fi;Paul Sidhu| Branden Coles| Arielle Holmes| Kelcey Watson
+618;Free State of Jones;Action,Biography,Drama;Matthew McConaughey| Gugu Mbatha-Raw| Mahershala Ali| Keri Russell
+619;Mr. Right;Action,Comedy,Romance;Anna Kendrick| Sam Rockwell| Tim Roth| James Ransone
+620;The Secret Life of Walter Mitty;Adventure,Comedy,Drama;Ben Stiller| Kristen Wiig| Jon Daly| Kathryn Hahn
+621;Dope;Comedy,Crime,Drama;Shameik Moore| Tony Revolori| Kiersey Clemons|Kimberly Elise
+622;Underworld Awakening;Action,Fantasy,Horror;Kate Beckinsale| Michael Ealy| India Eisley| Stephen Rea
+623;Antichrist;Drama,Horror;Willem Dafoe| Charlotte Gainsbourg| Storm Acheche Sahlstrøm
+624;Friday the 13th;Horror;Jared Padalecki| Amanda Righetti| Derek Mears|Danielle Panabaker
+625;Taken 3;Action,Thriller;Liam Neeson| Forest Whitaker| Maggie Grace|Famke Janssen
+626;Total Recall;Action,Adventure,Mystery;Colin Farrell| Bokeem Woodbine| Bryan Cranston|Kate Beckinsale
+627;X-Men: The Last Stand;Action,Adventure,Fantasy;Patrick Stewart| Hugh Jackman| Halle Berry| Famke Janssen
+628;The Escort;Comedy,Drama,Romance;Lyndsy Fonseca| Michael Doneger| Tommy Dewey|Bruce Campbell
+629;The Whole Truth;Crime,Drama,Mystery;Keanu Reeves| Renée Zellweger| Gugu Mbatha-Raw| Gabriel Basso
+630;Night at the Museum: Secret of the Tomb;Adventure,Comedy,Family;Ben Stiller| Robin Williams| Owen Wilson| Dick Van Dyke
+631;Love & Other Drugs;Comedy,Drama,Romance;Jake Gyllenhaal| Anne Hathaway| Judy Greer| Oliver Platt
+632;The Interview;Comedy;James Franco| Seth Rogen| Randall Park| Lizzy Caplan
+633;The Host;Comedy,Drama,Horror;Kang-ho Song| Hee-Bong Byun| Hae-il Park| Doona Bae
+634;Megan Is Missing;Drama,Horror,Thriller;Amber Perkins| Rachel Quinn| Dean Waite| Jael Elizabeth Steinmeyer
+635;WALL·E;Animation,Adventure,Family;Ben Burtt| Elissa Knight| Jeff Garlin| Fred Willard
+636;Knocked Up;Comedy,Romance;Seth Rogen| Katherine Heigl| Paul Rudd| Leslie Mann
+637;Source Code;Mystery,Romance,Sci-Fi;Jake Gyllenhaal| Michelle Monaghan| Vera Farmiga|Jeffrey Wright
+638;Lawless;Crime,Drama;Tom Hardy| Shia LaBeouf| Guy Pearce| Jason Clarke
+639;Unfriended;Drama,Horror,Mystery;Heather Sossaman| Matthew Bohrer| Courtney Halverson| Shelley Hennig
+640;American Reunion;Comedy;Jason Biggs| Alyson Hannigan|Seann William Scott| Chris Klein
+641;The Pursuit of Happyness;Biography,Drama;Will Smith| Thandie Newton| Jaden Smith| Brian Howe
+642;Relatos salvajes;Comedy,Drama,Thriller;Darío Grandinetti| María Marull| Mónica Villa| Rita Cortese
+644;Frantz;Drama,History,War;Pierre Niney| Paula Beer| Ernst Stötzner| Marie Gruber
+645;Viral;Drama,Horror,Sci-Fi;Sofia Black-D'Elia| Analeigh Tipton|Travis Tope| Michael Kelly
+646;Gran Torino;Drama;Clint Eastwood| Bee Vang| Christopher Carley|Ahney Her
+647;Burnt;Comedy,Drama;Bradley Cooper| Sienna Miller| Daniel Brühl| Riccardo Scamarcio
+648;Tall Men;Fantasy,Horror,Thriller;Dan Crisafulli| Kay Whitney| Richard Garcia| Pat Cashman
+649;Sleeping Beauty;Drama,Romance;Emily Browning| Rachael Blake| Ewen Leslie| Bridgette Barrett
+650;Vampire Academy;Action,Comedy,Fantasy;Zoey Deutch| Lucy Fry| Danila Kozlovsky| Gabriel Byrne
+651;Sweeney Todd: The Demon Barber of Fleet Street;Drama,Horror,Musical;Johnny Depp| Helena Bonham Carter| Alan Rickman|Timothy Spall
+652;Solace;Crime,Drama,Mystery;Anthony Hopkins| Jeffrey Dean Morgan| Abbie Cornish| Colin Farrell
+653;Insidious;Horror,Mystery,Thriller;Patrick Wilson| Rose Byrne| Ty Simpkins| Lin Shaye
+654;Popstar: Never Stop Never Stopping;Comedy,Music;Andy Samberg| Jorma Taccone|Akiva Schaffer| Sarah Silverman
+655;The Levelling;Drama;Ellie Kendrick| David Troughton| Jack Holden|Joe Blakemore
+656;Public Enemies;Biography,Crime,Drama;Christian Bale| Johnny Depp| Christian Stolte| Jason Clarke
+657;Boyhood;Drama;Ellar Coltrane| Patricia Arquette| Ethan Hawke|Elijah Smith
+658;Teenage Mutant Ninja Turtles;Action,Adventure,Comedy;Megan Fox| Will Arnett| William Fichtner| Noel Fisher
+659;Eastern Promises;Crime,Drama,Mystery;Naomi Watts| Viggo Mortensen| Armin Mueller-Stahl| Josef Altin
+660;The Daughter;Drama;Geoffrey Rush| Nicholas Hope| Sam Neill| Ewen Leslie
+661;Pineapple Express;Action,Comedy,Crime;Seth Rogen| James Franco| Gary Cole| Danny McBride
+662;The First Time;Comedy,Drama,Romance;Dylan O'Brien| Britt Robertson| Victoria Justice| James Frecheville
+663;Gone Baby Gone;Crime,Drama,Mystery;Morgan Freeman| Ed Harris| Casey Affleck| Michelle Monaghan
+664;The Heat;Action,Comedy,Crime;Sandra Bullock| Michael McDonald| Melissa McCarthy|Demián Bichir
+665;L'avenir;Drama;Isabelle Huppert| André Marcon| Roman Kolinka|Edith Scob
+666;Anna Karenina;Drama,Romance;Keira Knightley| Jude Law| Aaron Taylor-Johnson|Matthew Macfadyen
+667;Regression;Crime,Drama,Mystery;Ethan Hawke| David Thewlis| Emma Watson|Dale Dickey
+668;Ted 2;Adventure,Comedy,Romance;Mark Wahlberg| Seth MacFarlane| Amanda Seyfried| Jessica Barth
+669;Pain & Gain;Comedy,Crime,Drama;Mark Wahlberg| Dwayne Johnson| Anthony Mackie|Tony Shalhoub
+670;Blood Diamond;Adventure,Drama,Thriller;Leonardo DiCaprio| Djimon Hounsou| Jennifer Connelly| Kagiso Kuypers
+671;Devil's Knot;Biography,Crime,Drama;Colin Firth| Reese Witherspoon| Alessandro Nivola|James Hamrick
+672;Child 44;Crime,Drama,Thriller;Tom Hardy| Gary Oldman| Noomi Rapace| Joel Kinnaman
+673;The Hurt Locker;Drama,History,Thriller;Jeremy Renner| Anthony Mackie| Brian Geraghty|Guy Pearce
+674;Green Lantern;Action,Adventure,Sci-Fi;Ryan Reynolds| Blake Lively| Peter Sarsgaard|Mark Strong
+675;War on Everyone;Action,Comedy;Alexander Skarsgård| Michael Peña| Theo James| Tessa Thompson
+676;The Mist;Horror;Thomas Jane| Marcia Gay Harden| Laurie Holden|Andre Braugher
+677;Escape Plan;Action,Crime,Mystery;Sylvester Stallone| Arnold Schwarzenegger| 50 Cent| Vincent D'Onofrio
+678;Love, Rosie;Comedy,Romance;Lily Collins| Sam Claflin| Christian Cooke| Jaime Winstone
+679;The DUFF;Comedy;Mae Whitman| Bella Thorne| Robbie Amell| Allison Janney
+680;The Age of Shadows;Action,Drama,Thriller;Byung-hun Lee| Yoo Gong| Kang-ho Song| Ji-min Han
+681;The Hunger Games: Mockingjay - Part 1;Action,Adventure,Sci-Fi;Jennifer Lawrence| Josh Hutcherson| Liam Hemsworth| Woody Harrelson
+682;We Need to Talk About Kevin;Drama,Mystery,Thriller;Tilda Swinton| John C. Reilly| Ezra Miller| Jasper Newell
+683;Love & Friendship;Comedy,Drama,Romance;Kate Beckinsale| Chloë Sevigny| Xavier Samuel|Emma Greenwell
+684;The Mortal Instruments: City of Bones;Action,Fantasy,Horror;Lily Collins| Jamie Campbell Bower| Robert Sheehan|Jemima West
+685;Seven Pounds;Drama,Romance;Will Smith| Rosario Dawson| Woody Harrelson|Michael Ealy
+686;The King's Speech;Biography,Drama;Colin Firth| Geoffrey Rush| Helena Bonham Carter|Derek Jacobi
+687;Hunger;Biography,Drama;Stuart Graham| Laine Megaw| Brian Milligan| Liam McMahon
+688;Jumper;Action,Adventure,Sci-Fi;Hayden Christensen| Samuel L. Jackson| Jamie Bell|Rachel Bilson
+689;Toy Story 3;Animation,Adventure,Comedy;Tom Hanks| Tim Allen| Joan Cusack| Ned Beatty
+690;Tinker Tailor Soldier Spy;Drama,Mystery,Thriller;Gary Oldman| Colin Firth| Tom Hardy| Mark Strong
+691;Resident Evil: Retribution;Action,Horror,Sci-Fi;Milla Jovovich| Sienna Guillory| Michelle Rodriguez| Aryana Engineer
+692;Dear Zindagi;Drama,Romance;Alia Bhatt| Shah Rukh Khan| Kunal Kapoor| Priyanka Moodley
+693;Genius;Biography,Drama;Colin Firth| Jude Law| Nicole Kidman| Laura Linney
+694;Pompeii;Action,Adventure,Drama;Kit Harington| Emily Browning| Kiefer Sutherland| Adewale Akinnuoye-Agbaje
+695;Life of Pi;Adventure,Drama,Fantasy;Suraj Sharma| Irrfan Khan| Adil Hussain| Tabu
+696;Hachi: A Dog's Tale;Drama,Family;Richard Gere| Joan Allen| Cary-Hiroyuki Tagawa|Sarah Roemer
+697;10 Years;Comedy,Drama,Romance;Channing Tatum| Rosario Dawson| Chris Pratt| Jenna Dewan Tatum
+698;I Origins;Drama,Romance,Sci-Fi;Michael Pitt| Steven Yeun| Astrid Bergès-Frisbey| Brit Marling
+699;Live Free or Die Hard;Action,Adventure,Thriller;Bruce Willis| Justin Long| Timothy Olyphant| Maggie Q
+700;The Matchbreaker;Comedy,Romance;Wesley Elder| Christina Grimmie| Osric Chau| Olan Rogers
+701;Funny Games;Crime,Drama,Horror;Naomi Watts| Tim Roth| Michael Pitt| Brady Corbet
+702;Ted;Comedy,Fantasy;Mark Wahlberg| Mila Kunis| Seth MacFarlane| Joel McHale
+703;RED;Action,Comedy,Crime;Bruce Willis| Helen Mirren| Morgan Freeman|Mary-Louise Parker
+704;Australia;Adventure,Drama,Romance;Nicole Kidman| Hugh Jackman| Shea Adams| Eddie Baroo
+705;Faster;Action,Crime,Drama;Dwayne Johnson| Billy Bob Thornton| Maggie Grace| Mauricio Lopez
+706;The Neighbor;Crime,Horror,Thriller;Josh Stewart| Bill Engvall| Alex Essoe| Ronnie Gene Blevins
+707;The Adjustment Bureau;Romance,Sci-Fi,Thriller;Matt Damon| Emily Blunt| Lisa Thoreson| Florence Kastriner
+708;The Hollars;Comedy,Drama,Romance;Sharlto Copley| Charlie Day| Richard Jenkins| Anna Kendrick
+709;The Judge;Crime,Drama;Robert Downey Jr.| Robert Duvall| Vera Farmiga| Billy Bob Thornton
+710;Closed Circuit;Crime,Drama,Mystery;Eric Bana| Rebecca Hall| Jim Broadbent| Ciarán Hinds
+711;Transformers: Revenge of the Fallen;Action,Adventure,Sci-Fi;Shia LaBeouf| Megan Fox| Josh Duhamel| Tyrese Gibson
+712;La tortue rouge;Animation,Fantasy;Emmanuel Garijo| Tom Hudson| Baptiste Goy| Axel Devillers
+713;The Book of Life;Animation,Adventure,Comedy;Diego Luna| Zoe Saldana| Channing Tatum| Ron Perlman
+714;Incendies;Drama,Mystery,War;Lubna Azabal| Mélissa Désormeaux-Poulin| Maxim Gaudette| Mustafa Kamel
+715;The Heartbreak Kid;Comedy,Romance;Ben Stiller| Michelle Monaghan|Malin Akerman| Jerry Stiller
+716;Happy Feet;Animation,Comedy,Family;Elijah Wood| Brittany Murphy| Hugh Jackman| Robin Williams
+717;Entourage;Comedy;Adrian Grenier| Kevin Connolly| Jerry Ferrara| Kevin Dillon
+718;The Strangers;Horror,Mystery,Thriller;Scott Speedman| Liv Tyler| Gemma Ward| Alex Fisher
+719;Noah;Action,Adventure,Drama;Russell Crowe| Jennifer Connelly| Anthony Hopkins| Emma Watson
+720;Neighbors;Comedy;Seth Rogen| Rose Byrne| Zac Efron| Lisa Kudrow
+721;Nymphomaniac: Vol. II;Drama;Charlotte Gainsbourg| Stellan Skarsgård| Willem Dafoe| Jamie Bell
+722;Wild;Adventure,Biography,Drama;Reese Witherspoon| Laura Dern| Gaby Hoffmann|Michiel Huisman
+723;Grown Ups;Comedy;Adam Sandler| Salma Hayek| Kevin James| Chris Rock
+724;Blair Witch;Horror,Thriller;James Allen McCune| Callie Hernandez| Corbin Reid| Brandon Scott
+726;Dark Shadows;Comedy,Fantasy,Horror;Johnny Depp| Michelle Pfeiffer| Eva Green| Helena Bonham Carter
+727;Friends with Benefits;Comedy,Romance;Mila Kunis| Justin Timberlake| Patricia Clarkson| Jenna Elfman
+728;The Illusionist;Drama,Mystery,Romance;Edward Norton| Jessica Biel| Paul Giamatti| Rufus Sewell
+729;The A-Team;Action,Adventure,Comedy;Liam Neeson| Bradley Cooper| Sharlto Copley|Jessica Biel
+730;The Guest;Thriller;Dan Stevens| Sheila Kelley| Maika Monroe| Joel David Moore
+731;The Internship;Comedy;Vince Vaughn| Owen Wilson| Rose Byrne| Aasif Mandvi
+732;Paul;Adventure,Comedy,Sci-Fi;Simon Pegg| Nick Frost| Seth Rogen| Mia Stallard
+733;This Beautiful Fantastic;Comedy,Drama,Fantasy;Jessica Brown Findlay| Andrew Scott| Jeremy Irvine|Tom Wilkinson
+734;The Da Vinci Code;Mystery,Thriller;Tom Hanks| Audrey Tautou| Jean Reno| Ian McKellen
+735;Mr. Church;Comedy,Drama;Eddie Murphy| Britt Robertson| Natascha McElhone| Xavier Samuel
+736;Hugo;Adventure,Drama,Family;Asa Butterfield| Chloë Grace Moretz| Christopher Lee| Ben Kingsley
+737;The Blackcoat's Daughter;Horror,Thriller;Emma Roberts| Kiernan Shipka| Lauren Holly| Lucy Boynton
+738;Body of Lies;Action,Drama,Romance;Leonardo DiCaprio| Russell Crowe| Mark Strong|Golshifteh Farahani
+739;Knight of Cups;Drama,Romance;Christian Bale| Cate Blanchett| Natalie Portman|Brian Dennehy
+740;The Mummy: Tomb of the Dragon Emperor;Action,Adventure,Fantasy;Brendan Fraser| Jet Li| Maria Bello| Michelle Yeoh
+741;The Boss;Comedy;Melissa McCarthy| Kristen Bell| Peter Dinklage| Ella Anderson
+742;Hands of Stone;Action,Biography,Drama;Edgar Ramírez| Usher Raymond| Robert De Niro| Rubén Blades
+743;El secreto de sus ojos;Drama,Mystery,Romance;Ricardo Darín| Soledad Villamil| Pablo Rago|Carla Quevedo
+744;True Grit;Adventure,Drama,Western;Jeff Bridges| Matt Damon| Hailee Steinfeld|Josh Brolin
+745;We Are Your Friends;Drama,Music,Romance;Zac Efron| Wes Bentley| Emily Ratajkowski| Jonny Weston
+746;A Million Ways to Die in the West;Comedy,Romance,Western;Seth MacFarlane| Charlize Theron| Liam Neeson|Amanda Seyfried
+747;Only for One Night;Thriller;Brian White| Karrueche Tran| Angelique Pereira|Jessica Vanessa DeLeon
+748;Rules Don't Apply;Comedy,Drama,Romance;Lily Collins| Haley Bennett| Taissa Farmiga| Steve Tom
+749;Ouija: Origin of Evil;Horror,Thriller;Elizabeth Reaser| Lulu Wilson| Annalise Basso|Henry Thomas
+750;Percy Jackson: Sea of Monsters;Adventure,Family,Fantasy;Logan Lerman| Alexandra Daddario| Brandon T. Jackson| Nathan Fillion
+751;Fracture;Crime,Drama,Mystery;Anthony Hopkins| Ryan Gosling| David Strathairn|Rosamund Pike
+752;Oculus;Horror,Mystery;Karen Gillan| Brenton Thwaites| Katee Sackhoff|Rory Cochrane
+753;In Bruges;Comedy,Crime,Drama;Colin Farrell| Brendan Gleeson| Ciarán Hinds|Elizabeth Berrington
+754;This Means War;Action,Comedy,Romance;Reese Witherspoon| Chris Pine| Tom Hardy| Til Schweiger
+755;Lída Baarová;Biography,Drama,History;Tatiana Pauhofová| Karl Markovics| Gedeon Burkhard|Simona Stasová
+756;The Road;Adventure,Drama;Viggo Mortensen| Charlize Theron| Kodi Smit-McPhee|Robert Duvall
+757;Lavender;Drama,Thriller;Abbie Cornish| Dermot Mulroney| Justin Long|Diego Klattenhoff
+758;Deuces;Drama;Larenz Tate| Meagan Good| Rotimi| Rick Gonzalez
+759;Conan the Barbarian;Action,Adventure,Fantasy;Jason Momoa| Ron Perlman| Rose McGowan|Stephen Lang
+760;The Fighter;Action,Biography,Drama;Mark Wahlberg| Christian Bale| Amy Adams|Melissa Leo
+761;August Rush;Drama,Music;Freddie Highmore| Keri Russell| Jonathan Rhys Meyers| Terrence Howard
+762;Chef;Comedy,Drama;Jon Favreau| Robert Downey Jr.| Scarlett Johansson|Dustin Hoffman
+763;Eye in the Sky;Drama,Thriller,War;Helen Mirren| Aaron Paul| Alan Rickman| Barkhad Abdi
+764;Eagle Eye;Action,Mystery,Thriller;Shia LaBeouf| Michelle Monaghan| Rosario Dawson|Michael Chiklis
+765;The Purge;Horror,Sci-Fi,Thriller;Ethan Hawke| Lena Headey| Max Burkholder|Adelaide Kane
+766;PK;Comedy,Drama,Romance;Aamir Khan| Anushka Sharma| Sanjay Dutt|Boman Irani
+767;Ender's Game;Action,Sci-Fi;Harrison Ford| Asa Butterfield| Hailee Steinfeld| Abigail Breslin
+768;Indiana Jones and the Kingdom of the Crystal Skull;Action,Adventure,Fantasy;Harrison Ford| Cate Blanchett| Shia LaBeouf|Karen Allen
+769;Paper Towns;Drama,Mystery,Romance;Nat Wolff| Cara Delevingne| Austin Abrams| Justice Smith
+770;High-Rise;Drama;Tom Hiddleston| Jeremy Irons| Sienna Miller| Luke Evans
+771;Quantum of Solace;Action,Adventure,Thriller;Daniel Craig| Olga Kurylenko| Mathieu Amalric| Judi Dench
+772;The Assignment;Action,Crime,Thriller;Sigourney Weaver| Michelle Rodriguez| Tony Shalhoub|Anthony LaPaglia
+773;How to Train Your Dragon;Animation,Action,Adventure;Jay Baruchel| Gerard Butler|Christopher Mintz-Plasse| Craig Ferguson
+774;Lady in the Water;Drama,Fantasy,Mystery;Paul Giamatti| Bryce Dallas Howard| Jeffrey Wright| Bob Balaban
+775;The Fountain;Drama,Sci-Fi;Hugh Jackman| Rachel Weisz| Sean Patrick Thomas| Ellen Burstyn
+776;Cars 2;Animation,Adventure,Comedy;Owen Wilson| Larry the Cable Guy|Michael Caine| Emily Mortimer
+777;31;Horror,Thriller;Malcolm McDowell| Richard Brake| Jeff Daniel Phillips|Sheri Moon Zombie
+778;Final Girl;Action,Thriller;Abigail Breslin| Wes Bentley| Logan Huffman|Alexander Ludwig
+780;The Man Who Knew Infinity;Biography,Drama;Dev Patel| Jeremy Irons| Malcolm Sinclair| Raghuvir Joshi
+781;Unknown;Action,Mystery,Thriller;Liam Neeson| Diane Kruger| January Jones|Aidan Quinn
+782;Self/less;Action,Mystery,Sci-Fi;Ryan Reynolds| Natalie Martinez| Matthew Goode|Ben Kingsley
+783;Mr. Brooks;Crime,Drama,Thriller;Kevin Costner| Demi Moore| William Hurt| Dane Cook
+784;Tramps;Comedy,Romance;Callum Turner| Grace Van Patten| Michal Vondel| Mike Birbiglia
+785;Before We Go;Comedy,Drama,Romance;Chris Evans| Alice Eve| Emma Fitzpatrick| John Cullum
+786;Captain Phillips;Biography,Drama,Thriller;Tom Hanks| Barkhad Abdi| Barkhad Abdirahman|Catherine Keener
+787;The Secret Scripture;Drama;Rooney Mara| Eric Bana| Theo James| Aidan Turner
+788;Max Steel;Action,Adventure,Family;Ben Winchell| Josh Brener| Maria Bello| Andy Garcia
+789;Hotel Transylvania 2;Animation,Comedy,Family;Adam Sandler| Andy Samberg| Selena Gomez| Kevin James
+790;Hancock;Action,Crime,Drama;Will Smith| Charlize Theron| Jason Bateman| Jae Head
+791;Sisters;Comedy;Amy Poehler| Tina Fey| Maya Rudolph| Ike Barinholtz
+792;The Family;Comedy,Crime,Thriller;Robert De Niro| Michelle Pfeiffer| Dianna Agron| John D'Leo
+793;Zack and Miri Make a Porno;Comedy,Romance;Seth Rogen| Elizabeth Banks| Craig Robinson| Gerry Bednob
+794;Ma vie de Courgette;Animation,Comedy,Drama;Gaspard Schlatter| Sixtine Murat| Paulin Jaccoud|Michel Vuillermoz
+795;Man on a Ledge;Action,Crime,Thriller;Sam Worthington| Elizabeth Banks| Jamie Bell| Mandy Gonzalez
+796;No Strings Attached;Comedy,Romance;Natalie Portman| Ashton Kutcher| Kevin Kline| Cary Elwes
+797;Rescue Dawn;Adventure,Biography,Drama;Christian Bale| Steve Zahn| Jeremy Davies| Zach Grenier
+798;Despicable Me 2;Animation,Adventure,Comedy;Steve Carell| Kristen Wiig| Benjamin Bratt| Miranda Cosgrove
+799;A Walk Among the Tombstones;Crime,Drama,Mystery;Liam Neeson| Dan Stevens| David Harbour| Boyd Holbrook
+800;The World's End;Action,Comedy,Sci-Fi;Simon Pegg| Nick Frost| Martin Freeman| Rosamund Pike
+801;Yoga Hosers;Comedy,Fantasy,Horror;Lily-Rose Depp| Harley Quinn Smith| Johnny Depp|Adam Brody
+802;Seven Psychopaths;Comedy,Crime;Colin Farrell| Woody Harrelson| Sam Rockwell|Christopher Walken
+803;Beowulf;Animation,Action,Adventure;Ray Winstone| Crispin Glover| Angelina Jolie|Robin Wright
+804;Jack Ryan: Shadow Recruit;Action,Drama,Thriller;Chris Pine| Kevin Costner| Keira Knightley|Kenneth Branagh
+805;1408;Fantasy,Horror;John Cusack| Samuel L. Jackson| Mary McCormack| Paul Birchard
+806;The Gambler;Crime,Drama,Thriller;Mark Wahlberg| Jessica Lange| John Goodman| Brie Larson
+807;Prince of Persia: The Sands of Time;Action,Adventure,Fantasy;Jake Gyllenhaal| Gemma Arterton| Ben Kingsley|Alfred Molina
+808;The Spectacular Now;Comedy,Drama,Romance;Miles Teller| Shailene Woodley| Kyle Chandler|Jennifer Jason Leigh
+809;A United Kingdom;Biography,Drama,Romance;David Oyelowo| Rosamund Pike| Tom Felton| Jack Davenport
+810;USS Indianapolis: Men of Courage;Action,Drama,History;Nicolas Cage| Tom Sizemore| Thomas Jane|Matt Lanter
+811;Turbo Kid;Action,Adventure,Comedy;Munro Chambers| Laurence Leboeuf| Michael Ironside| Edwin Wright
+812;Mama;Horror,Thriller;Jessica Chastain| Nikolaj Coster-Waldau| Megan Charpentier| Isabelle Nélisse
+813;Orphan;Horror,Mystery,Thriller;Vera Farmiga| Peter Sarsgaard| Isabelle Fuhrman| CCH Pounder
+814;To Rome with Love;Comedy,Romance;Woody Allen| Penélope Cruz| Jesse Eisenberg| Ellen Page
+815;Fantastic Mr. Fox;Animation,Adventure,Comedy;George Clooney| Meryl Streep| Bill Murray| Jason Schwartzman
+816;Inside Man;Crime,Drama,Mystery;Denzel Washington| Clive Owen| Jodie Foster|Christopher Plummer
+817;I.T.;Crime,Drama,Mystery;Pierce Brosnan| Jason Barry| Karen Moskow| Kai Ryssdal
+818;127 Hours;Adventure,Biography,Drama;James Franco| Amber Tamblyn| Kate Mara| Sean Bott
+819;Annabelle;Horror,Mystery,Thriller;Ward Horton| Annabelle Wallis| Alfre Woodard|Tony Amendola
+820;Wolves at the Door;Horror,Thriller;Katie Cassidy| Elizabeth Henstridge| Adam Campbell| Miles Fisher
+821;Suite Française;Drama,Romance,War;Michelle Williams| Kristin Scott Thomas| Margot Robbie|Eric Godon
+822;The Imaginarium of Doctor Parnassus;Adventure,Fantasy,Mystery;Christopher Plummer| Lily Cole| Heath Ledger|Andrew Garfield
+823;G.I. Joe: The Rise of Cobra;Action,Adventure,Sci-Fi;Dennis Quaid| Channing Tatum| Marlon Wayans|Adewale Akinnuoye-Agbaje
+824;Christine;Biography,Drama;Rebecca Hall| Michael C. Hall| Tracy Letts| Maria Dizzia
+825;Man Down;Drama,Thriller;Shia LaBeouf| Jai Courtney| Gary Oldman| Kate Mara
+826;Crawlspace;Horror,Thriller;Michael Vartan| Erin Moriarty| Nadine Velazquez|Ronnie Gene Blevins
+827;Shut In;Drama,Horror,Thriller;Naomi Watts| Charlie Heaton| Jacob Tremblay|Oliver Platt
+828;The Warriors Gate;Action,Adventure,Fantasy;Mark Chao| Ni Ni| Dave Bautista| Sienna Guillory
+829;Grindhouse;Action,Horror,Thriller;Kurt Russell| Rose McGowan| Danny Trejo| Zoë Bell
+830;Disaster Movie;Comedy;Carmen Electra| Vanessa Lachey|Nicole Parker| Matt Lanter
+832;Diary of a Wimpy Kid: Dog Days;Comedy,Family;Zachary Gordon| Robert Capron| Devon Bostick|Steve Zahn
+833;Jane Eyre;Drama,Romance;Mia Wasikowska| Michael Fassbender| Jamie Bell| Su Elliot
+834;Fool's Gold;Action,Adventure,Comedy;Matthew McConaughey| Kate Hudson| Donald Sutherland| Alexis Dziena
+835;The Dictator;Comedy;Sacha Baron Cohen| Anna Faris| John C. Reilly| Ben Kingsley
+836;The Loft;Mystery,Romance,Thriller;Karl Urban| James Marsden| Wentworth Miller| Eric Stonestreet
+837;Bacalaureat;Crime,Drama;Adrian Titieni| Maria-Victoria Dragus| Lia Bugnar|Malina Manovici
+838;You Don't Mess with the Zohan;Action,Comedy;Adam Sandler| John Turturro| Emmanuelle Chriqui|Nick Swardson
+839;Exposed;Crime,Drama,Mystery;Ana de Armas| Keanu Reeves| Christopher McDonald| Mira Sorvino
+840;Maudie;Biography,Drama,Romance;Ethan Hawke| Sally Hawkins| Kari Matchett| Zachary Bennett
+841;Horrible Bosses 2;Comedy,Crime;Jason Bateman| Jason Sudeikis| Charlie Day| Jennifer Aniston
+842;A Bigger Splash;Drama,Thriller;Tilda Swinton| Matthias Schoenaerts| Ralph Fiennes| Dakota Johnson
+843;Melancholia;Drama;Kirsten Dunst| Charlotte Gainsbourg| Kiefer Sutherland| Alexander Skarsgård
+844;The Princess and the Frog;Animation,Adventure,Comedy;Anika Noni Rose| Keith David| Oprah Winfrey| Bruno Campos
+845;Unstoppable;Action,Thriller;Denzel Washington| Chris Pine| Rosario Dawson| Ethan Suplee
+846;Flight;Drama,Thriller;Denzel Washington| Nadine Velazquez| Don Cheadle| John Goodman
+847;Home;Animation,Adventure,Comedy;Jim Parsons| Rihanna| Steve Martin| Jennifer Lopez
+848;La migliore offerta;Crime,Drama,Mystery;Geoffrey Rush| Jim Sturgess| Sylvia Hoeks|Donald Sutherland
+849;Mean Dreams;Thriller;Sophie Nélisse| Josh Wiggins| Joe Cobden| Bill Paxton
+850;42;Biography,Drama,Sport;Chadwick Boseman| T.R. Knight| Harrison Ford|Nicole Beharie
+851;21;Crime,Drama,Thriller;Jim Sturgess| Kate Bosworth| Kevin Spacey| Aaron Yoo
+852;Begin Again;Drama,Music;Keira Knightley| Mark Ruffalo| Adam Levine| Hailee Steinfeld
+853;Out of the Furnace;Crime,Drama,Thriller;Christian Bale| Casey Affleck| Zoe Saldana| Woody Harrelson
+854;Vicky Cristina Barcelona;Drama,Romance;Rebecca Hall| Scarlett Johansson| Javier Bardem|Christopher Evan Welch
+855;Kung Fu Panda;Animation,Action,Adventure;Jack Black| Ian McShane|Angelina Jolie| Dustin Hoffman
+856;Barbershop: The Next Cut;Comedy,Drama;Ice Cube| Regina Hall| Anthony Anderson| Eve
+857;Terminator Salvation;Action,Adventure,Drama;Christian Bale| Sam Worthington| Anton Yelchin| Moon Bloodgood
+858;Freedom Writers;Biography,Crime,Drama;Hilary Swank| Imelda Staunton| Patrick Dempsey| Scott Glenn
+859;The Hills Have Eyes;Horror;Ted Levine| Kathleen Quinlan| Dan Byrd| Emilie de Ravin
+860;Changeling;Biography,Drama,Mystery;Angelina Jolie| Colm Feore| Amy Ryan| Gattlin Griffith
+861;Remember Me;Drama,Romance;Robert Pattinson| Emilie de Ravin| Caitlyn Rund|Moisés Acevedo
+862;Koe no katachi;Animation,Drama,Romance;Miyu Irino| Saori Hayami| Aoi Yuki| Kenshô Ono
+863;Alexander and the Terrible, Horrible, No Good, Very Bad Day;Comedy,Family;Steve Carell| Jennifer Garner| Ed Oxenbould| Dylan Minnette
+864;Locke;Drama;Tom Hardy| Olivia Colman| Ruth Wilson| Andrew Scott
+865;The 9th Life of Louis Drax;Mystery,Thriller;Jamie Dornan| Aiden Longworth| Sarah Gadon|Aaron Paul
+866;Horns;Drama,Fantasy,Horror;Daniel Radcliffe| Juno Temple| Max Minghella| Joe Anderson
+867;Indignation;Drama,Romance;Logan Lerman| Sarah Gadon| Tijuana Ricks| Sue Dahlman
+868;The Stanford Prison Experiment;Biography,Drama,History;Ezra Miller| Tye Sheridan| Billy Crudup| Olivia Thirlby
+869;Diary of a Wimpy Kid: Rodrick Rules;Comedy,Family;Zachary Gordon| Devon Bostick| Robert Capron|Rachael Harris
+870;Mission: Impossible III;Action,Adventure,Thriller;Tom Cruise| Michelle Monaghan| Ving Rhames| Philip Seymour Hoffman
+871;En man som heter Ove;Comedy,Drama;Rolf Lassgård| Bahar Pars| Filip Berg| Ida Engvoll
+872;Dragonball Evolution;Action,Adventure,Fantasy;Justin Chatwin| James Marsters| Yun-Fat Chow| Emmy Rossum
+873;Red Dawn;Action,Thriller;Chris Hemsworth| Isabel Lucas| Josh Hutcherson| Josh Peck
+874;One Day;Drama,Romance;Anne Hathaway| Jim Sturgess| Patricia Clarkson|Tom Mison
+875;Life as We Know It;Comedy,Drama,Romance;Katherine Heigl| Josh Duhamel| Josh Lucas| Alexis Clagett
+876;28 Weeks Later;Drama,Horror,Sci-Fi;Jeremy Renner| Rose Byrne| Robert Carlyle| Harold Perrineau
+877;Warm Bodies;Comedy,Horror,Romance;Nicholas Hoult| Teresa Palmer| John Malkovich|Analeigh Tipton
+878;Blue Jasmine;Drama;Cate Blanchett| Alec Baldwin| Peter Sarsgaard| Sally Hawkins
+880;Wrath of the Titans;Action,Adventure,Fantasy;Sam Worthington| Liam Neeson| Rosamund Pike| Ralph Fiennes
+881;Shin Gojira;Action,Adventure,Drama;Hiroki Hasegawa| Yutaka Takenouchi|Satomi Ishihara| Ren Ôsugi
+882;Saving Mr. Banks;Biography,Comedy,Drama;Emma Thompson| Tom Hanks| Annie Rose Buckley| Colin Farrell
+883;Transcendence;Drama,Mystery,Romance;Johnny Depp| Rebecca Hall| Morgan Freeman| Cillian Murphy
+884;Rio;Animation,Adventure,Comedy;Jesse Eisenberg| Anne Hathaway| George Lopez|Karen Disher
+885;Equals;Drama,Romance,Sci-Fi;Nicholas Hoult| Kristen Stewart| Vernetta Lopez|Scott Lawrence
+886;Babel;Drama;Brad Pitt| Cate Blanchett| Gael García Bernal| Mohamed Akhzam
+887;The Tree of Life;Drama,Fantasy;Brad Pitt| Sean Penn| Jessica Chastain| Hunter McCracken
+888;The Lucky One;Drama,Romance;Zac Efron| Taylor Schilling| Blythe Danner| Riley Thomas Stewart
+889;Piranha 3D;Comedy,Horror,Thriller;Elisabeth Shue| Jerry O'Connell| Richard Dreyfuss|Ving Rhames
+890;50/50;Comedy,Drama,Romance;Joseph Gordon-Levitt| Seth Rogen| Anna Kendrick| Bryce Dallas Howard
+891;The Intent;Crime,Drama;Dylan Duffus| Scorcher|Shone Romulus| Jade Asha
+892;This Is 40;Comedy,Romance;Paul Rudd| Leslie Mann| Maude Apatow| Iris Apatow
+893;Real Steel;Action,Drama,Family;Hugh Jackman| Evangeline Lilly| Dakota Goyo|Anthony Mackie
+894;Sex and the City;Comedy,Drama,Romance;Sarah Jessica Parker| Kim Cattrall| Cynthia Nixon| Kristin Davis
+895;Rambo;Action,Thriller,War;Sylvester Stallone| Julie Benz| Matthew Marsden| Graham McTavish
+896;Planet Terror;Action,Comedy,Horror;Rose McGowan| Freddy Rodríguez| Josh Brolin|Marley Shelton
+897;Concussion;Biography,Drama,Sport;Will Smith| Alec Baldwin| Albert Brooks| David Morse
+898;The Fall;Adventure,Comedy,Drama;Lee Pace| Catinca Untaru| Justine Waddell| Kim Uylenbroek
+899;The Ugly Truth;Comedy,Romance;Katherine Heigl| Gerard Butler| Bree Turner| Eric Winter
+900;Bride Wars;Comedy,Romance;Kate Hudson| Anne Hathaway| Candice Bergen| Bryan Greenberg
+901;Sleeping with Other People;Comedy,Drama,Romance;Jason Sudeikis| Alison Brie| Jordan Carlos|Margarita Levieva
+902;Snakes on a Plane;Action,Adventure,Crime;Samuel L. Jackson| Julianna Margulies| Nathan Phillips| Rachel Blanchard
+903;What If;Comedy,Romance;Daniel Radcliffe| Zoe Kazan| Megan Park| Adam Driver
+904;How to Train Your Dragon 2;Animation,Action,Adventure;Jay Baruchel| Cate Blanchett| Gerard Butler| Craig Ferguson
+905;RoboCop;Action,Crime,Sci-Fi;Joel Kinnaman| Gary Oldman| Michael Keaton| Abbie Cornish
+906;In Dubious Battle;Drama;Nat Wolff| James Franco| Vincent D'Onofrio| Selena Gomez
+907;Hello, My Name Is Doris;Comedy,Drama,Romance;Sally Field| Max Greenfield| Tyne Daly| Wendi McLendon-Covey
+908;Ocean's Thirteen;Crime,Thriller;George Clooney| Brad Pitt| Matt Damon|Michael Mantell
+909;Slither;Comedy,Horror,Sci-Fi;Nathan Fillion| Elizabeth Banks| Michael Rooker| Don Thompson
+910;Contagion;Drama,Thriller;Matt Damon| Kate Winslet| Jude Law| Gwyneth Paltrow
+911;Il racconto dei racconti - Tale of Tales;Drama,Fantasy,Horror;Salma Hayek| Vincent Cassel| Toby Jones| John C. Reilly
+912;I Am the Pretty Thing That Lives in the House;Thriller;Ruth Wilson| Paula Prentiss| Lucy Boynton| Bob Balaban
+913;Bridge to Terabithia;Adventure,Drama,Family;Josh Hutcherson| AnnaSophia Robb| Zooey Deschanel| Robert Patrick
+914;Coherence;Mystery,Sci-Fi,Thriller;Emily Baldoni| Maury Sterling| Nicholas Brendon| Elizabeth Gracen
+915;Notorious;Biography,Crime,Drama;Jamal Woolard| Anthony Mackie| Derek Luke|Momo Dione
+916;Goksung;Drama,Fantasy,Horror;Jun Kunimura| Jung-min Hwang| Do-won Kwak| Woo-hee Chun
+917;The Expendables 2;Action,Adventure,Thriller;Sylvester Stallone| Liam Hemsworth| Randy Couture|Jean-Claude Van Damme
+918;The Girl Next Door;Crime,Drama,Horror;William Atherton| Blythe Auffarth| Blanche Baker|Kevin Chamberlin
+919;Perfume: The Story of a Murderer;Crime,Drama,Fantasy;Ben Whishaw| Dustin Hoffman| Alan Rickman|Francesc Albiol
+920;The Golden Compass;Adventure,Family,Fantasy;Nicole Kidman| Daniel Craig| Dakota Blue Richards| Ben Walker
+921;Centurion;Action,Adventure,Drama;Michael Fassbender| Dominic West| Olga Kurylenko|Andreas Wisniewski
+922;Scouts Guide to the Zombie Apocalypse;Action,Comedy,Horror;Tye Sheridan| Logan Miller| Joey Morgan|Sarah Dumont
+923;17 Again;Comedy,Drama,Family;Zac Efron| Matthew Perry| Leslie Mann| Thomas Lennon
+924;No Escape;Action,Thriller;Lake Bell| Pierce Brosnan| Owen Wilson|Chatchawai Kamonsakpitak
+925;Superman Returns;Action,Adventure,Sci-Fi;Brandon Routh| Kevin Spacey| Kate Bosworth| James Marsden
+926;The Twilight Saga: Breaking Dawn - Part 1;Adventure,Drama,Fantasy;Kristen Stewart| Robert Pattinson| Taylor Lautner| Gil Birmingham
+927;Precious;Drama;Gabourey Sidibe| Mo'Nique| Paula Patton| Mariah Carey
+928;The Sea of Trees;Drama;Matthew McConaughey| Naomi Watts| Ken Watanabe|Ryoko Seta
+929;Good Kids;Comedy;Zoey Deutch| Nicholas Braun| Mateo Arias| Israel Broussard
+930;The Master;Drama;Philip Seymour Hoffman| Joaquin Phoenix|Amy Adams| Jesse Plemons
+931;Footloose;Comedy,Drama,Music;Kenny Wormald| Julianne Hough| Dennis Quaid|Andie MacDowell
+932;If I Stay;Drama,Fantasy,Music;Chloë Grace Moretz| Mireille Enos| Jamie Blackley|Joshua Leonard
+933;The Ticket;Drama;Dan Stevens| Malin Akerman| Oliver Platt| Kerry Bishé
+934;Detour;Thriller;Tye Sheridan| Emory Cohen| Bel Powley|Stephen Moyer
+935;The Love Witch;Comedy,Horror;Samantha Robinson| Jeffrey Vincent Parise| Laura Waddell| Gian Keys
+936;Talladega Nights: The Ballad of Ricky Bobby;Action,Comedy,Sport;Will Ferrell| John C. Reilly| Sacha Baron Cohen| Gary Cole
+937;The Human Centipede (First Sequence);Horror;Dieter Laser| Ashley C. Williams| Ashlynn Yennie| Akihiro Kitamura
+938;Super;Comedy,Drama;Rainn Wilson| Ellen Page| Liv Tyler| Kevin Bacon
+939;The Siege of Jadotville;Action,Drama,Thriller;Jamie Dornan| Mark Strong| Jason O'Mara| Michael McElhatton
+940;Up in the Air;Drama,Romance;George Clooney| Vera Farmiga| Anna Kendrick|Jason Bateman
+941;The Midnight Meat Train;Horror,Mystery;Vinnie Jones| Bradley Cooper| Leslie Bibb| Brooke Shields
+942;The Twilight Saga: Eclipse;Adventure,Drama,Fantasy;Kristen Stewart| Robert Pattinson| Taylor Lautner|Xavier Samuel
+943;Transpecos;Thriller;Johnny Simmons| Gabriel Luna| Clifton Collins Jr.|David Acord
+944;What's Your Number?;Comedy,Romance;Anna Faris| Chris Evans| Ari Graynor| Blythe Danner
+945;Riddick;Action,Sci-Fi,Thriller;Vin Diesel| Karl Urban| Katee Sackhoff| Jordi Mollà
+946;Triangle;Fantasy,Mystery,Thriller;Melissa George| Joshua McIvor| Jack Taylor|Michael Dorman
+947;The Butler;Biography,Drama;Forest Whitaker| Oprah Winfrey| John Cusack| Jane Fonda
+948;King Cobra;Crime,Drama;Garrett Clayton| Christian Slater| Molly Ringwald|James Kelley
+949;After Earth;Action,Adventure,Sci-Fi;Jaden Smith| David Denman| Will Smith|Sophie Okonedo
+950;Kicks;Adventure;Jahking Guillory| Christopher Jordan Wallace|Christopher Meyer| Kofi Siriboe
+951;Me and Earl and the Dying Girl;Comedy,Drama;Thomas Mann| RJ Cyler| Olivia Cooke| Nick Offerman
+952;The Descendants;Comedy,Drama;George Clooney| Shailene Woodley| Amara Miller| Nick Krause
+953;Sex and the City 2;Comedy,Drama,Romance;Sarah Jessica Parker| Kim Cattrall| Kristin Davis| Cynthia Nixon
+954;The Kings of Summer;Adventure,Comedy,Drama;Nick Robinson| Gabriel Basso| Moises Arias|Nick Offerman
+955;Death Race;Action,Sci-Fi,Thriller;Jason Statham| Joan Allen| Tyrese Gibson| Ian McShane
+956;That Awkward Moment;Comedy,Romance;Zac Efron| Michael B. Jordan| Miles Teller| Imogen Poots
+957;Legion;Action,Fantasy,Horror;Paul Bettany| Dennis Quaid| Charles S. Dutton| Lucas Black
+958;End of Watch;Crime,Drama,Thriller;Jake Gyllenhaal| Michael Peña| Anna Kendrick| America Ferrera
+959;3 Days to Kill;Action,Drama,Thriller;Kevin Costner| Hailee Steinfeld| Connie Nielsen| Amber Heard
+960;Lucky Number Slevin;Crime,Drama,Mystery;Josh Hartnett| Ben Kingsley| Morgan Freeman| Lucy Liu
+961;Trance;Crime,Drama,Mystery;James McAvoy| Rosario Dawson| Vincent Cassel|Danny Sapani
+962;Into the Forest;Drama,Sci-Fi,Thriller;Ellen Page| Evan Rachel Wood| Max Minghella|Callum Keith Rennie
+963;The Other Boleyn Girl;Biography,Drama,History;Natalie Portman| Scarlett Johansson| Eric Bana|Jim Sturgess
+964;I Spit on Your Grave;Crime,Horror,Thriller;Sarah Butler| Jeff Branson| Andrew Howard|Daniel Franzese
+965;Custody;Drama;Viola Davis| Hayden Panettiere| Catalina Sandino Moreno| Ellen Burstyn
+966;Inland Empire;Drama,Mystery,Thriller;Laura Dern| Jeremy Irons| Justin Theroux| Karolina Gruszka
+967;L'odyssée;Adventure,Biography;Lambert Wilson| Pierre Niney| Audrey Tautou|Laurent Lucas
+968;The Walk;Adventure,Biography,Crime;Joseph Gordon-Levitt| Charlotte Le Bon|Guillaume Baillargeon| Émilie Leclerc
+969;Wrecker;Action,Horror,Thriller;Anna Hutchison| Andrea Whitburn| Jennifer Koenig|Michael Dickson
+970;The Lone Ranger;Action,Adventure,Western;Johnny Depp| Armie Hammer| William Fichtner|Tom Wilkinson
+972;Disturbia;Drama,Mystery,Thriller;Shia LaBeouf| David Morse| Carrie-Anne Moss| Sarah Roemer
+973;Rock of Ages;Comedy,Drama,Musical;Julianne Hough| Diego Boneta| Tom Cruise| Alec Baldwin
+974;Scream 4;Horror,Mystery;Neve Campbell| Courteney Cox| David Arquette| Lucy Hale
+975;Queen of Katwe;Biography,Drama,Sport;Madina Nalwanga| David Oyelowo| Lupita Nyong'o| Martin Kabanza
+976;My Big Fat Greek Wedding 2;Comedy,Family,Romance;Nia Vardalos| John Corbett| Michael Constantine| Lainie Kazan
+977;Dark Places;Drama,Mystery,Thriller;Charlize Theron| Nicholas Hoult| Christina Hendricks| Chloë Grace Moretz
+978;Amateur Night;Comedy;Jason Biggs| Janet Montgomery|Ashley Tisdale| Bria L. Murphy
+979;It's Only the End of the World;Drama;Nathalie Baye| Vincent Cassel| Marion Cotillard| Léa Seydoux
+980;The Skin I Live In;Drama,Thriller;Antonio Banderas| Elena Anaya| Jan Cornet|Marisa Paredes
+981;Miracles from Heaven;Biography,Drama,Family;Jennifer Garner| Kylie Rogers| Martin Henderson|Brighton Sharbino
+982;Annie;Comedy,Drama,Family;Quvenzhané Wallis| Cameron Diaz| Jamie Foxx| Rose Byrne
+983;Across the Universe;Drama,Fantasy,Musical;Evan Rachel Wood| Jim Sturgess| Joe Anderson| Dana Fuchs
+984;Let's Be Cops;Comedy;Jake Johnson| Damon Wayans Jr.| Rob Riggle| Nina Dobrev
+985;Max;Adventure,Family;Thomas Haden Church| Josh Wiggins| Luke Kleintank|Lauren Graham
+986;Your Highness;Adventure,Comedy,Fantasy;Danny McBride| Natalie Portman| James Franco| Rasmus Hardiker
+987;Final Destination 5;Horror,Thriller;Nicholas D'Agosto| Emma Bell| Arlen Escarpeta| Miles Fisher
+988;Endless Love;Drama,Romance;Gabriella Wilde| Alex Pettyfer| Bruce Greenwood|Robert Patrick
+989;Martyrs;Horror;Morjana Alaoui| Mylène Jampanoï| Catherine Bégin|Robert Toupin
+990;Selma;Biography,Drama,History;David Oyelowo| Carmen Ejogo| Tim Roth| Lorraine Toussaint
+991;Underworld: Rise of the Lycans;Action,Adventure,Fantasy;Rhona Mitra| Michael Sheen| Bill Nighy| Steven Mackintosh
+992;Taare Zameen Par;Drama,Family,Music;Darsheel Safary| Aamir Khan| Tanay Chheda| Sachet Engineer
+993;Take Me Home Tonight;Comedy,Drama,Romance;Topher Grace| Anna Faris| Dan Fogler| Teresa Palmer
+994;Resident Evil: Afterlife;Action,Adventure,Horror;Milla Jovovich| Ali Larter| Wentworth Miller|Kim Coates
+995;Project X;Comedy;Thomas Mann| Oliver Cooper| Jonathan Daniel Brown| Dax Flame
+996;Secret in Their Eyes;Crime,Drama,Mystery;Chiwetel Ejiofor| Nicole Kidman| Julia Roberts| Dean Norris
+997;Hostel: Part II;Horror;Lauren German| Heather Matarazzo| Bijou Phillips| Roger Bart
+998;Step Up 2: The Streets;Drama,Music,Romance;Robert Hoffman| Briana Evigan| Cassie Ventura| Adam G. Sevani
+999;Search Party;Adventure,Comedy;Adam Pally| T.J. Miller| Thomas Middleditch|Shannon Woodward
+1000;Nine Lives;Comedy,Family,Fantasy;Kevin Spacey| Jennifer Garner| Robbie Amell|Cheryl Hines

@@ -6,6 +6,14 @@
 package proyecto_pelicula;
 
 import Graph.GraphLA;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.Reader;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javafx.event.EventHandler;
 import javafx.geometry.Pos;
 import javafx.scene.control.Alert;
@@ -37,6 +45,7 @@ public class VentanaBacon {
     private HBox panel2;
     private VBox contenedor;
     public VentanaBacon(){
+        generargrafo();
         root= new BorderPane();
         titulo= new Label("The Oracle");
         primerNombre=new Label("Nombre del Primer Actor/Actriz");
@@ -80,6 +89,45 @@ public class VentanaBacon {
     
     public BorderPane getRoot() {
         return root;
+    }
+    public void generargrafo(){
+        FileReader fr=null;
+        try {
+            File file=new File("src/Posibles_DataSet/IMDB-Movie-Data.csv");
+            fr = new FileReader(file);
+            BufferedReader bf=new BufferedReader(fr);
+            bf.readLine();
+            String line=bf.readLine();
+            while(bf.ready()){
+                String[] lin=line.split(";");
+                String[] act=lin[3].split(",");               
+                for(String i: act){
+                    while(i.charAt(0)==' ' || i.charAt(i.length()-1)==' '){
+                        if(i.charAt(0)==' ')
+                            i=i.substring(1);
+                        if(i.charAt(i.length()-1)==' ')
+                            i=i.substring(0,i.length()-2);
+                    }
+                    grafo.addVertex(i);
+                }
+                for(String i: act)
+                    for(String i0: act)
+                        if(i!=i0)
+                            grafo.addEdge(i, i0, 1, lin[1]);
+            line=bf.readLine();
+            }
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(VentanaBacon.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IOException ex) {
+            Logger.getLogger(VentanaBacon.class.getName()).log(Level.SEVERE, null, ex);
+        } finally {
+            try {
+                fr.close();
+            } catch (IOException ex) {
+                Logger.getLogger(VentanaBacon.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+        
     }
     
     

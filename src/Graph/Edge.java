@@ -16,11 +16,21 @@ public class Edge<E> {
     private Vertex<E> origen;
     private Vertex<E> destino;
     private int peso;
+    private String peli;
 
-    public Edge(Vertex<E> origen, Vertex<E> destino, int peso) {
+    public Edge(Vertex<E> origen, Vertex<E> destino, int peso,String peli) {
         this.origen = origen;
         this.destino = destino;
         this.peso = peso;
+        this.peli=peli;
+    }
+
+    public String getPeli() {
+        return peli;
+    }
+
+    public void setPeli(String peli) {
+        this.peli = peli;
     }
 
     public Vertex<E> getOrigen() {

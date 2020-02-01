@@ -43,19 +43,19 @@ public class GraphLA<E> {
         
     }
     
-    public boolean addEdge(E origen,E destino,int peso){
+    public boolean addEdge(E origen,E destino,int peso,String str){
         if(origen==null||destino==null)
             return false;
         Vertex<E> vo= searchVertex(origen);
         Vertex<E> vd= searchVertex(destino);
         //PROBAR QUE LOS DATOS SE ENCUENTRAN EN EL GRAFO
         if(vo==null||vd==null)  return false;
-        Edge<E> e= new Edge<>(vo,vd,peso);
+        Edge<E> e= new Edge<>(vo,vd,peso,str);
         if(vo.getEdges().contains(e)) return false;
         vo.getEdges().add(e);
         //si no son grafos dirigidos
         if(!directed){
-            Edge<E> e1= new Edge<>(vd,vo,peso);
+            Edge<E> e1= new Edge<>(vd,vo,peso,str);
             //no se controla con un contains porque sino esta de un lado no deberia estar en otro. 
             vd.getEdges().add(e1);
         }
@@ -95,7 +95,7 @@ public class GraphLA<E> {
         return this.vertexes.remove(vertice);
     }
 
-    public boolean removeEdge(E origen,E destino){
+    public boolean removeEdge(E origen,E destino,String str){
         if(origen==null||destino==null)
             return false;
         //Vertice de origen
@@ -103,12 +103,12 @@ public class GraphLA<E> {
         //vertice de destino
         Vertex<E> vertex2= new Vertex<>(destino);
         
-        Edge<E> arco= new Edge<>(vertex1,vertex2,0);
+        Edge<E> arco= new Edge<>(vertex1,vertex2,0,str);
         vertex1.getEdges().remove(arco);
         
         //eliminar el  otro arco si no es dirigido
         if (!directed){
-            Edge<E> arcoOp= new Edge<>(vertex1,vertex2,0);
+            Edge<E> arcoOp= new Edge<>(vertex1,vertex2,0,str);
             vertex2.getEdges().remove(arcoOp);
         }
         return true;
