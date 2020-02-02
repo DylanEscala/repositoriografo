@@ -5,6 +5,7 @@
  */
 package proyecto_pelicula;
 
+import Graph.GraphLA;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
@@ -29,7 +30,6 @@ public class Proyecto_pelicula extends Application {
        primaryStage.setTitle("The Oracle");
        primaryStage.setScene(escena);
        primaryStage.show();
-       
        
     }
     

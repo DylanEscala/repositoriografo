@@ -48,6 +48,8 @@ public class VentanaBacon {
     private VBox contenedor;
     public VentanaBacon(){
         generargrafo();
+        GraphLA<String> graf=grafo.bfs1("Chris Pratt");
+
         root= new BorderPane();
         titulo= new Label("The Oracle");
         primerNombre=new Label("Nombre del Primer Actor/Actriz");
