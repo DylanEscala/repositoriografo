@@ -288,13 +288,14 @@ public class GraphLA<E> {
         }
         lista.add(v);
         graf.addVertex(inicio);
+        v.setVisited(true);
         for (int i = 0; i > vertexes.size(); i++) {
             Vertex<E> ve=lista.get(i);
                 for (Edge<E> e : ve.getEdges()) {
                     if (!e.getDestino().isVisited()) {
                         graf.addVertex(e.getDestino().getData());
                         lista.add(e.getDestino());
-                        graf.addEdge(inicio, e.getDestino().getData(), 1, e.getPeli());
+                        graf.addEdge(ve.getData(), e.getDestino().getData(), 1, e.getPeli());
                         e.getDestino().setVisited(true);
                     }
 
