@@ -5,7 +5,9 @@
  */
 package proyecto_pelicula;
 
+import Graph.Edge;
 import Graph.GraphLA;
+import Graph.Vertex;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -79,6 +81,19 @@ public class VentanaBacon {
                    Alert alerta= new Alert(AlertType.ERROR);
                    alerta.setHeaderText("Ingrese Nombres");
                    alerta.showAndWait();
+                }
+                else{
+                    grafo.Djikstra(new Vertex<String>(actor1.getText()));
+                    GraphLA<String> fin=grafo.bfs1(actor1.getText());
+                   /*
+                    for(Vertex<String> e: fin.getVertexes()){
+                        System.out.println(e.getData());
+                        for(Edge<String> x: e.getEdges()){
+                        
+                        System.out.println(x.getPeli());
+                    }
+                    }
+                    */
                 }
                 
             }

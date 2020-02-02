@@ -274,31 +274,18 @@ public class GraphLA<E> {
        lista.add(v);
        graf.addVertex(inicio);
        for(Vertex<E> ve:lista){
-           for(Edge<E> e:ve.getEdges())
+           for(Edge<E> e:ve.getEdges()){
                if(!e.getDestino().isVisited()){
                    graf.addVertex(e.getDestino().getData());
                    lista.add(e.getDestino());
                    graf.addEdge(inicio, e.getDestino().getData(), 1, e.getPeli());
                    e.getDestino().setVisited(true);
-               }                    
+               }
+           
        }
-                    
-                    
-//       Queue<Vertex<E>> cola = new LinkedList<>();
-//       v.setVisited(true);
-//       cola.offer(v);
-//       while (!cola.isEmpty()) {
-//           Vertex<E> vi = cola.poll();
-//           lista.add(vi.getData());
-//           for(Edge<E> e : vi.getEdges()){
-//               if(!e.getDestino().isVisited()){
-//                   e.getDestino().setVisited(true);
-//                   cola.offer(e.getDestino());  
-//                   } 
-//               }
-//           }
        cleanVertex();
-       return graf;
-   }
-    
+      
+       }return graf;
+    } 
 }
+    
