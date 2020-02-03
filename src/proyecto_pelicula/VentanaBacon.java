@@ -5,15 +5,15 @@
  */
 package proyecto_pelicula;
 
-import Graph.Edge;
 import Graph.GraphLA;
 import Graph.Vertex;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.Reader;
+import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javafx.event.EventHandler;
@@ -28,7 +28,11 @@ import javafx.scene.image.ImageView;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.HBox;
+import javafx.scene.layout.StackPane;
 import javafx.scene.layout.VBox;
+import javafx.scene.paint.Color;
+import javafx.scene.shape.Circle;
+import javafx.scene.shape.Rectangle;
 
 /**
  *
@@ -47,9 +51,6 @@ public class VentanaBacon {
     private HBox panel2;
     private VBox contenedor;
     public VentanaBacon(){
-        generargrafo();
-        GraphLA<String> graf=grafo.bfs1("Chris Pratt");
-
         root= new BorderPane();
         titulo= new Label("The Oracle");
         primerNombre=new Label("Nombre del Primer Actor/Actriz");
@@ -64,10 +65,31 @@ public class VentanaBacon {
     }
 
     public void iniciar(){
+        generargrafo();
+//        GraphLA<String> graf=grafo.bfs1("Vin Diesel");
+        List<Vertex<String>> list=grafo.caminoMinimo("Vin Diesel","Kevin Bacon");
+        VBox hb=new VBox();
+        for(Vertex<String> vert:list){
+            Circle circ=new Circle(20);
+            circ.setFill(Color.CADETBLUE);
+            Label la=new Label(vert.getData());
+            StackPane sp=new StackPane();
+            sp.getChildren().addAll(circ,la);
+            if(vert.getAntecesor()!=null){
+                Rectangle rect=new Rectangle(100, 20);
+                rect.setFill(Color.GOLDENROD);
+                Label peli=new Label(vert.getPeliantec());
+                StackPane sp0=new StackPane();
+                sp0.getChildren().addAll(rect,peli);
+                hb.getChildren().add(sp0);
+            }
+            hb.getChildren().add(sp);
+        }
+
         titulo.setAlignment(Pos.CENTER);
         panel.getChildren().addAll(primerNombre,actor1);
         panel2.getChildren().addAll(segundoNombre,actor2);
-        contenedor.getChildren().addAll(panel,panel2,find);
+        
         panel.setSpacing(34);
         panel2.setSpacing(20);
         contenedor.setSpacing(10);
@@ -85,8 +107,8 @@ public class VentanaBacon {
                    alerta.showAndWait();
                 }
                 else{
-                    grafo.Djikstra(new Vertex<String>(actor1.getText()));
-                    GraphLA<String> fin=grafo.bfs1(actor1.getText());
+//                    grafo.Djikstra(new Vertex<String>(actor1.getText()));
+//                    GraphLA<String> fin=grafo.bfs1(actor1.getText());
                    /*
                     for(Vertex<String> e: fin.getVertexes()){
                         System.out.println(e.getData());
@@ -100,7 +122,7 @@ public class VentanaBacon {
                 
             }
         });
-        
+        contenedor.getChildren().addAll(panel,panel2,find,hb);
         
     }
     
@@ -145,6 +167,7 @@ public class VentanaBacon {
         }
         
     }
+    
     
     
     

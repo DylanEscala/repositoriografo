@@ -219,6 +219,7 @@ public class GraphLA<E> {
                     if (des.getDistancia() > u.getDistancia() + arco.getPeso()) {
                         des.setDistancia(u.getDistancia() + arco.getPeso());
                         des.setAntecesor(u);
+                        des.setPeliantec(arco.getPeli());
                         cola.offer(des);
                     }
                 }
@@ -256,8 +257,8 @@ public class GraphLA<E> {
 
     }
 
-    public List<E> caminoMinimo(E origen, E destino) {
-        List<E> l = new LinkedList<>();
+    public List<Vertex<E>> caminoMinimo(E origen, E destino) {
+        List<Vertex<E>> l = new LinkedList<>();
         Vertex<E> vo = this.searchVertex(origen);
         Vertex<E> vd = this.searchVertex(destino);
         if (vo == null || vd == null) {
@@ -274,35 +275,36 @@ public class GraphLA<E> {
             tmp = tmp.getAntecesor();
         }
         while (!pila.isEmpty()) {
-            l.add(pila.pop().getData());
+            l.add(pila.pop());
         }
         return l;
     }
 
-    public GraphLA<E> bfs1(E inicio) {
-        GraphLA<E> graf = new GraphLA<>(true);
-        List<Vertex<E>> lista = new ArrayList<>();
-        Vertex<E> v = searchVertex(inicio);
-        if (v == null || this.isEmpty()) {
-            return graf;
-        }
-        lista.add(v);
-        graf.addVertex(inicio);
-        v.setVisited(true);
-        for (int i = 0; i > vertexes.size(); i++) {
-            Vertex<E> ve=lista.get(i);
-                for (Edge<E> e : ve.getEdges()) {
-                    if (!e.getDestino().isVisited()) {
-                        graf.addVertex(e.getDestino().getData());
-                        lista.add(e.getDestino());
-                        graf.addEdge(ve.getData(), e.getDestino().getData(), 1, e.getPeli());
-                        e.getDestino().setVisited(true);
-                    }
-
-                
-            }}
-                cleanVertex();
-
-                return graf;
-            }
-        }
+//    public GraphLA<E> bfs1(E inicio) {
+//        GraphLA<E> graf = new GraphLA<>(true);
+//        List<Vertex<E>> lista = new ArrayList<>();
+//        Vertex<E> v = searchVertex(inicio);
+//        if (v == null || this.isEmpty()) {
+//            System.out.println("nohaygrafo");
+//            return graf;
+//        }
+//        lista.add(v);
+//        graf.addVertex(inicio);
+//        v.setVisited(true);
+//        for (int i = 0; i < vertexes.size(); i++) {
+//            Vertex<E> ve = lista.get(i);
+//            for (Edge<E> e : ve.getEdges()) {
+//                if (!e.getDestino().isVisited()) {
+//                    graf.addVertex(e.getDestino().getData());
+//                    lista.add(e.getDestino());
+//                    graf.addEdge(ve.getData(), e.getDestino().getData(), 1, e.getPeli());
+//                    e.getDestino().setVisited(true);
+//                }
+//
+//            }
+//        }
+//        cleanVertex();
+//
+//        return graf;
+//    }
+}

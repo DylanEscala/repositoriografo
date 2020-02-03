@@ -20,6 +20,7 @@ public class Vertex<E> {
     private boolean visited;
     private int distancia;
     private Vertex<E> antecesor;
+    private String peliantec;
     
     public Vertex(E data){
         this.data=data;
@@ -92,6 +93,14 @@ public class Vertex<E> {
 
     public void setAntecesor(Vertex<E> antecesor) {
         this.antecesor = antecesor;
+    }
+
+    public String getPeliantec() {
+        return peliantec;
+    }
+
+    public void setPeliantec(String peliantec) {
+        this.peliantec = peliantec;
     }
     
     
