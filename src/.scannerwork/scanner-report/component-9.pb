@@ -1,1 +1,0 @@
-	 2javaXChr'proyecto_pelicula/VentanaPrincipal.java

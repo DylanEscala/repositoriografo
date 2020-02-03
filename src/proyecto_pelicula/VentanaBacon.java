@@ -163,12 +163,10 @@ public class VentanaBacon {
         }
 
         */
-        FileReader fr=null;
-        BufferedReader bf=null;
-        try {
-            File file=new File("src/Posibles_DataSet/IMDB-Movie-Data.csv");
-            fr = new FileReader(file);
-            bf=new BufferedReader(fr);
+        File file=new File("src/Posibles_DataSet/IMDB-Movie-Data.csv");
+        try (BufferedReader bf=new BufferedReader(new FileReader(file));){
+            
+            
             String line=bf.readLine();
             while(bf.ready()){
                 String[] lin=line.split(";");
@@ -187,19 +185,13 @@ public class VentanaBacon {
                         grafo.addEdge(act[i], act[i0], 1, lin[1]);
             line=bf.readLine();
             }
-            
+            bf.close();
         } catch (FileNotFoundException ex) {
             Logger.getLogger(VentanaBacon.class.getName()).log(Level.SEVERE, null, ex);
         } catch (IOException ex) {
             Logger.getLogger(VentanaBacon.class.getName()).log(Level.SEVERE, null, ex);
-        } finally {
-            try {
-                
-                fr.close();
-                bf.close();
-            } catch (IOException ex) {
-                Logger.getLogger(VentanaBacon.class.getName()).log(Level.SEVERE, null, ex);
-            }
+        }finally{
+            
         }
     
     

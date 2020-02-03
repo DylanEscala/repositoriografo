@@ -1,6 +1,6 @@
-projectKey=mmacia2019:Proyecto_Grafo
-serverUrl=http://200.9.176.59:9000
-serverVersion=7.7.0.23042
-dashboardUrl=http://200.9.176.59:9000/dashboard?id=mmacia2019%3AProyecto_Grafo
-ceTaskId=AXAIw3b-vXyWqgoFqhMJ
-ceTaskUrl=http://200.9.176.59:9000/api/ce/task?id=AXAIw3b-vXyWqgoFqhMJ
+projectKey=descal2019:proyecto_grafo
+serverUrl=http://localhost:9000
+serverVersion=6.7.7.38951
+dashboardUrl=http://localhost:9000/dashboard/index/descal2019:proyecto_grafo
+ceTaskId=AXAI25iyV13hUyZx1n7z
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXAI25iyV13hUyZx1n7z
