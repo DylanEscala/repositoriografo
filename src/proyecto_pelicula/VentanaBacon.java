@@ -67,6 +67,7 @@ public class VentanaBacon {
     public void iniciar(){
         generargrafo();
 //        GraphLA<String> graf=grafo.bfs1("Vin Diesel");
+        /*
         List<Vertex<String>> list=grafo.caminoMinimo("Vin Diesel","Kevin Bacon");
         VBox hb=new VBox();
         for(Vertex<String> vert:list){
@@ -85,7 +86,7 @@ public class VentanaBacon {
             }
             hb.getChildren().add(sp);
         }
-
+        */
         titulo.setAlignment(Pos.CENTER);
         panel.getChildren().addAll(primerNombre,actor1);
         panel2.getChildren().addAll(segundoNombre,actor2);
@@ -97,7 +98,7 @@ public class VentanaBacon {
         
         root.setTop(titulo);
         root.setLeft(contenedor);
-        
+        VBox hb=new VBox();
         find.setOnMouseClicked(new EventHandler<MouseEvent>() {
             @Override
             public void handle(MouseEvent event) {
@@ -107,19 +108,29 @@ public class VentanaBacon {
                    alerta.showAndWait();
                 }
                 else{
-//                    grafo.Djikstra(new Vertex<String>(actor1.getText()));
-//                    GraphLA<String> fin=grafo.bfs1(actor1.getText());
-                   /*
-                    for(Vertex<String> e: fin.getVertexes()){
-                        System.out.println(e.getData());
-                        for(Edge<String> x: e.getEdges()){
+                    hb.getChildren().removeAll();
+                    List<Vertex<String>> list=grafo.caminoMinimo(actor1.getText(),actor2.getText());
+                    for(Vertex<String> vert:list){
+                        Circle circ=new Circle(30);
+                        circ.setFill(Color.BURLYWOOD);
+                        Label la=new Label(vert.getData());
+                        StackPane sp=new StackPane();
                         
-                        System.out.println(x.getPeli());
+                        sp.getChildren().addAll(circ,la);
+                        if(vert.getAntecesor()!=null){
+                            Rectangle rect=new Rectangle(150, 30);
+                            rect.setFill(Color.GOLDENROD);
+                            Label peli=new Label(vert.getPeliantec());
+                            StackPane sp0=new StackPane();
+                            sp0.getChildren().addAll(rect,peli);
+                            hb.getChildren().add(sp0);
+                        }
+                        hb.getChildren().add(sp);
+                        
                     }
-                    }
-                    */
+                    
+                    
                 }
-                
             }
         });
         contenedor.getChildren().addAll(panel,panel2,find,hb);
