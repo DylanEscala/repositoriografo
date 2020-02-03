@@ -16,6 +16,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javafx.application.Platform;
 import javafx.event.EventHandler;
 import javafx.geometry.Pos;
 import javafx.scene.control.Alert;
@@ -108,7 +109,7 @@ public class VentanaBacon {
                    alerta.showAndWait();
                 }
                 else{
-                    hb.getChildren().removeAll();
+                    hb.getChildren().clear();
                     List<Vertex<String>> list=grafo.caminoMinimo(actor1.getText(),actor2.getText());
                     for(Vertex<String> vert:list){
                         Circle circ=new Circle(30);
